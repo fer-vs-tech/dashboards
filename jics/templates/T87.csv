@@ -1,0 +1,19 @@
+﻿,,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,A,B
+エクスポージャー,エクスポージャー,欧州経済領域（EEA） およびスイス,米国およびカナダ,中国,日本,その他先進国市場,その他新興市場,合計,,
+,T85,[1],[2],[3],[4],[5],[6],[7],,
+グロス収入保険料,[1],Opr_P_EEA_CHE,Opr_P_USA_CAN,Opr_P_CHN,Opr_P_JPN,Opr_P_DM,Opr_P_EM,Opr_P,,
+    損害保険,[2],Opr_P_NL_EEA_CHE,Opr_P_NL_USA_CAN,Opr_P_NL_CHN,Opr_P_NL_JPN,Opr_P_NL_DM,Opr_P_NL_EM,Opr_P_NL,,
+    生命保険（有リスク）,[3],Opr_P_L_Risk_EEA_CHE,Opr_P_L_Risk_USA_CAN,Opr_P_L_Risk_CHN,Opr_P_L_Risk_JPN,Opr_P_L_Risk_DM,Opr_P_L_Risk_EM,Opr_P_L_Risk,,
+    生命保険（無リスク）,[4],Opr_P_L_NonRisk_EEA_CHE,Opr_P_L_NonRisk_USA_CAN,Opr_P_L_NonRisk_CHN,Opr_P_L_NonRisk_JPN,Opr_P_L_NonRisk_DM,Opr_P_L_NonRisk_EM,Opr_P_L_NonRisk,,
+前年度のグロス収入保険料,[5],Opr_P_PrevY_EEA_CHE,Opr_P_PrevY_USA_CAN,Opr_P_PrevY_CHN,Opr_P_PrevY_JPN,Opr_P_PrevY_DM,Opr_P_PrevY_EM,Opr_P_PrevY,,
+    損害保険,[6],Opr_P_PrevY_NL_EEA_CHE,Opr_P_PrevY_NL_USA_CAN,Opr_P_PrevY_NL_CHN,Opr_P_PrevY_NL_JPN,Opr_P_PrevY_NL_DM,Opr_P_PrevY_NL_EM,Opr_P_PrevY_NL,,
+    生命保険（有リスク）,[7],Opr_P_PrevY_L_Risk_EEA_CHE,Opr_P_PrevY_L_Risk_USA_CAN,Opr_P_PrevY_L_Risk_CHN,Opr_P_PrevY_L_Risk_JPN,Opr_P_PrevY_L_Risk_DM,Opr_P_PrevY_L_Risk_EM,Opr_P_PrevY_L_Risk,,
+    生命保険（無リスク）,[8],Opr_P_PrevY_L_NonRisk_EEA_CHE,Opr_P_PrevY_L_NonRisk_USA_CAN,Opr_P_PrevY_L_NonRisk_CHN,Opr_P_PrevY_L_NonRisk_JPN,Opr_P_PrevY_L_NonRisk_DM,Opr_P_PrevY_L_NonRisk_EM,Opr_P_PrevY_L_NonRisk,,
+グロス収入保険料の前年度からの増加額のうち閾値を超過した額,[9],,,,,,,,,閾値
+    損害保険,[10],Opr_Growth_NL_EEA_CHE,Opr_Growth_NL_USA_CAN,Opr_Growth_NL_CHN,Opr_Growth_NL_JPN,Opr_Growth_NL_DM,Opr_Growth_NL_EM,Opr_Growth_NL,,Opr_Threshold
+    生命保険（有リスク）,[11],Opr_Growth_L_Risk_EEA_CHE,Opr_Growth_L_Risk_USA_CAN,Opr_Growth_L_Risk_CHN,Opr_Growth_L_Risk_JPN,Opr_Growth_L_Risk_DM,Opr_Growth_L_Risk_EM,Opr_Growth_L_Risk,,
+    生命保険（無リスク）,[12],,,,,,,,チェック,
+グロス現在推計,[13],Opr_Liab_EEA_CHE,Opr_Liab_USA_CAN,Opr_Liab_CHN,Opr_Liab_JPN,Opr_Liab_DM,Opr_Liab_EM,Opr_Liab,,
+    損害保険,[14],Opr_Liab_NL_EEA_CHE,Opr_Liab_NL_USA_CAN,Opr_Liab_NL_CHN,Opr_Liab_NL_JPN,Opr_Liab_NL_DM,Opr_Liab_NL_EM,Opr_Liab_NL,,
+    生命保険（有リスク）,[15],Opr_Liab_L_Risk_EEA_CHE,Opr_Liab_L_Risk_USA_CAN,Opr_Liab_L_Risk_CHN,Opr_Liab_L_Risk_JPN,Opr_Liab_L_Risk_DM,Opr_Liab_L_Risk_EM,Opr_Liab_L_Risk,,
+    生命保険（無リスク）,[16],Opr_Liab_L_NonRisk_EEA_CHE,Opr_Liab_L_NonRisk_USA_CAN,Opr_Liab_L_NonRisk_CHN,Opr_Liab_L_NonRisk_JPN,Opr_Liab_L_NonRisk_DM,Opr_Liab_L_NonRisk_EM,Opr_Liab_L_NonRisk,,

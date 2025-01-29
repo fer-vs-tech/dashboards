@@ -1,0 +1,11 @@
+﻿,当期
+计入损益(P&L)的金额,OCI_to_PL
+净投资收益-(UI),
+净投资收益-(NUI),
+承保财务损失,OCI_Financial_Loss
+计入其他综合收益(OCI)的金额,OCI_to_OCI
+净投资收益-(UI),
+净投资收益-(NUI),
+不能转损益的保险合同金融变动,OCI_Non_Trans_PL
+可转损益的保险合同金融变动,OCI_Trans_PL
+总计,OCI_Total

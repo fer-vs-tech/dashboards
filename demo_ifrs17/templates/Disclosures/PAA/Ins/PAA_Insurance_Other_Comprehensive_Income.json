@@ -1,0 +1,162 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Statement of Other Comprehensive Income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Debt instruments at fair value through other comprehensive income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Change in fair value of financial assets",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amount reclassified to profit or loss",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Net insurance financial result",
+        "Reference": "PAA_D.OCI.2.1|PAA_D.OCI.2.2",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.1",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses",
+        "Reference": "PAA_D.OCI.2.1.1|PAA_D.OCI.2.1.2|PAA_D.OCI.2.1.3|PAA_D.OCI.2.1.4",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.1.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amount recognised in OCI - DiscCF",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.1.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amount recognised in OCI - RA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.1.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amount recognised in OCI - LIC DiscCF",
+        "Reference": "PAA.LICDCF.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.1.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amount recognised in OCI - LIC RA",
+        "Reference": "PAA.LICRA.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance finance income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.2.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amount recognised in OCI - DiscCF",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.2.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amount recognised in OCI - RA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.2.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amount recognised in OCI - LIC DiscCF",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.2.2.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amount recognised in OCI - LIC RA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.OCI.3",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL GROSS COMPREHENSIVE INCOME",
+        "Reference": "PAA_D.OCI.1|PAA_D.OCI.2",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

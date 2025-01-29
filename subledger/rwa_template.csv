@@ -1,0 +1,7 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+RWA,1,,Initial recognition for new businesses written,BEL_Initial_Recognition_REINS_RWA_Proc,BEL_Initial_Recognition_REINS_RWA_Proc,BEL New Biz_REINS,NB,Dr
+,1,,during current cohort period,RA_Initial_Recognition_REINS_RWA_Proc,RA_Initial_Recognition_REINS_RWA_Proc,RA New Biz_REINS,NB,Dr
+,1,,,Initial_CSM_REINS_RWA_Proc,Initial_CSM_REINS_RWA_Proc,CSM New Biz_REINS,NB,Dr
+,1,1,,Credit_Loss_BEL_REINS_RWA_Proc,Credit_Loss_BEL_REINS_RWA_Proc,Credit Loss BEL New Biz_REINS,NB,Cr
+,0,,Creation of CSM suspense account ,Initial_CSM_REINS_RWA_Proc,Initial_CSM_REINS_RWA_Proc,CSM New Biz_REINS,NB,Cr
+,0,2,for new businesses,CSM_REINS_Suspense_account_value,,(Sus) CSM New Biz_REINS,NB,Dr

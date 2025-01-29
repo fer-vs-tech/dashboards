@@ -1,0 +1,7 @@
+﻿format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,,Writing revenue of the BEL difference amount,BEL_Difference_Vol_Adj_SM_Proc,BEL_Difference_Vol_Adj_SM_Proc,BEL_New_Biz_PAA,NB,Dr
+1,1,after volume adjustment at the subsequent measure,BEL_Difference_Vol_Adj_SM_Proc_PAA,,Insurance_Revenue_New_Biz_PAA,NB,Cr
+,,Writing expense for the amortized amount of DAC,Amortization_Amount_DAC_SM_Proc,Amortization_Amount_DAC_SM_Proc,Insurance_Expense_New_Biz_PAA,NB,Dr
+,1,,Amortization_Amount_DAC_SM_Proc_PAA,,BEL_New_Biz_PAA,NB,Cr
+1,,Writing revenue for the recognized insurance,Recognized_Ins_Revenue_SM_Proc,Recognized_Ins_Revenue_SM_Proc,BEL_New_Biz_PAA,NB,Dr
+1,1, service for the term,Recognized_Ins_Revenue_SM_Proc_PAA,,Insurance_Revenue_New_Biz_PAA,NB,Cr

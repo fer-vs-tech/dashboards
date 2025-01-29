@@ -1,0 +1,292 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Reconciliation A: LRC & LIC for Reinsurance Contracts",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Reinsurance Contract Liability A",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "ReBBA_D.LRC_A.1|ReBBA_D.LC_A.1|ReBBA_D.LR_A.1|ReBBA_D.LIC_A.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract assets",
+        "Reference": "ReBBA_D.LRC_A.1.1|ReBBA_D.LC_A.1.1|ReBBA_D.LR_A.1.1|ReBBA_D.LIC_A.1.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract liabilities",
+        "Reference": "ReBBA_D.LRC_A.1.2|ReBBA_D.LC_A.1.2|ReBBA_D.LR_A.1.2|ReBBA_D.LIC_A.1.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "ReBBA.ICL.2|ReBBA.ICL.3minusReBBA.LC.3",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "ReBBA_D.ICL_A.3.1|ReBBA_D.ICL_A.3.2|ReBBA_D.ICL_A.3.3|ReBBA_D.ICL_A.3.4|ReBBA_D.ICL_A.3.5|ReBBA_D.ICL_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance revenue",
+        "Reference": "ReBBA_D.LRC_A.3.1|ReBBA_D.LC_A.3.1|ReBBA_D.LR_A.3.1|ReBBA_D.LIC_A.3.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Reinsurance service expenses",
+        "Reference": "ReBBA_D.ICL_A.3.2.1|ReBBA_D.ICL_A.3.2.2|ReBBA_D.ICL_A.3.2.3|ReBBA_D.ICL_A.3.2.4|ReBBA_D.ICL_A.3.2.5|ReBBA_D.ICL_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "ReBBA_D.LRC_A.3.2.1|ReBBA_D.LC_A.3.2.1|ReBBA_D.LR_A.3.2.1|ReBBA_D.LIC_A.3.2.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "ReBBA_D.LRC_A.3.2.2|ReBBA_D.LC_A.3.2.2|ReBBA_D.LR_A.3.2.2|ReBBA_D.LIC_A.3.2.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "ReBBA_D.LRC_A.3.2.3|ReBBA_D.LC_A.3.2.3|ReBBA_D.LR_A.3.2.3|ReBBA_D.LIC_A.3.2.3",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "ReBBA_D.LRC_A.3.2.4|ReBBA_D.LC_A.3.2.4|ReBBA_D.LR_A.3.2.4|ReBBA_D.LIC_A.3.2.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "ReBBA_D.LRC_A.3.2.5|ReBBA_D.LC_A.3.2.5|ReBBA_D.LR_A.3.2.5|ReBBA_D.LIC_A.3.2.5",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.2.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "ReBBA_D.LRC_A.3.2.6|ReBBA_D.LC_A.3.2.6|ReBBA_D.LR_A.3.2.6|ReBBA_D.LIC_A.3.2.6",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through profit and loss",
+        "Reference": "ReBBA_D.LRC_A.3.3|ReBBA_D.LC_A.3.3|ReBBA_D.LR_A.3.3|ReBBA_D.LIC_A.3.3",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through OCI",
+        "Reference": "ReBBA_D.LRC_A.3.4|ReBBA_D.LC_A.3.4|ReBBA_D.LR_A.3.4|ReBBA_D.LIC_A.3.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "ReBBA_D.LRC_A.3.5|ReBBA_D.LC_A.3.5|ReBBA_D.LR_A.3.5|ReBBA_D.LIC_A.3.5",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.3.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Investment components",
+        "Reference": "ReBBA_D.LRC_A.3.6|ReBBA_D.LC_A.3.6|ReBBA_D.LR_A.3.6|ReBBA_D.LIC_A.3.6",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "ReBBA_D.ICL_A.4.1|ReBBA_D.ICL_A.4.2|ReBBA_D.ICL_A.4.3|ReBBA_D.ICL_A.4.4|ReBBA_D.ICL_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Premiums received",
+        "Reference": "ReBBA_D.LRC_A.4.1|ReBBA_D.LC_A.4.1|ReBBA_D.LR_A.4.1|ReBBA_D.LIC_A.4.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Commission received from reinsurer",
+        "Reference": "ReBBA_D.LRC_A.4.2|ReBBA_D.LC_A.4.2|ReBBA_D.LR_A.4.2|ReBBA_D.LIC_A.4.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Claims paid",
+        "Reference": "ReBBA_D.LRC_A.4.3|ReBBA_D.LC_A.4.3|ReBBA_D.LR_A.4.3|ReBBA_D.LIC_A.4.3",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "ReBBA_D.LRC_A.4.4|ReBBA_D.LC_A.4.4|ReBBA_D.LR_A.4.4|ReBBA_D.LIC_A.4.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.4.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "ReBBA.ICL.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract assets",
+        "Reference": "ReBBA_D.LRC_A.5.1|ReBBA_D.LC_A.5.1|ReBBA_D.LR_A.5.1|ReBBA_D.LIC_A.5.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.5.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract liabilities",
+        "Reference": "ReBBA_D.LRC_A.5.2|ReBBA_D.LC_A.5.2|ReBBA_D.LR_A.5.2|ReBBA_D.LIC_A.5.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.ICL_A.6",
+        "Level": "",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "ReBBA_D.ICL_A.4|ReBBA_D.ICL_A.3|ReBBA_D.ICL_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

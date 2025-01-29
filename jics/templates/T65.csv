@@ -1,0 +1,5 @@
+﻿,,,,,d,f,,不動産の閾値,,,リスク係数,,,
+,,,,,Equity_Credit_Risk_Factor,Conc_excl_RE_bef_Limit_Factor,,Conc_Threshold_RE,,,Conc_Real_Estate_Factor,,,
+所要資本の要約,所要資本の要約,,株式リスクの 所要資本,信用リスクの 所要資本,d・株式リスク+信用リスク,所要資本（上限適用前、不動産以外）,所要資本 （不動産以外）,不動産の閾値,閾値を超える 不動産の数,閾値を超える不動産エクスポージャー,所要資本 （不動産）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T65,[1],[2],[3],[4],[5],[6],[7],[8],[9],[10= 9*factor],[11=6+10],[12],[13=11-12]
+資産集中リスク,[1],,RC_Conc_Equity,RC_Conc_Credit,RC_Equity_Credit_Risk,RC_Conc_excl_RE_bef_Limit,RC_Conc_excl_RE,RC_Conc_Threshold_RE,Num_of_RE_Exceeding_Threshold,Amt_of_RE_Exceeding_Threshold,RC_Conc_Real_Estate,RC_Conc_wo_MA,MA_Effect_RC_Conc,RC_Conc

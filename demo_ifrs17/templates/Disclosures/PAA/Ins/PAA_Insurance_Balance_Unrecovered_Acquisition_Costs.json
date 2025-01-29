@@ -1,0 +1,62 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Balance of Unrecovered Acquisition Costs",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.DAC.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Opening balance",
+        "Reference": "PAA.MISC.1.24",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.DAC.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "New acquisition CF",
+        "Reference": "PAA.MISC.1.26minusPAA.MISC.1.25",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.DAC.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Recovery of costs",
+        "Reference": "-PAA.ICL.5.10",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.DAC.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Increase in DAC",
+        "Reference": "PAA.MISC.1.22",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.DAC.3",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Closing balance",
+        "Reference": "PAA_D.DAC.2|PAA_D.DAC.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

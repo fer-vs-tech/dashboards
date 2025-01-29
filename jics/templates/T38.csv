@@ -1,0 +1,19 @@
+﻿その他先進国市場,その他先進国市場,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）,採用された ストレス
+,T38,[1],[2],[3=1-2],[4],[5=3-4],[6]
+商品区分合計,[1],,,dNAV_Morb_DM_wo_MA,MA_Effect_Morb_DM,dNAV_Morb_DM,
+    商品区分1：医療費補償,[2],,,dNAV_Morb1_DM_wo_MA,MA_Effect_Morb1_DM,dNAV_Morb1_DM,
+        保障期間：短期,[3],NAV_Morb_Base1_S_DM,NAV_Morb1_S_DM_wo_MA,dNAV_Morb1_S_DM_wo_MA,MA_Effect_Morb1_S_DM,dNAV_Morb1_S_DM,
+        保障期間：長期,[4],NAV_Morb_Base1_L_DM,NAV_Morb1_L_DM_wo_MA,dNAV_Morb1_L_DM_wo_MA,MA_Effect_Morb1_L_DM,dNAV_Morb1_L_DM,
+    商品区分2：健康事象発現時の一時金,[5],,,dNAV_Morb2_DM_wo_MA,MA_Effect_Morb2_DM,dNAV_Morb2_DM,
+        保障期間：短期,[6],NAV_Morb_Base2_S_DM,NAV_Morb2_S_DM_wo_MA,dNAV_Morb2_S_DM_wo_MA,MA_Effect_Morb2_S_DM,dNAV_Morb2_S_DM,
+        保障期間：長期,[7],NAV_Morb_Base2_L_DM,NAV_Morb2_L_DM_wo_MA,dNAV_Morb2_L_DM_wo_MA,MA_Effect_Morb2_L_DM,dNAV_Morb2_L_DM,
+    商品区分3：短期定期的給付,[8],,,dNAV_Morb3_DM_wo_MA,MA_Effect_Morb3_DM,dNAV_Morb3_DM,
+        保障期間：短期,[9],NAV_Morb_Base3_S_DM,NAV_Morb3_S_DM_wo_MA,dNAV_Morb3_S_DM_wo_MA,MA_Effect_Morb3_S_DM,dNAV_Morb3_S_DM,
+        保障期間：長期,[10],NAV_Morb_Base3_L_DM,NAV_Morb3_L_DM_wo_MA,dNAV_Morb3_L_DM_wo_MA,MA_Effect_Morb3_L_DM,dNAV_Morb3_L_DM,
+    商品区分4：長期定期的給付,[11],,,dNAV_Morb4_DM_wo_MA,MA_Effect_Morb4_DM,dNAV_Morb4_DM,
+        保障期間：短期,[12],NAV_Morb_Base4_S_DM,NAV_Morb4_S_DM_wo_MA,dNAV_Morb4_S_DM_wo_MA,MA_Effect_Morb4_S_DM,dNAV_Morb4_S_DM,Scenario_Morb4_S_DM
+            発生率に対するストレス,[13],NAV_Morb_Base4_S_DM,NAV_Morb4_S_Inc_DM_wo_MA,dNAV_Morb4_S_Inc_DM_wo_MA,MA_Effect_Morb4_S_Inc_DM,dNAV_Morb4_S_Inc_DM,
+            回復率に対するストレス,[14],NAV_Morb_Base4_S_DM,NAV_Morb4_S_Rec_DM_wo_MA,dNAV_Morb4_S_Rec_DM_wo_MA,MA_Effect_Morb4_S_Rec_DM,dNAV_Morb4_S_Rec_DM,
+        保障期間：長期,[15],NAV_Morb_Base4_L_DM,NAV_Morb4_L_DM_wo_MA,dNAV_Morb4_L_DM_wo_MA,MA_Effect_Morb4_L_DM,dNAV_Morb4_L_DM,Scenario_Morb4_L_DM
+            発生率に対するストレス,[16],NAV_Morb_Base4_L_DM,NAV_Morb4_L_Inc_DM_wo_MA,dNAV_Morb4_L_Inc_DM_wo_MA,MA_Effect_Morb4_L_Inc_DM,dNAV_Morb4_L_Inc_DM,
+            回復率に対するストレス,[17],NAV_Morb_Base4_L_DM,NAV_Morb4_L_Rec_DM_wo_MA,dNAV_Morb4_L_Rec_DM_wo_MA,MA_Effect_Morb4_L_Rec_DM,dNAV_Morb4_L_Rec_DM,

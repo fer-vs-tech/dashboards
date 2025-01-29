@@ -1,0 +1,33 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+QDP,1,,Writing CSM/expense of the amount of BEL,Initial_BEL_Loss_QDP_Proc,Initial_BEL_Loss_QDP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,and RA after volume adjustment based on,Writing_Expense_BEL_Loss_INIT_EIR_QDP,,Interest Expense New Biz-BEL,NB,Cr
+,1,, initial EIR,Initial_BEL_Other_QDP_Proc,Initial_BEL_Other_QDP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,,,Writing_Expense_BEL_Other_INIT_EIR_QDP,,Interest Expense New Biz-BEL,NB,Cr
+,1,,,Initial_RA_Loss_QDP_Proc,Initial_RA_Loss_QDP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,,Writing_Expense_RA_Loss_INIT_EIR_QDP,,Interest Expense New Biz-RA,NB,Cr
+,1,,,Initial_RA_Other_QDP_Proc,Initial_RA_Other_QDP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,1,,Writing_Expense_RA_Other_INIT_EIR_QDP,,Interest Expense New Biz-RA,NB,Cr
+,0,,Redemption of CSM/expense for the same,Initial_BEL_Loss_QDP_Proc,Initial_BEL_Loss_QDP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,0,,amount of BEL and RA after volume ,Redemption_Expense_BEL_Loss_INIT_EIR_QDP,,Interest Expense New Biz-BEL,NB,Dr
+,0,,adjustment based on intial EIR,Initial_BEL_Other_QDP_Proc,Initial_BEL_Other_QDP_Proc,(Sus) CSM New Biz,NB,Cr
+,0,,,Redemption_Expense_BEL_Other_INIT_EIR_QDP,,Interest Expense New Biz-BEL,NB,Dr
+,0,,,Initial_RA_Loss_QDP_Proc,Initial_RA_Loss_QDP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,0,,,Redemption_Expense_RA_Loss_INIT_EIR_QDP,,Interest Expense New Biz-RA,NB,Dr
+,0,,,Initial_RA_Other_QDP_Proc,Initial_RA_Other_QDP_Proc,(Sus) CSM New Biz,NB,Cr
+,0,1,,Redemption_Expense_RA_Other_INIT_EIR_QDP,,Interest Expense New Biz-RA,NB,Dr
+,1,,Writing interest expense and the amount ,Reset_BEL_Loss_QDP_Proc,Reset_BEL_Loss_QDP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,of BEL and RA after volume adjustment ,Writing_Expense_BEL_Loss_Reset_EIR_QDP,,BEL New Biz-Loss,NB,Cr
+,1,,based on reset EIR,Reset_BEL_Other_QDP_Proc,Reset_BEL_Other_QDP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,,Writing_Expense_BEL_Other_Reset_EIR_QDP,,BEL New Biz-Other,NB,Cr
+,1,,,Reset_RA_Loss_QDP_Proc,Reset_RA_Loss_QDP_Proc,Interest Expense New Biz-RA,NB,Dr
+,1,,,Writing_Expense_RA_Loss_Reset_EIR_QDP,,RA New Biz-Loss,NB,Cr
+,1,,,Reset_RA_Other_QDP_Proc,Reset_RA_Other_QDP_Proc,Interest Expense New Biz-RA,NB,Dr
+,1,1,,Writing_Expense_RA_Other_Reset_EIR_QDP,,RA New Biz-Other,NB,Cr
+,0,,Redemption of interest expense and the ,Reset_BEL_Loss_QDP_Proc,Reset_BEL_Loss_QDP_Proc,Interest Expense New Biz-BEL,NB,Cr
+,0,,amount of BEL and RA after volume ,Redemption_Expense_BEL_Loss_Reset_EIR_QDP,,BEL New Biz-Loss,NB,Dr
+,0,,adjustment based on reset EIR,Reset_BEL_Other_QDP_Proc,Reset_BEL_Other_QDP_Proc,Interest Expense New Biz-BEL,NB,Cr
+,0,,,Redemption_Expense_BEL_Other_Reset_EIR_QDP,,BEL New Biz-Other,NB,Dr
+,0,,,Reset_RA_Loss_QDP_Proc,Reset_RA_Loss_QDP_Proc,Interest Expense New Biz-RA,NB,Cr
+,0,,,Redemption_Expense_RA_Loss_Reset_EIR_QDP,,RA New Biz-Loss,NB,Dr
+,0,,,Reset_RA_Other_QDP_Proc,Reset_RA_Other_QDP_Proc,Interest Expense New Biz-RA,NB,Cr
+,0,2,,Redemption_Expense_RA_Other_Reset_EIR_QDP,,RA New Biz-Other,NB,Dr

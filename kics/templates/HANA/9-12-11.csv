@@ -1,0 +1,11 @@
+﻿구분,구분,,작성회사(지배회사)
+A,B,회사명 그룹 전체 계,ISS_CP_NM
+해약환급금,장부기준,CNLN_RFND_AMT,CNLN_RFND_AMT
+현행추정부채,"생명·장기손해보험 
+시가평가(CE+TVOG)",PELBT_AMT,PELBT_AMT
+위험마진,일반손해보험상품 제외,RSKMG_AMT,RSKMG_AMT
+보험계약대출 평가손익,시가평가-상환대상잔액,INSCLN_ESPL_AMT,INSCLN_ESPL_AMT
+재보험자산 평가손익,시가-회수대상가액,RINSAT_ESPL_AMT,RINSAT_ESPL_AMT
+해약환급금부족분상당액,해약환급금부족분상당액,CRDF_AAM,CRDF_AAM
+해지리스크요구자본,"Max(옵션상승,옵션하락,대량해지)",CNC_RSK_AMT,CNC_RSK_AMT
+해약환급금부족분상당액중 해지리스크 요구자본 초과분,해약환급금부족분상당액중 해지리스크 요구자본 초과분,CRDF_IN_CCRSK_RQUAT_EXCS_AMT,CRDF_IN_CCRSK_RQUAT_EXCS_AMT

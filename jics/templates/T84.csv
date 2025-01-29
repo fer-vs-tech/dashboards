@@ -1,0 +1,8 @@
+﻿その他の資産,その他の資産,エクスポージャー,所要資本
+,T84,[1],[2]
+保険約款貸付,[1],Credit_Policy_Loans,RC_Credit_Policy_Loans
+規制対象銀行の預金およびその他短期債務,[2],Credit_ShortTerm_Obligation,RC_Credit_ShortTerm_Obligation
+未収保険料,[3],Credit_Premium_Receivable,RC_Credit_Premium_Receivable
+代理店貸,[4],Credit_Due_from_Agents,RC_Credit_Due_from_Agents
+その他未収金,[5],Credit_Other_AR,RC_Credit_Other_AR
+前払費用,[6],Credit_Prepaid_Expense,RC_Credit_Prepaid_Expense

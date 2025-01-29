@@ -1,0 +1,33 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+PAP,1,,Writing CSM/expense of the amount of ,Initial_BEL_Loss_PAP_Proc,Initial_BEL_Loss_PAP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,BEL and RA after actuarial assumption based ,Writing_Expense_BEL_Loss_INIT_EIR_PAP,,Interest Expense New Biz-BEL,NB,Cr
+,1,,on initial EIR,Initial_BEL_Other_PAP_Proc,Initial_BEL_Other_PAP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,,,Writing_Expense_BEL_Other_INIT_EIR_PAP,,Interest Expense New Biz-BEL,NB,Cr
+,1,,,Initial_RA_Loss_PAP_Proc,Initial_RA_Loss_PAP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,,Writing_Expense_RA_Loss_INIT_EIR_PAP,,Interest Expense New Biz-RA,NB,Cr
+,1,,,Initial_RA_Other_PAP_Proc,Initial_RA_Other_PAP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,1,,Writing_Expense_RA_Other_INIT_EIR_PAP,,Interest Expense New Biz-RA,NB,Cr
+,0,,Redemption of CSM/expense for the same,Initial_BEL_Loss_PAP_Proc,Initial_BEL_Loss_PAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,0,,amount of BEL and RA after actuarial,Redemption_Expense_BEL_Loss_INIT_EIR_PAP,,BEL New Biz-Loss,NB,Cr
+,0,,assumption based on intial EIR,Initial_BEL_Other_PAP_Proc,Initial_BEL_Other_PAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,0,,,Redemption_Expense_BEL_Other_INIT_EIR_PAP,,BEL New Biz-Other,NB,Cr
+,0,,,Initial_RA_Loss_PAP_Proc,Initial_RA_Loss_PAP_Proc,Interest Expense New Biz-RA,NB,Dr
+,0,,,Redemption_Expense_RA_Loss_INIT_EIR_PAP,,RA New Biz-Loss,NB,Cr
+,0,,,Initial_RA_Other_PAP_Proc,Initial_RA_Other_PAP_Proc,Interest Expense New Biz-RA,NB,Dr
+,0,1,,Redemption_Expense_RA_Other_INIT_EIR_PAP,,RA New Biz-Other,NB,Cr
+,1,,Writing interest expense and the amount of,Reset_BEL_Loss_PAP_Proc,Reset_BEL_Loss_PAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,BEL and RA after actuarial assumption based ,Writing_Expense_BEL_Loss_Reset_EIR_PAP,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,1,,on reset EIR,Reset_BEL_Other_PAP_Proc,Reset_BEL_Other_PAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,,Writing_Expense_BEL_Other_Reset_EIR_PAP,,(Sus) CSM New Biz,NB,Cr
+,1,,,Reset_RA_Loss_PAP_Proc,Reset_RA_Loss_PAP_Proc,Interest Expense New Biz-RA,NB,Dr
+,1,,,Writing_Expense_RA_Loss_Reset_EIR_PAP,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,1,,,Reset_RA_Other_PAP_Proc,Reset_RA_Other_PAP_Proc,Interest Expense New Biz-RA,NB,Dr
+,1,1,,Writing_Expense_RA_Other_Reset_EIR_PAP,,(Sus) CSM New Biz,NB,Cr
+,0,,Redemption of interest expense and the same ,Reset_BEL_Loss_PAP_Proc,Reset_BEL_Loss_PAP_Proc,Interest Expense New Biz-BEL,NB,Cr
+,0,,amount of BEL and RA after actuarial,Redemption_Expense_BEL_Loss_Reset_EIR_PAP,,BEL New Biz-Loss,NB,Dr
+,0,,assumption based on reset EIR,Reset_BEL_Other_PAP_Proc,Reset_BEL_Other_PAP_Proc,Interest Expense New Biz-BEL,NB,Cr
+,0,,,Redemption_Expense_BEL_Other_Reset_EIR_PAP,,BEL New Biz-Other,NB,Dr
+,0,,,Reset_RA_Loss_PAP_Proc,Reset_RA_Loss_PAP_Proc,Interest Expense New Biz-RA,NB,Cr
+,0,,,Redemption_Expense_RA_Loss_Reset_EIR_PAP,,RA New Biz-Loss,NB,Dr
+,0,,,Reset_RA_Other_PAP_Proc,Reset_RA_Other_PAP_Proc,Interest Expense New Biz-RA,NB,Cr
+,0,2,,Redemption_Expense_RA_Other_Reset_EIR_PAP,,RA New Biz-Other,NB,Dr

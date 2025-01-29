@@ -1,0 +1,14 @@
+﻿구분,구분,구분,작성회사(지배회사)
+A,B,회사명 / 그룹 전체계,ISS_CP_NM
+해약환급금,보험업감독규정상 금액,CNLN_RFND_AMT,CNLN_RFND_AMT
+현행추정부채,생명·장기손해보험의 보험료부채,PELBT_AMT,PELBT_AMT
+위험마진,일반손해보험상품 제외,RSKMG_AMT,RSKMG_AMT
+보험계약대출 평가손익,시가평가액,INSCLN_FV_CP_ALL_LEVEL_AMT,INSCLN_FV_CP_ALL_LEVEL_AMT
+보험계약대출 평가손익,보험계약 해지시 상환대상 잔액,INSCLN_CNC_RDMT_BAL,INSCLN_CNC_RDMT_BAL
+재보험자산 평가손익,출재보험료부채 시가평가액,RINSAT_FV_AMT,RINSAT_FV_AMT
+보험계약대출 평가손익,보험계약 해지시 회수대상 가액,RINSAT_CNC_WTHR_PRC,RINSAT_CNC_WTHR_PRC
+해약환급금부족분상당액,해약환급금부족분상당액,CRDF_AAM,CRDF_AAM
+해약환급금준비금,보험업감독규정상 금액,CRRS_AMT,CRRS_AMT
+보험계약 및 재보험계약의 공정가치 변동 중 기타포괄손익으로 인식한 미실현손익의 법인세 반영 전 금액,보험업감독규정상 금액,OCI_CMLT,OCI_CMLT
+해약환급금준비금 상당액,해약환급금준비금 상당액,CNC_RSK_AMT,CNC_RSK_AMT
+해약환급금부족분상당액중 해약환급금준비금 상당액 초과분,해약환급금부족분상당액중 해약환급금준비금 상당액 초과분,CRDF_IN_CCRSK_RQUAT_EXCS_AMT,CRDF_IN_CCRSK_RQUAT_EXCS_AMT

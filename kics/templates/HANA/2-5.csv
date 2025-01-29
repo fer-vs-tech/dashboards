@@ -1,0 +1,4 @@
+﻿구분,회사명,회사 구분,소재지 (국내/해외),적용세율,소급공제액,세전이익 (직전1년),세전이익 (직전2년~직전1년),세전이익 (직전3년~직전2년),세전이익 (직전4년~직전3년),세전이익 (직전5년~직전4년),과거 5년  세전이익 합,기본 요구자본,명목 법인세효과,건전성감독기준 상 이연법인세자산,건전성감독기준 상 이연법인세부채,법인세효과 한도,법인세효과 인정금액
+그룹기준 인정금액,,,,,,,,,,,,RQUAT_RRAAF_DCTAB_AMT,,,,,
+개별회사별 인정금액,ISS_CP_NM,①지배회사(개별),DMOS_DV_NM,Y3_AVG_TXRT,LY_PPD_MCSDAM,Y1B_ACBK_PED_BTPF_AMT,Y2B_ACBK_PED_BTPF_AMT,Y3B_ACBK_PED_BTPF_AMT,Y4B_ACBK_PED_BTPF_AMT,Y5B_ACBK_PED_BTPF_AMT,JB_Y5P_BTPF_AMT,RQUAT_RRAAF_DCTAB_AMT,TITL_CTE_AMT,RPEA_DFCT_AST_MPRC_AMT,RPEA_DFCT_LAT_MPRC_AMT,CTE_LMT_AMT,CTE_ACAM_AMT
+개별회사별 인정금액,합 계,,,,,,,,,,,,,,,,CTE_ACAM_AMT

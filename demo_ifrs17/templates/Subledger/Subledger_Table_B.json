@@ -1,0 +1,792 @@
+[
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Liability_Incurred_Claims_Final_Opening",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Liability_Incurred_Claims_Final_Opening",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Liability_Incurred_Claims_Reins_Final_Opening",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Liability_Incurred_Claims_Final_Opening",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Disc_CF_Final_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Disc_CF_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Disc_CF_Reins_Final_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Disc_CF_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Loss_Component_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Loss_Component_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Loss_Component_Opening",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Risk_Adjustment_Final_Opening",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Risk_Adjustment_Opening",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Risk_Adjustment_Reins_Final_Opening",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Risk_Adjustment_Opening",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Contractual_Service_Margin_Opening",
+        "Secondary": "CSM"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Contractual_Service_Margin_Reins_Opening",
+        "Secondary": "CSM"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Cash_Balance_Opening",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Cash_Balance_Opening",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Cash_Balance_Reins_Opening",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Cash_Balance_Opening",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_CF_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_CF_Recognised_In_OCI_Reins_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_RA_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_RA_Recognised_In_OCI_Reins_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI_Reins_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI_Reins_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Ins_PAA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Opening",
+        "Type": "Reins_PAA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Liability_Incurred_Claims_Final",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Liability_Incurred_Claims_Final",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Liability_Incurred_Claims_Reins_Final",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Liability_Incurred_Claims_Final",
+        "Secondary": "LIC"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Disc_CF_Final",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Disc_CF",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Disc_CF_Reinsurance_Final",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Disc_CF",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Loss_Component",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Loss_Component",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Loss_Component",
+        "Secondary": "PVCF"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Risk_Adjustment_Final",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Risk_Adjustment_Reins_Final",
+        "Secondary": "RA"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Contractual_Service_Margin",
+        "Secondary": "CSM"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Contractual_Service_Margin_Reins",
+        "Secondary": "CSM"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Cash_Balance",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Cash_Balance",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Cash_Balance_Reins",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Cash_Balance",
+        "Secondary": "Cash Liability"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_CF_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_CF_Recognised_In_OCI_Reins",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_RA_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_RA_Recognised_In_OCI_Reins",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI_Reins",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI_Reins",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Accumulated_LIC_CF_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Accumulated_LIC_RA_Recognised_In_OCI",
+        "Secondary": "OCI"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Insurance_Revenue",
+        "Secondary": "Revenue"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Insurance_Revenue",
+        "Secondary": "Revenue"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Insurance_Revenue_Reins",
+        "Secondary": "Revenue"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Insurance_Revenue",
+        "Secondary": "Revenue"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Insurance_Service_Expenses",
+        "Secondary": "Expenses"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Insurance_Service_Expenses",
+        "Secondary": "Expenses"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Insurance_Service_Expenses_Reins",
+        "Secondary": "Expenses"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Insurance_Service_Expenses",
+        "Secondary": "Expenses"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Investment_Income",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "Insurance_Finance_Expenses",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_PAA",
+        "Variable Name": "Insurance_Finance_Expenses",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "Insurance_Finance_Expenses_Reins",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_PAA",
+        "Variable Name": "Insurance_Finance_Expenses",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Ins_BBA",
+        "Variable Name": "CF_Expense_Non_Directly_Attributable",
+        "Secondary": "Financial"
+    },
+    {
+        "RNA SubLedger Code": "",
+        "Var ID": "",
+        "Value": null,
+        "Sign on source": "-1",
+        "Primary": "Balance_Closing",
+        "Type": "Reins_BBA",
+        "Variable Name": "CF_Expense_Non_Directly_Attributable_Reins",
+        "Secondary": "Financial"
+    }
+]

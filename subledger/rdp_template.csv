@@ -1,0 +1,9 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+RDP,1,,Recognition of interest expense,Exp_BEL_Loss_component_Diff_Actual_Rate_RDP_Proc,Exp_BEL_Loss_component_Diff_Actual_Rate_RDP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,as actual rate applied,Loss_Reversal_for_Loss_Component_EXP_BEL_Actual_rate_Proc,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,1,,,Exp_BEL_Other_component_Diff_Actual_Rate_RDP_Proc,Exp_BEL_Other_component_Diff_Actual_Rate_RDP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,1,,,CSM_for_Loss_Component_EXP_BEL_Actual_rate,,(Sus) CSM New Biz,NB,Cr
+,1,,,Exp_RA_Loss_component_Diff_Actual_Rate_RDP_Proc,Exp_RA_Loss_component_Diff_Actual_Rate_RDP_Proc,Interest Expense New Biz-RA,NB,Dr
+,1,,,Loss_Reversal_for_Loss_Component_EXP_RA_Actual_rate,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+,0,,,Exp_RA_Other_component_Diff_Actual_Rate_RDP_Proc,Exp_RA_Other_component_Diff_Actual_Rate_RDP_Proc,Interest Expense New Biz-RA,NB,Dr
+,0,2,,CSM_for_Loss_Component_EXP_RA_Actual_rate,,(Sus) CSM New Biz,NB,Cr

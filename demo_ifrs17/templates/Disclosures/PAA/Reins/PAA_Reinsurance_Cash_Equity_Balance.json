@@ -1,0 +1,192 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Cash & Equity Balance",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Asset",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "RePAA.MISC.1.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "RePAA.MISC.1.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "RePAA.MISC.1.7|RePAA.MISC.1.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Reinsurance Contract Liability",
+        "Reference": "(-)RePAA_D.ICL_A.5.1",
+        "Ref_Type": "Sum_Disc_Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.4",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "RePAA_D.CEQ.2|RePAA_D.CEQ.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Liability",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "RePAA.MISC.1.6minusRePAA.MISC.1.7",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "RePAA.MISC.1.8minusRePAA.MISC.1.9",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.6",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "RePAA_D.CEQ.5.1|RePAA_D.CEQ.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.7",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Reinsurance Contract Liability",
+		"Reference": "(-)RePAA.ICL.9|RePAA_D.ICL_A.5.1",        
+        "Ref_Type": "Sum_Disc_Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.8",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "RePAA_D.CEQ.6|RePAA_D.CEQ.7",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "TOTAL",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.9",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "RePAA_D.CEQ.1|RePAA_D.CEQ.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.9.1",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "RePAA_D.CEQ.5.1|RePAA_D.CEQ.1.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.10",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "RePAA_D.CEQ.6|RePAA_D.CEQ.2",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.11",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Reinsurance Contract Liability",
+        "Reference": "RePAA_D.CEQ.7|RePAA_D.CEQ.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.CEQ.12",
+        "Level": "",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "RePAA_D.CEQ.10|RePAA_D.CEQ.11",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

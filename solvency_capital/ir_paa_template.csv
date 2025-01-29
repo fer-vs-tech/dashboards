@@ -1,0 +1,5 @@
+﻿Date,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1/1/2019,1,,Premium received,CF_Premium_Opening,CF_Premium_Opening,Cash,NB,Dr
+,1,,,CF_Premium_Opening_cr,,BEL_Other_PAA,NB,Cr
+,1,,Expense / reduce BEL for,DAC_Initial_New_Opening,DAC_Initial_New_Opening,BEL_Other_PAA,NB,Dr
+,1,1, acquisition cash flows,DAC_Initial_New_Opening_cr,,Cash,NB,Cr

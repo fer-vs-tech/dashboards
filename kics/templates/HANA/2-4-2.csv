@@ -1,0 +1,6 @@
+﻿구분,위험액
+생명·장기손해보험위험액,LFLT_INSU_RSKA
+일반손해보험위험액,N/A
+신용위험액,CRRK_DIRTY_DDAF_AMT
+시장위험액,MKRSK_TOT_AMT
+운영위험액,ORSK_TOT_AMT

@@ -1,0 +1,10 @@
+﻿구분,구분,구분,구분,구분,구분,구분,구분,구분,구분
+,계정구분 1,계정구분 1,계정구분 2,계정구분 2,계정구분 3,계정구분 3,담보제공자산과 피담보채무에 대한 개별 위험액,담보제공자산과 피담보채무에 대한 개별 위험액,
+,계정구분 1,금액,계정구분 2,금액,계정구분 3,금액,담보제공자산과 피담보채무에 대한 개별 위험액,분산효과 반영후 기본자본에대해 각 리스크별 배분액,금액
+그룹기준,생명/장기손해보험리스크,INSUT_AMT,생명/장기손해보험의 순 현행추정부채,ORGN_PELBT_AMT,피담보채무에 대한 생명/장기손해보험 순 현행추정부채 상당액,CLLLIS_ORGN_PELBT_AAM,CLSLB_IRSAM,INRSK_DEFT_APLA_RSKP_DAMT,CSAT_IRSAM_RLTD_RQUAT_AMT
+그룹기준,일반손해보험리스크,GEN_DMG_INSU_RSK_TOT_AMT,일반손해보험 순 현행추정부채,,피담보채무에 대한  일반손해보험 순 현행추정부채 상당액,,,,CSAT_DRSAM_RLTD_RQUAT_AMT
+그룹기준,신용리스크,DIRTY_DDAF_CRRK_AMT,총자산,TOT_AST_AMT,담보제공자산의 현재가치,CSAT_PV_AMT,CJAL_CRDT_RSKA,CRRK_DEFT_APLA_RSKP_DAMT,CSAT_CRSAM_RQUAT_AMT
+그룹기준,시장리스크,MKRSK_TOT_AMT,순자산가치,NAST_VAL,담보제공자산과 피담보채무의 순자산가치,CLSLB_NASVAL,CLSLB_MKRSAM,MRSK_DEFT_APLA_RSKP_DAMT,CSAT_MKRSAM_RLTD_RQUAT_AMT
+그룹기준,요구자본계(분산효과전),BAS_RQUAT_ORSKE_AMT,,,,,,,
+그룹기준,요구자본계(분산효과후),BAS_RQUAT_ORSK_AMT,,,,,,DIVAM_SSUM_AMT,COMPARISION=2 == 8
+그룹기준,해당 자산 및 부채 관련 요구자본,,,,,,,,CSAT_LAT_RQUAT_AMT

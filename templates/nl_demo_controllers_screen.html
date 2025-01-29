@@ -1,0 +1,62 @@
+<!-- nl_demo_controllers_screen.html-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="icon" href="{{url_for('static', filename='assets/favicon.ico')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/controllers.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/jquery-ui.min.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/jquery_select.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/orsa.css')}}" />
+
+	<script src="{{url_for('static', filename='library/jquery-3.5.1.js')}}" type="text/javascript"></script>
+	<script src="{{url_for('static', filename='library/jquery-ui.min.js')}}" type="text/javascript"></script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{title}}</title>
+</head>
+
+<body>
+	{% import 'helpers.html' as helpers %}
+	{# Main #}
+
+	<div class="container">
+		<div class="logo">
+			<img src="{{url_for('static', filename='assets/kics_cloud_logo.svg')}}" alt="" />
+			<div class="logo-text">ORSA</div>
+		</div>
+		<div class="controllers-container adjust-gap {{auto_mode_class}}">
+			<div class="main-container">
+				<div class="title">Select downscale factor</div>
+				<div class="form-container">
+					<form action="{{url_for('orsa_controllers')}}" method="POST">
+						<input type="hidden" name="next" value="{{query_string}}" />
+
+						<div class="item-parent">
+							<div class="item-container">
+								<!-- Render selectmenu -->
+								<div class="selectmenu">
+									<select class="forminput" name="factor" style="visibility: hidden;">
+										{% for downsale_factor in downsale_factors %}
+										<option value="{{downsale_factor}}">{{ '{:,.0f}'.format(downsale_factor) }}
+										</option>
+										{% endfor %}
+									</select>
+								</div>
+							</div>
+						</div>
+
+						{# Apply button #}
+						<button class="button-submit" type="submit">Apply</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="{{url_for('static', filename='library/jqueryUI.js')}}"></script>
+	<script src="{{url_for('static', filename='utils/controllers_page.js')}}"></script>
+</body>
+
+</html>

@@ -1,0 +1,122 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Reinsurance Revenue",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.1",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Greyed",
+        "Description": "Amounts relating to changes in LRC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Expected benefits incurred",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Expected expenses incurred",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.1.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Change in the risk adjustment",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.1.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "CSM recognized",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Recovery of acquisition cash flows",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Experience adjustments",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Release of Loss Recovery Component",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.5",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Contracts not measured under PAA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.6",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Contracts measured under PAA",
+        "Reference": "RePAA.KEY.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV.7",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL REINSURANCE REVENUE",
+        "Reference": "RePAA_D.INSREV.5|RePAA_D.INSREV.6",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

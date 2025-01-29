@@ -1,0 +1,19 @@
+﻿保険負債のバケット別内訳,保険負債のバケット別内訳,経済価値ベース,経済価値ベース,経済価値ベース,経済価値ベース,経済価値ベース
+,,バランスシート,資産ポートフォリオによって複製可能な保険負債,トップバケット,ミドルバケット,一般バケット
+,T13,[1],[2],[3],[4],[5]
+保険負債,[1],E_Net_Current_Estimate,,,,
+    再保険回収額,[2],E_Reins_Recoverables,,,,
+正味保険負債,[3],E_Insurance_Net,Insurance_Replicable,Insurance_Top,Insurance_Middle,Insurance_General
+    生命保険契約,[4],E_Life_Ins_Net,Life_Ins_Replicable,Life_Ins_Top,Life_Ins_Middle,Life_Ins_General
+        死亡保険（無配当）,[5],E_Death_Benefit_Net,Death_Benefit_Replicable,Death_Benefit_Top,Death_Benefit_Middle,Death_Benefit_General
+        医療保険（無配当）,[6],E_Health_Net,Health_Replicable,Health_Top,Health_Middle,Health_General
+        その他の保障性保険（無配当）,[7],E_Other_Protection_Net,Other_Protection_Replicable,Other_Protection_Top,Other_Protection_Middle,Other_Protection_General
+        最低保証のない貯蓄性保険、生存保障保険（無配当）,[8],E_Non_Guaranteed_Ins_Net,Non_Guaranteed_Ins_Replicable,Non_Guaranteed_Ins_Top,Non_Guaranteed_Ins_Middle,Non_Guaranteed_Ins_General
+        年金保険,[9],E_Annuity_Net,Annuity_Replicable,Annuity_Top,Annuity_Middle,Annuity_General
+        有配当保険（年金保険を除く）,[10],E_Participating_Ins_Net,Participating_Ins_Replicable,Participating_Ins_Top,Participating_Ins_Middle,Participating_Ins_General
+        最低保証付変額保険、最低保証付変額年金保険,[11],E_Variable_Annuity_Net,Variable_Annuity_Replicable,Variable_Annuity_Top,Variable_Annuity_Middle,Variable_Annuity_General
+        その他の生命保険,[12],E_Other_Insurance_Net,Other_Insurance_Replicable,Other_Insurance_Top,Other_Insurance_Middle,Other_Insurance_General
+    損害保険契約,[13],E_NonLife_Ins_Net,NonLife_Ins_Replicable,NonLife_Ins_Top,NonLife_Ins_Middle,NonLife_Ins_General
+        未経過責任に係る保険負債,[14],E_Unearned_Premium_Net,Unearned_Premium_Replicable,Unearned_Premium_Top,Unearned_Premium_Middle,Unearned_Premium_General
+        既発生事故に係る保険負債,[15],E_Outstanding_Claims_Net,Outstanding_Claims_Replicable,Outstanding_Claims_Top,Outstanding_Claims_Middle,Outstanding_Claims_General
+        チェック,[16],,,,,

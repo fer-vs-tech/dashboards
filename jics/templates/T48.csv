@@ -1,0 +1,10 @@
+﻿所要資本の要約,所要資本の要約,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）,詳細,金利,スプレッド（上昇）,スプレッド（下降）,株式,不動産,為替,資産集中
+,T48,[1],[2],[3],,,,,,,,
+市場リスク,[1],RC_Market_wo_MA,MA_Effect_RC_Market,RC_Market,,,,,,,,
+    金利リスク,[2],RC_Interest_wo_MA,MA_Effect_RC_Interest,RC_Interest,詳細,Corr_Mkt_ESR_1_1,Corr_Mkt_ESR_1_2,Corr_Mkt_ESR_1_3,Corr_Mkt_ESR_1_4,Corr_Mkt_ESR_1_5,Corr_Mkt_ESR_1_6,Corr_Mkt_ESR_1_7
+    スプレッドリスク（上昇）,[3],RC_Spr_Up_wo_MA,MA_Effect_RC_Spr_Up,RC_Spr_Up,詳細,Corr_Mkt_ESR_2_1,Corr_Mkt_ESR_2_2,Corr_Mkt_ESR_2_3,Corr_Mkt_ESR_2_4,Corr_Mkt_ESR_2_5,Corr_Mkt_ESR_2_6,Corr_Mkt_ESR_2_7
+    スプレッドリスク（下降）,[4],RC_Spr_Down_wo_MA,MA_Effect_RC_Spr_Down,RC_Spr_Down,詳細,Corr_Mkt_ESR_3_1,Corr_Mkt_ESR_3_2,Corr_Mkt_ESR_3_3,Corr_Mkt_ESR_3_4,Corr_Mkt_ESR_3_5,Corr_Mkt_ESR_3_6,Corr_Mkt_ESR_3_7
+    株式リスク,[5],RC_Eq_wo_MA,MA_Effect_RC_Eq,RC_Eq,詳細,Corr_Mkt_ESR_4_1,Corr_Mkt_ESR_4_2,Corr_Mkt_ESR_4_3,Corr_Mkt_ESR_4_4,Corr_Mkt_ESR_4_5,Corr_Mkt_ESR_4_6,Corr_Mkt_ESR_4_7
+    不動産リスク,[6],RC_RealEst_wo_MA,MA_Effect_RC_RealEst,RC_RealEst,詳細,Corr_Mkt_ESR_5_1,Corr_Mkt_ESR_5_2,Corr_Mkt_ESR_5_3,Corr_Mkt_ESR_5_4,Corr_Mkt_ESR_5_5,Corr_Mkt_ESR_5_6,Corr_Mkt_ESR_5_7
+    為替リスク,[7],RC_Currency_wo_MA,MA_Effect_RC_Currency,RC_Currency,詳細,Corr_Mkt_ESR_6_1,Corr_Mkt_ESR_6_2,Corr_Mkt_ESR_6_3,Corr_Mkt_ESR_6_4,Corr_Mkt_ESR_6_5,Corr_Mkt_ESR_6_6,Corr_Mkt_ESR_6_7
+    資産集中リスク,[8],RC_Conc_wo_MA,MA_Effect_RC_Conc,RC_Conc,詳細,Corr_Mkt_ESR_7_1,Corr_Mkt_ESR_7_2,Corr_Mkt_ESR_7_3,Corr_Mkt_ESR_7_4,Corr_Mkt_ESR_7_5,Corr_Mkt_ESR_7_6,Corr_Mkt_ESR_7_7

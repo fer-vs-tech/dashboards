@@ -1,0 +1,3 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+DAC,1,,Recognition of the amortized amount,Amortization_Amount_DAC_AMOR_Proc,Amortization_Amount_DAC_AMOR_Proc,Insurance Expense New Biz-DAC Amor.,NB,Dr
+,1,2,for direct acquisition cost,Recognition_Amortized_DAC,,Insurance Revenue New Biz-DAC Amor,NB,Cr

@@ -1,0 +1,72 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Alternative Presentation - n/a for PAA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amounts relating to the changes in the liability for remaining coverage:",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance service expenses incurred",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Contractual service margin recognised in profit or loss",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.1.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Change in the risk adjustment for non-financial risk caused by the release from risk",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.1.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Allocation of recovery of reinsurance deferred expense cash flows",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "RePAA_D.INSREV_Alt.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Reinsurance revenue not measured under PAA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    }
+]

@@ -1,0 +1,7 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+CSM,1,,Recognition of interest,Interest_Expense_CSM_REINS_CSM_AMOR_Proc_Reins,Interest_Expense_CSM_REINS_CSM_AMOR_Proc_Reins,Reinsurance Interest Expense New Biz-CSM_REINS,NB,Cr
+,1,1,expense for CSM,Recognition_CSM_Interest_Expense_REINS,,(Sus) CSM New Biz_REINS,NB,Dr
+,0,,Writing off CSM suspense account with applying,Ending_CSM_REINS_CSM_AMOR_Proc_Reins,Ending_CSM_REINS_CSM_AMOR_Proc_Reins,(Sus) CSM New Biz_REINS,NB,Cr
+,0,1,CSM adjustments during the term,Writing_Off_CSM_Suspense_Account_REINS,,CSM New Biz_REINS,NB,Dr
+,1,,Recognition of the amortized ,Amort_Amt_CSM_REINS_CSM_AMOR_Proc_Reins,Amort_Amt_CSM_REINS_CSM_AMOR_Proc_Reins,CSM New Biz_REINS,NB,Cr
+,1,2,amount for CSM,Recognition_CSM_Amortization_REINS,,Reinsurance Expense New Biz-CSM Amor._REINS,NB,Dr

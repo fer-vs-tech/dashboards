@@ -1,0 +1,92 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Reinsurance Finance Expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.1",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Total Insurance Finance Expense through P&L",
+        "Reference": "ReBBA_D.IFIE.1.1.1|ReBBA_D.IFIE.1.1.2",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Interest accreted to reinsurance contracts",
+        "Reference": "ReBBA.ICL.4.9|ReBBA.ICL.4.10minusReBBA.MISC.1.20|ReBBA.MISC.1.19",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Change in financial assumptions through P&L",
+        "Reference": "ReBBA.MISC.1.19",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Change in financial assumptions through OCI",
+        "Reference": "ReBBA.ICL.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of unlocking CSM at locked-in rates and FCF at current rates",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of risk mitigation on CSM for contracts measured under VFA",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.1.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.IFIE.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL REINSURANCE FINANCE EXPENSE",
+        "Reference": "ReBBA_D.IFIE.1.1.1|ReBBA_D.IFIE.1.1.2|ReBBA_D.IFIE.1.2",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

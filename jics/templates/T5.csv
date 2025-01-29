@@ -1,0 +1,8 @@
+﻿資本構成に対する制限,資本構成に対する制限,,制限額,係数,相互会社か
+,T5,[1],[2],[3],[4]
+算入制限のあるTier1資本,[1],,Tier_1_limited,Tier_1_limited_Factor,Is_Mutual
+PLAMを有する算入制限のあるTier1資本,[2],,Tier_1_limited_PLAM,Tier_1_limited_PLAM_Factor,
+Tier2資本,[3],,Tier_2_limited,Tier_2_limited_Factor,
+算入制限のあるTier1資本とTier2資本の合計,[4],,Tier_1_Limited_Plus_Tier_2,Tier_1_Limited_Plus_2_Factor,
+Tier2バスケット,[5],,Tier_2_basket,Tier_2_basket_Factor,
+払込未済のTier2資本,[6],,Tier_2_Non_Paid_Up,Tier_2_Non_Paid_Up_Factor,

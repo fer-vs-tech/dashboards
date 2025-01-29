@@ -1,0 +1,21 @@
+﻿税効果の利用可能性評価,税効果の利用可能性評価,DTA,DTL,DTA-DTL,DTA-DTL*,実効税率
+,T11,[1],[2],[3],[4],[5]
+会計ベース,[1],DTA_on_Accounting,DTL_on_Accounting,DTADTL_on_Accounting,,
+    うち、非保険事業,[2],DTA_of_Non_Ins,DTL_of_Non_Ins,DTADTL_of_Non_Ins,,
+    うち、保険事業,[3],DTA_of_Ins,DTL_of_Ins,DTADTL_of_Ins,,
+経済価値ベースへの調整により生じたDTAおよびDTL（上限適用前）,[4],DTA_on_ESR_Adj_1,DTL_on_ESR_Adj_1,DTADTL_on_ESR_Adj_1,,Effective_Tax_Rate
+    うち、規制上の準備金（有税）の振替（会計ベースのDTAを直接相殺可能な額）,[5],DTA_of_Taxable_Res,,DTADTL_of_Taxable_Res,,
+    うち、MOCEに関するDTA以外（以下に内訳を記載）,[6],DTA_excl_DTA_of_MOCE,DTL_excl_DTA_of_MOCE,DTADTL_excl_DTA_of_MOCE,,
+        規制上の準備金（有税）の振替（直接相殺可能額を超える額）,[7],DTA_excl_DTA_of_MOCE1,DTL_excl_DTA_of_MOCE1,DTADTL_excl_DTA_of_MOCE1,,
+        規制上の準備金（無税）の振替,[8],DTA_excl_DTA_of_MOCE2,DTL_excl_DTA_of_MOCE2,DTADTL_excl_DTA_of_MOCE2,,
+        再保険回収額の評価替,[9],DTA_excl_DTA_of_MOCE3,DTL_excl_DTA_of_MOCE3,DTADTL_excl_DTA_of_MOCE3,,
+        保険負債の評価替,[10],DTA_excl_DTA_of_MOCE4,DTL_excl_DTA_of_MOCE4,DTADTL_excl_DTA_of_MOCE4,,
+        責準対応債券・満期保有債券の評価替,[11],DTA_excl_DTA_of_MOCE5,DTL_excl_DTA_of_MOCE5,DTADTL_excl_DTA_of_MOCE5,,
+        その他,[12],DTA_excl_DTA_of_MOCE6,DTL_excl_DTA_of_MOCE6,DTADTL_excl_DTA_of_MOCE6,,
+    うち、MOCEに関するDTA,[13],DTA_DTA_of_MOCE,,DTADTL_DTA_of_MOCE,,
+Tier1資本から控除される資産に関連するDTL,[14],,DTL_DTL_DED_from_T1_Capital,DTADTL_DTL_DED_from_T1_Capital,,
+    経済価値ベースへの調整により生じたDTAの上限,[15],DTA_Cap_on_DTA_from_ESR_Adj,,,,
+経済価値ベースへの調整により生じたDTAおよびDTL,[16],DTA_on_ESR_Adj_2,DTL_on_ESR_Adj_2,DTADTL_on_ESR_Adj_2,,
+経済価値ベースのDTAおよびDTL,[17],DTA_on_ESR,DTL_on_ESR,DTADTL_on_ESR,,
+    うち、非保険事業,[18],DTA_on_ESR_of_Non_Ins,DTL_on_ESR_of_Non_Ins,DTADTL_on_ESR_of_Non_Ins,,
+    うち、保険事業,[19],DTA_on_ESR_of_Ins,DTL_on_ESR_of_Ins,DTADTL_on_ESR_of_Ins,DTA_DTL_Asterisk_on_ESR_of_Ins,

@@ -1,0 +1,3 @@
+﻿format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,,Recognition of BEL for the premium,BEL_Initial_Recognition_IR_Proc,BEL_Initial_Recognition_IR_Proc,Cash,NB,Dr
+1,1, received for the insurance service,BEL_Initial_Recognition_IR_Proc_PAA,,BEL_New_Biz_PAA,NB,Cr

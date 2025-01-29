@@ -1,0 +1,21 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+RQP,1,,Writing CSM/expense of the amount of BEL,Initial_BEL_REINS_RQT_Proc,Initial_BEL_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Dr
+,1,,and RA after volume adjustment based on,Initial_RA_REINS_RQT_Proc,Initial_RA_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-RA_REINS,NB,Dr
+,1,,initial EIR,Initial_Credit_Loss_BEL_REINS_RQT_Proc,Initial_Credit_Loss_BEL_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Cr
+,1,1,,Writing_CSM_Initial_EIR_REINS,,(Sus) CSM New Biz_REINS,NB,Cr
+,0,,Redemption of CSM/expense for the same ,Initial_BEL_REINS_RQT_Proc,Initial_BEL_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Cr
+,0,,amount of BEL and RA after volume adjustment ,Initial_RA_REINS_RQT_Proc,Initial_RA_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-RA_REINS,NB,Cr
+,0,,based on intial EIR,Initial_Credit_Loss_BEL_REINS_RQT_Proc,Initial_Credit_Loss_BEL_REINS_RQT_Proc,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Dr
+,0,1,,Redemption_CSM_Initial_EIR_REINS,,(Sus) CSM New Biz_REINS,NB,Dr
+,1,,Writing interest expense and the amount of BEL ,Current_BEL_REINS_RQT_Proc,Current_BEL_REINS_RQT_Proc,BEL New Biz_REINS,NB,Dr
+,1,,and RA after volume adjustment based on ,Writing_BEL_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Cr
+,1,,current EIR,Current_RA_REINS_RQT_Proc,Current_RA_REINS_RQT_Proc,RA New Biz_REINS,NB,Dr
+,1,,,Writing_RA_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-RA_REINS,NB,Cr
+,1,,,Current_Credit_Loss_BEL_REINS_RQT_Proc,Current_Credit_Loss_BEL_REINS_RQT_Proc,Credit Loss BEL New Biz_REINS,NB,Dr
+,1,1,,Writing_Credit_Loss_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Cr
+,0,,Redemption of interest expense and the amount,Current_BEL_REINS_RQT_Proc,Current_BEL_REINS_RQT_Proc,BEL New Biz_REINS,NB,Cr
+,0,, of BEL and RA after volume adjustment based ,Redemption_BEL_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Dr
+,0,,on current EIR,Current_RA_REINS_RQT_Proc,Current_RA_REINS_RQT_Proc,RA New Biz_REINS,NB,Cr
+,0,,,Redemption_RA_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-RA_REINS,NB,Dr
+,0,,,Current_Credit_Loss_BEL_REINS_RQT_Proc,Current_Credit_Loss_BEL_REINS_RQT_Proc,Credit Loss BEL New Biz_REINS,NB,Cr
+,0,2,,Redemption_Credit_Loss_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Dr

@@ -1,0 +1,126 @@
+﻿format_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,CSM adjustment for the difference ,New_Biz_Weighted_Avg_Loss_BEL_Diff_RSP_WAP_Proc,New_Biz_Weighted_Avg_Loss_BEL_Diff_RSP_WAP_Proc,BEL New Biz-Loss,NB,Cr
+1,between initial recognition and weighted,New_Biz_Wwighted_Avg_Loss_RA_Diff_RSP_WAP_Proc,New_Biz_Wwighted_Avg_Loss_RA_Diff_RSP_WAP_Proc,RA New Biz-Loss,NB,Cr
+1,average for New Businesses(Cohort-open),Insurance_Expense_for_Loss_component_BEL_RA_DIFF,,Insurance Expense New Biz-Loss(IR),NB,Dr
+1,,New_Biz_Weighted_Avg_Other_BEL_Diff_RSP_WAP_Proc,New_Biz_Weighted_Avg_Other_BEL_Diff_RSP_WAP_Proc,BEL New Biz-Other,NB,Cr
+1,,New_Biz_Weighted_Avg_Other_RA_Diff_RSP_WAP_Proc,New_Biz_Weighted_Avg_Other_RA_Diff_RSP_WAP_Proc,RA New Biz-Other,NB,Cr
+1,,CSM_Adjustment_for_Other_component_BEL_RA_DIFF,,(Sus) CSM New Biz,NB,Dr
+0,CSM adjustment for expected premium,Expected_Premium_Total_RSP_WAP_Proc,Expected_Premium_Total_RSP_WAP_Proc,BEL New Biz-Other,NB,Cr
+0,,CSM_Adjustment_for_expected_Prem,,(Sus) CSM New Biz,NB,Dr
+0,,IF_Expected_Premium_Total_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Cr
+0,,IF_CSM_Adjustment_for_expected_Prem,,(Sus) CSM Inforce,Inforce,Dr
+1,Reversal of profit/loss for expected,Exp_Claim_Insurance_Component_Other_RSP_WAP_Proc,Exp_Claim_Insurance_Component_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+1,claim (insurance component),Insurance_Revenue_for_Other_component_Expected_Claim,,Insurance Revenue New Biz-Exp. Claim,NB,Cr
+1,,Exp_Claim_Insurance_Component_Loss_RSP_WAP_Proc,Exp_Claim_Insurance_Component_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+1,,Insurance_Expense_for_Loss_component_Expected_Claim,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+1,,IF_Exp_Claim_Insurance_Component_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+1,,IF_Insurance_Revenue_for_Other_component_Expected_Claim,,Insurance Revenue Inforce-Exp. Claim,Inforce,Cr
+1,,IF_Exp_Claim_Insurance_Component_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+1,,IF_Insurance_Expense_for_Loss_component_Expected_Claim,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,Reversal of CSM/loss for expected,Exp_Claim_Investment_Component_Other_RSP_WAP_Proc,Exp_Claim_Investment_Component_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+0,claim (investment component),CSM_Reversal_for_Other_component_Expected_Claim,,(Sus) CSM New Biz,NB,Cr
+0,,Exp_Claim_Investment_Component_Loss_RSP_WAP_Proc,Exp_Claim_Investment_Component_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+0,,Loss_Reversal_for_Loss_component_Expected_Claim,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,,IF_Exp_Claim_Investment_Component_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+0,,IF_CSM_Reversal_for_Other_component_Expected_Claim,,(Sus) CSM Inforce,Inforce,Cr
+0,,IF_Exp_Claim_Investment_Component_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Expected_Claim,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+1,Reversal of CSM/loss for expected,Exp_Direct_Acq_Cost_Prem_Other_RSP_WAP_Proc,Exp_Direct_Acq_Cost_Prem_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+1,direct acquisition cost (premium-relevant),CSM_Reversal_for_Other_component_Expected_Direct_Acq_Cost_PremR,,(Sus) CSM New Biz,NB,Cr
+1,,Exp_Direct_Acq_Cost_Prem_Loss_RSP_WAP_Proc,Exp_Direct_Acq_Cost_Prem_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+1,,Loss_Reversal_for_Loss_component_Expected_Direct_Acq_Cost_PremR,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+1,,IF_Exp_Direct_Acq_Cost_Prem_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+1,,IF_CSM_Reversal_for_Other_component_Expected_Direct_Acq_Cost_PremR,,(Sus) CSM Inforce,Inforce,Cr
+1,,IF_Exp_Direct_Acq_Cost_Prem_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+1,,IF_Loss_Reversal_for_Loss_component_Expected_Direct_Acq_Cost_PremR,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,Reversal of profit/loss for expected,Exp_Direct_Acq_Cost_Non_Prem_Other_RSP_WAP_Proc,Exp_Direct_Acq_Cost_Non_Prem_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+0,direct acquisition cost (premium-irrelevant),Profit_Reversal_for_Other_component_Expected_Direct_Acq_Cost_NonPremR,,Insurance Revenue New Biz-Exp. DAC(Premium-irrelevant),NB,Cr
+0,,Exp_Direct_Acq_Cost_Non_Prem_Loss_RSP_WAP_Proc,Exp_Direct_Acq_Cost_Non_Prem_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+0,,Loss_Reversal_for_Loss_component_Expected_Direct_Acq_Cost_NonPremR,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,,IF_Exp_Direct_Acq_Cost_Non_Prem_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+0,,IF_Profit_Reversal_for_Other_component_Expected_Direct_Acq_Cost_NonPremR,,Insurance Revenue Inforce-Exp. DAC(Premium-irrelevant),Inforce,Cr
+0,,IF_Exp_Direct_Acq_Cost_Non_Prem_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Expected_Direct_Acq_Cost_NonPremR,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+1,Reversal of profit/loss for,Exp_Direct_Maintenance_Cost_Other_RSP_WAP_Proc,Exp_Direct_Maintenance_Cost_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+1,expected direct maintenance cost,Profit_Reversal_for_Other_component_Expected_Direct_Maint_Cost,,Insurance Revenue New Biz-Exp. Maint. Cost,NB,Cr
+1,,Exp_Direct_Maintenance_Cost_Loss_RSP_WAP_Proc,Exp_Direct_Maintenance_Cost_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+1,,Loss_Reversal_for_Loss_component_Expected_Direct_Maint_Cost,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+1,,IF_Exp_Direct_Maintenance_Cost_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+1,,IF_Profit_Reversal_for_Other_component_Expected_Direct_Maint_Cost,,Insurance Revenue Inforce-Exp. Maint. Cost,Inforce,Cr
+1,,IF_Exp_Direct_Maintenance_Cost_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+1,,IF_Loss_Reversal_for_Loss_component_Expected_Direct_Maint_Cost,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,Reversal of profit/loss for,Expected_Direct_Inspection_Cost_Other_RSP_WAP_Proc,Expected_Direct_Inspection_Cost_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+0,expected direct inspection cost,Profit_Reversal_for_Other_component_Expected_Direct_Inspection_Cost,,Insurance Revenue New Biz-Exp. Insp. Cost,NB,Cr
+0,,Expected_Direct_Inspection_Cost_Loss_RSP_WAP_Proc,Expected_Direct_Inspection_Cost_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+0,,Loss_Reversal_for_Loss_component_Expected_Direct_Inspection_Cost,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,,IF_Expected_Direct_Inspection_Cost_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+0,,IF_Profit_Reversal_for_Other_component_Expected_Direct_Inspection_Cost,,Insurance Revenue Inforce-Exp. Insp. Cost,Inforce,Cr
+0,,IF_Expected_Direct_Inspection_Cost_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Expected_Direct_Inspection_Cost,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+1,Reversal of profit/loss for,Exp_Direct_Invest_Manage_Cost_Other_RSP_WAP_Proc,Exp_Direct_Invest_Manage_Cost_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+1,expected direct investment,Profit_Reversal_for_Other_component_Expected_Direct_Invest_Manage_Cost,,Insurance Revenue New Biz-Exp. Inv. Mng. Cost,NB,Cr
+1,management cost,Exp_Direct_Invest_Manage_Cost_Loss_RSP_WAP_Proc,Exp_Direct_Invest_Manage_Cost_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+1,,Loss_Reversal_for_Loss_component_Expected_Direct_Invest_Manage_Cost,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+1,,IF_Exp_Direct_Invest_Manage_Cost_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+1,,IF_Profit_Reversal_for_Other_component_Expected_Direct_Invest_Manage_Cost,,Insurance Revenue Inforce-Exp. Inv. Mng. Cost,Inforce,Cr
+1,,IF_Exp_Direct_Invest_Manage_Cost_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+1,,IF_Loss_Reversal_for_Loss_component_Expected_Direct_Invest_Manage_Cost,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,Reversal of CSM/loss for expected ,Expected_Policy_Loan_Cash_Flows_Other_RSP_WAP_Proc,Expected_Policy_Loan_Cash_Flows_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Dr
+0,policy loan cash flows,CSM_Reversal_for_Other_componenet_Expected_PL,,(Sus) CSM New Biz,NB,Cr
+0,,Expected_Policy_Loan_Cash_Flows_Loss_RSP_WAP_Proc,Expected_Policy_Loan_Cash_Flows_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Dr
+0,,Loss_Reversal_for_Loss_component_Expected_PL,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,,IF_Expected_Policy_Loan_Cash_Flows_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Dr
+0,,IF_CSM_Reversal_for_Other_componenet_Expected_PL,,(Sus) CSM Inforce,Inforce,Cr
+0,,IF_Expected_Policy_Loan_Cash_Flows_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Expected_PL,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+1,Reversal of profit/loss for,RA_amortization_Other_RSP_WAP_Proc,RA_amortization_Other_RSP_WAP_Proc,RA New Biz-Other,NB,Dr
+1,expected RA amortization,Profit_Reversal_for_Other_component_RA_Amort,,Insurance Revenue New Biz-RA Changes,NB,Cr
+1,,RA_amortization_Loss_RSP_WAP_Proc,RA_amortization_Loss_RSP_WAP_Proc,RA New Biz-Loss,NB,Dr
+1,,Loss_Reversal_for_Loss_component_RA_Amort,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+1,,IF_RA_amortization_Other_RSP_WAP_Proc,,RA Inforce-Other,Inforce,Dr
+1,,IF_Profit_Reversal_for_Other_component_RA_Amort,,Insurance Revenue Inforce-RA Changes,Inforce,Cr
+1,,IF_RA_amortization_Loss_RSP_WAP_Proc,,RA Inforce-Loss,Inforce,Dr
+1,,IF_Loss_Reversal_for_Loss_component_RA_Amort,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,Recognition of intereset expense,Interest_Expense_Recognition_for_BEL_DIFF,,Interest Expense New Biz-BEL,NB,Dr
+0,for BEL difference between beginning ,Reset_BEL_Interest_Expense_Other_RSP_WAP_Proc,Reset_BEL_Interest_Expense_Other_RSP_WAP_Proc,BEL New Biz-Other,NB,Cr
+0,and end of the term,Reset_BEL_Interest_Expense_Loss_RSP_WAP_Proc,Reset_BEL_Interest_Expense_Loss_RSP_WAP_Proc,BEL New Biz-Loss,NB,Cr
+0,,IF_Interest_Expense_Recognition_for_BEL_DIFF,,Interest Expense Inforce-BEL,Inforce,Dr
+0,,IF_Reset_BEL_Interest_Expense_Other_RSP_WAP_Proc,,BEL Inforce-Other,Inforce,Cr
+0,,IF_Reset_BEL_Interest_Expense_Loss_RSP_WAP_Proc,,BEL Inforce-Loss,Inforce,Cr
+1,Recognition of interest expense for RA,Interest_Expense_Recognition_for_RA_DIFF,,Interest Expense New Biz-RA,NB,Dr
+1, difference between beginning and ,Reset_RA_Interest_Expense_Other_RSP_WAP_Proc,Reset_RA_Interest_Expense_Other_RSP_WAP_Proc,RA New Biz-Other,NB,Cr
+1,end of the term,Reset_RA_Interest_Expense_Loss_RSP_WAP_Proc,Reset_RA_Interest_Expense_Loss_RSP_WAP_Proc,RA New Biz-Loss,NB,Cr
+1,,IF_Interest_Expense_Recognition_for_RA_DIFF,,Interest Expense Inforce-RA,Inforce,Dr
+1,,IF_Reset_RA_Interest_Expense_Other_RSP_WAP_Proc,,RA Inforce-Other,Inforce,Cr
+1,,IF_Reset_RA_Interest_Expense_Loss_RSP_WAP_Proc,,RA Inforce-Loss,Inforce,Cr
+0,Redemption of CSM / reversal of,Exp_Initial_BEL_Loss_RSP_WAP_Proc,Exp_Initial_BEL_Loss_RSP_WAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+0,loss component based on initial,Loss_Reversal_for_Loss_component_Initial_BEL,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,BEL and RA,Exp_Initial_BEL_Other_RSP_WAP_Proc,Exp_Initial_BEL_Other_RSP_WAP_Proc,Interest Expense New Biz-BEL,NB,Dr
+0,,CSM_Reversal_for_Other_componenet_Initial_BEL,,(Sus) CSM New Biz,NB,Cr
+0,,Exp_Initial_RA_Loss_RSP_WAP_Proc,Exp_Initial_RA_Loss_RSP_WAP_Proc,Interest Expense New Biz-RA,NB,Dr
+0,,Loss_Reversal_for_Loss_component_Initial_RA,,Insurance Expense New Biz-Loss Reversal,NB,Cr
+0,,Exp_Initial_RA_Other_RSP_WAP_Proc,Exp_Initial_RA_Other_RSP_WAP_Proc,Interest Expense New Biz-RA,NB,Dr
+0,,CSM_Reversal_for_Other_componenet_Initial_RA,,(Sus) CSM New Biz,NB,Cr
+0,,IF_Exp_Initial_BEL_Loss_RSP_WAP_Proc,,Interest Expense Inforce-BEL,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Initial_BEL,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,,IF_Exp_Initial_BEL_Other_RSP_WAP_Proc,,Interest Expense Inforce-BEL,Inforce,Dr
+0,,IF_CSM_Reversal_for_Other_componenet_Initial_BEL,,(Sus) CSM Inforce,Inforce,Cr
+0,,IF_Exp_Initial_RA_Loss_RSP_WAP_Proc,,Interest Expense Inforce-RA,Inforce,Dr
+0,,IF_Loss_Reversal_for_Loss_component_Initial_RA,,Insurance Expense Inforce-Loss Reversal,Inforce,Cr
+0,,IF_Exp_Initial_RA_Other_RSP_WAP_Proc,,Interest Expense Inforce-RA,Inforce,Dr
+0,,IF_CSM_Reversal_for_Other_componenet_Initial_RA,,(Sus) CSM Inforce,Inforce,Cr
+1,Interest expense adjustment for,Expected_WA_BEL_Loss_RSP_WAP_Proc,Expected_WA_BEL_Loss_RSP_WAP_Proc,Interest Expense New Biz-BEL,NB,Cr
+1,reversal of reset BEL and RA,Interest_Expense_Adjust_for_Loss_componenet_BEL,,BEL New Biz-Loss,NB,Dr
+1,,Expected_WA_BEL_Other_RSP_WAP_Proc,Expected_WA_BEL_Other_RSP_WAP_Proc,Interest Expense New Biz-BEL,NB,Cr
+1,,Interest_Expense_Adjust_for_Other_componenet_BEL,,BEL New Biz-Other,NB,Dr
+1,,Expected_WA_RA_Loss_RSP_WAP_Proc,Expected_WA_RA_Loss_RSP_WAP_Proc,Interest Expense New Biz-RA,NB,Cr
+1,,Interest_Expense_Adjust_for_Loss_componenet_RA,,RA New Biz-Loss,NB,Dr
+1,,Expected_WA_RA_Other_RSP_WAP_Proc,Expected_WA_RA_Other_RSP_WAP_Proc,Interest Expense New Biz-RA,NB,Cr
+1,,Interest_Expense_Adjust_for_Other_componenet_RA,,RA New Biz-Other,NB,Dr
+1,,IF_Expected_WA_BEL_Loss_RSP_WAP_Proc,,Interest Expense Inforce-BEL,Inforce,Cr
+1,,IF_Interest_Expense_Adjust_for_Loss_componenet_BEL,,BEL Inforce-Loss,Inforce,Dr
+1,,IF_Expected_WA_BEL_Other_RSP_WAP_Proc,,Interest Expense Inforce-BEL,Inforce,Cr
+1,,IF_Interest_Expense_Adjust_for_Other_componenet_BEL,,BEL Inforce-Other,Inforce,Dr
+1,,IF_Expected_WA_RA_Loss_RSP_WAP_Proc,,Interest Expense Inforce-RA,Inforce,Cr
+1,,IF_Interest_Expense_Adjust_for_Loss_componenet_RA,,RA Inforce-Loss,Inforce,Dr
+1,,IF_Expected_WA_RA_Other_RSP_WAP_Proc,,Interest Expense Inforce-RA,Inforce,Cr

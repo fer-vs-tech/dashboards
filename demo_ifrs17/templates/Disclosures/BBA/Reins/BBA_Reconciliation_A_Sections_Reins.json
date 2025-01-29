@@ -1,0 +1,842 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage (Excl. LC/LR)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "ReBBA.DCF.1|ReBBA.RA.1|ReBBA.CSM.1|ReBBA.DCF.3|ReBBA.RA.3|ReBBA.CSM.3minusReBBA.MISC.1.13",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract assets",
+        "Reference": "ReBBA.DCF.1.1|ReBBA.RA.1.1|ReBBA.CSM.1.1|ReBBA.DCF.3|ReBBA.RA.3|ReBBA.CSM.3minusReBBA.MISC.1.14",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract liabilities",
+        "Reference": "ReBBA.DCF.1.2|ReBBA.RA.1.2|ReBBA.CSM.1.2minusReBBA.MISC.1.13|ReBBA.MISC.1.14",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "ReBBA.MISC.1.13",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES (P&L and OCI)",
+        "Reference": "ReBBA_D.LRC_A.3.1|ReBBA_D.LRC_A.3.2|ReBBA_D.LRC_A.3.3|ReBBA_D.LRC_A.3.4|ReBBA_D.LRC_A.3.5|ReBBA_D.LRC_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance revenue",
+        "Reference": "-ReBBA.KEY.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Reinsurance service expenses",
+        "Reference": "ReBBA_D.LRC_A.3.2.1|ReBBA_D.LRC_A.3.2.2|ReBBA_D.LRC_A.3.2.3|ReBBA_D.LRC_A.3.2.4|ReBBA_D.LRC_A.3.2.5|ReBBA_D.LRC_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "ReBBA.DCF.5.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "ReBBA.DCF.6|ReBBA.RA.6|ReBBA.CSM.6",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.2.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "-ReBBA.MISC.1.22",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through profit and loss",
+        "Reference": "ReBBA.DCF.4.9|ReBBA.DCF.4.10|ReBBA.CSM.4.9|ReBBA.CSM.4.10|ReBBA.RA.4.9|ReBBA.RA.4.10",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through OCI",
+        "Reference": "ReBBA.DCF.8|ReBBA.RA.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "ReBBA.CSM.5.3",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.3.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Investment components",
+        "Reference": "ReBBA.DCF.5.7|ReBBA.CSM.5.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "ReBBA_D.LRC_A.4.1|ReBBA_D.LRC_A.4.2|ReBBA_D.LRC_A.4.3|ReBBA_D.LRC_A.4.4|ReBBA_D.LRC_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Premiums received",
+        "Reference": "ReBBA.ICL.4.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Commission received from reinsurer",
+        "Reference": "ReBBA.ICL.4.3",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.4.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "ReBBA.DCF.7|ReBBA.RA.7|ReBBA.CSM.7minusReBBA.MISC.1.17",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract assets",
+        "Reference": "ReBBA.DCF.8.1|ReBBA.RA.8.1|ReBBA.CSM.8.1minusReBBA.MISC.1.18",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.5.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract liabilities",
+        "Reference": "ReBBA.DCF.8.2|ReBBA.RA.8.2|ReBBA.CSM.8.2|ReBBA.MISC.1.15|ReBBA.MISC.1.13minusReBBA.MISC.1.18",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LRC_A.6",
+        "Level": "",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "ReBBA_D.LRC_A.4|ReBBA_D.LRC_A.3|ReBBA_D.LRC_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage (Loss Recovery Component)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "ReBBA.MISC.1.13",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract assets",
+        "Reference": "ReBBA.MISC.1.14",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract liabilities",
+        "Reference": "ReBBA.MISC.1.13minusReBBA.MISC.1.14",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "ReBBA.MISC.1.13",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "ReBBA_D.LR_A.3.1|ReBBA_D.LR_A.3.2|ReBBA_D.LR_A.3.3|ReBBA_D.LR_A.3.4|ReBBA_D.LR_A.3.5|ReBBA_D.LR_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance revenue",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Reinsurance service expenses",
+        "Reference": "ReBBA_D.LR_A.3.2.1|ReBBA_D.LR_A.3.2.2|ReBBA_D.LR_A.3.2.3|ReBBA_D.LR_A.3.2.4|ReBBA_D.LR_A.3.2.5|ReBBA_D.LR_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "ReBBA.MISC.1.15",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.2.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance finance expenses through profit and loss",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance finance expenses through OCI",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.3.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Investment components",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "ReBBA_D.LR_A.4.1|ReBBA_D.LR_A.4.2|ReBBA_D.LR_A.4.3|ReBBA_D.LR_A.4.4|ReBBA_D.LR_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.4.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "ReBBA.MISC.1.17",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract assets",
+        "Reference": "ReBBA.MISC.1.18",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.5.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract liabilities",
+        "Reference": "ReBBA.MISC.1.13|ReBBA.MISC.1.15minusReBBA.MISC.1.18",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LR_A.6",
+        "Level": "",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "ReBBA_D.LR_A.4|ReBBA_D.LR_A.3|ReBBA_D.LR_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Incurred Claim",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "ReBBA.LIC.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract assets",
+        "Reference": "ReBBA.LIC.1.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening Reinsurance contract liabilities",
+        "Reference": "ReBBA.LIC.1.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "ReBBA.LIC.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3",
+        "Level": "",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "ReBBA_D.LIC_A.3.1|ReBBA_D.LIC_A.3.2|ReBBA_D.LIC_A.3.3|ReBBA_D.LIC_A.3.4|ReBBA_D.LIC_A.3.5|ReBBA_D.LIC_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance revenue",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Reinsurance service expenses",
+        "Reference": "ReBBA_D.LIC_A.3.2.1|ReBBA_D.LIC_A.3.2.2|ReBBA_D.LIC_A.3.2.3|ReBBA_D.LIC_A.3.2.4|ReBBA_D.LIC_A.3.2.5|ReBBA_D.LIC_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "ReBBA.LIC.5.5|ReBBA.LIC.5.6minusReBBA.ICL.4.5",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "ReBBA.LIC.5.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "ReBBA.LIC.6",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.2.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through profit and loss",
+        "Reference": "ReBBA.LIC.4.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Reinsurance finance expenses through OCI",
+        "Reference": "ReBBA.LIC.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.3.6",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Investment components",
+        "Reference": "ReBBA.LIC.5.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "ReBBA_D.LIC_A.4.1|ReBBA_D.LIC_A.4.2|ReBBA_D.LIC_A.4.3|ReBBA_D.LIC_A.4.4|ReBBA_D.LIC_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Claims paid",
+        "Reference": "-ReBBA.CFS.11minusReBBA.CFS.18",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "ReBBA.ICL.4.5",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.4.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "ReBBA.LIC.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract assets",
+        "Reference": "ReBBA.LIC.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.5.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing reinsurance contract liabilities",
+        "Reference": "ReBBA.LIC.8.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.LIC_A.6",
+        "Level": "",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "ReBBA_D.LIC_A.4|ReBBA_D.LIC_A.3|ReBBA_D.LIC_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

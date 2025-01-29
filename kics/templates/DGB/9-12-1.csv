@@ -1,0 +1,28 @@
+﻿구분,구분,구분,계정금액
+기본자본,순자산가치,,NAST_VAL
+기본자본,차감항목,보통주外 자본성증권(기본자본요건 미충족),CSCRT_SCSTF_CSTK_OTH_AMT
+기본자본,차감항목,계약자지분조정금액,CSAJT_AMT
+기본자본,차감항목,해약환급금부족분상당액중 해지위험으로 인한 요구자본 초과분,CRDF_IN_CCRSK_RQUAT_EXCS_AMT
+기본자본,차감항목,담보제공자산의 현재가치 중 피담보채무의 현재가치를 초과한 금액,CSCPV_RRC_EXCS_AMT
+기본자본,차감항목,순 확정급여형 퇴직연금자산 상당액,NDBAST_AMT
+기본자본,차감항목,지급이 예정된 주주배당액,PPND_SHOD_DIVD_AMT
+기본자본,차감항목,교차보유한 자본성증권,CHOD_CSCRT_AMT
+기본자본,차감항목,순이연법인세자산,SPCPT_RCLTG_NDCTA_AMT
+기본자본,차감항목,차감항목 계,COCPT_DITM_TTL_AMT
+기본자본,연결관련 차감항목,비지배지분중 종속회사 요구자본의 비지배지분 상응액을 초과하는 금액,NDCRAM_EXCS_AMT
+기본자본,기본자본 계,인정한도 적용 전,ALA_BF_COCPT_AMT
+기본자본,기본자본 계,인정한도 적용 후,ALA_AF_COCPT_TTL_SHMT_AMT
+보완자본,기본자본 인정한도를 초과한 금액,기본자본 인정한도를 초과한 금액,CILT_EXCS_SHMT_AMT
+보완자본,재분류항목,보통주外 자본성증권(보완자본요건 충족),CSCRT_SCSTF_CSTK_OTH_AMT
+보완자본,재분류항목,계약자지분조정 상당액,CSAJAM_DINSDT_RQUAT_PART_AMT
+보완자본,재분류항목,해약환급금부족분상당액중 해지위험으로 인한 요구자본 초과분,CRDF_IN_CCRSK_RQUAT_EXCS_AMT
+보완자본,재분류항목,담보제공자산의 현재가치 중 피담보채무의 현재가치를 초과한 금액,CSCPV_RRC_EXCS_AMT
+보완자본,재분류항목,순 확정급여형 퇴직연금자산 상당액,NDBAST_50PCT_AMT
+보완자본,재분류항목,순이연법인세자산,SPCPT_RCLTG_NDCTA_AMT
+보완자본,재분류항목,재분류항목 계,SPCPT_RCLITM_TTL_SHMT_AMT
+보완자본,부채항목,후순위채무,CSSC_STFCA_ODBAMT_AMT
+보완자본,부채항목,상환우선주,CSSC_STFC_CPSTK_AMT
+보완자본,부채항목,부채항목 계,SPCPT_LBITM_TTL_AMT
+보완자본,보완자본 계,인정한도 적용 전,SPCPT_AMT
+보완자본,보완자본 계,인정한도 적용 후(총 요구자본의 50%),SPCPT_TTL_SHMT_AMT
+가용자본 계,가용자본 계,가용자본 계,AVCPT_SHMT_TTL_AMT

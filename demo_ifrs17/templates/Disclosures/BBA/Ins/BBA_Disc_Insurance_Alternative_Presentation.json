@@ -1,0 +1,72 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Alternative Presentation",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amounts relating to the changes in the liability for remaining coverage:",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance service expenses incurred",
+        "Reference": "BBA.CFS.7.1|BBA.CFS.7.2|BBA.LC.4.5minusBBA.CFS.11.1|BBA.CFS.11.2|BBA.DCF.5.4|BBA.LC.5.4",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Contractual service margin recognised in profit or loss",
+        "Reference": "-BBA.CSM.5.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Change in the risk adjustment for non-financial risk caused by the release from risk",
+        "Reference": "-BBA.RA.5.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.1.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Allocation of recovery of insurance deferred expense cash flows",
+        "Reference": "-BBA.ICL.4.5|BBA.MISC.1.22",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.INSREV_Alt.2",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance revenue not measured under PAA",
+        "Reference": "BBA_D.INSREV_Alt.1.1|BBA_D.INSREV_Alt.1.2|BBA_D.INSREV_Alt.1.3|BBA_D.INSREV_Alt.1.4",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

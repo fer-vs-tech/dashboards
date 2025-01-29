@@ -1,0 +1,7 @@
+﻿Contents,Risk amount,Diversified (at company level),Proportion
+Market Risk,SCR_Mkt,RiskDiversifed_1,RiskPropotion_1
+Life Ins Risk,SCR_Life,RiskDiversifed_2,RiskPropotion_2
+Health Ins Risk,SCR_Health,RiskDiversifed_3,RiskPropotion_3
+Non-Life Ins Risk,SCR_NonLife,RiskDiversifed_4,RiskPropotion_4
+Counterparty Default Risk,SCR_Def,RiskDiversifed_5,RiskPropotion_5
+Operation Risk,SCR_Op,SCR_Op,RiskPropotion_6

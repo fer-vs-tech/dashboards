@@ -1,0 +1,252 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Statement of Change In Equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Share capital",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Opening equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.1.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.1.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.1.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Closing equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Fair value reserve",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Opening equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.3.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.3.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.3.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.4",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Closing equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Retained earnings",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.5",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Opening equity",
+        "Reference": "ReBBA.MISC.1.6minusReBBA.ICL.2",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.5.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Profit for the year",
+        "Reference": "ReBBA.KEY.6",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.5.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.5.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.6",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Closing equity",
+        "Reference": "ReBBA_D.EQ.5|ReBBA_D.EQ.5.1|ReBBA_D.EQ.5.2|ReBBA_D.EQ.5.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Other comprehensive income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.7",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Opening equity",
+        "Reference": "ReBBA.KEY.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.7.1",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.7.2",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "ReBBA.KEY.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.7.3",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "ReBBA_D.EQ.8",
+        "Level": "",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Closing equity",
+        "Reference": "ReBBA_D.EQ.7|ReBBA_D.EQ.7.1|ReBBA_D.EQ.7.2|ReBBA_D.EQ.7.3",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Reconciliation A: LRC & LIC for Insurance Contracts",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Insurance Contract Liability A",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.LRC_A.1|BBA_D.LC_A.1|BBA_D.LR_A.1|BBA_D.LIC_A.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.LRC_A.1.1|BBA_D.LC_A.1.1|BBA_D.LR_A.1.1|BBA_D.LIC_A.1.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.LRC_A.1.2|BBA_D.LC_A.1.2|BBA_D.LR_A.1.2|BBA_D.LIC_A.1.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA.ICL.2|BBA.ICL.3minusBBA.LC.3",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "BBA_D.ICL_A.3.1|BBA_D.ICL_A.3.2|BBA_D.ICL_A.3.3|BBA_D.ICL_A.3.4|BBA_D.ICL_A.3.5|BBA_D.ICL_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance revenue",
+        "Reference": "BBA_D.LRC_A.3.1|BBA_D.LC_A.3.1|BBA_D.LR_A.3.1|BBA_D.LIC_A.3.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Insurance service expenses",
+        "Reference": "BBA_D.ICL_A.3.2.1|BBA_D.ICL_A.3.2.2|BBA_D.ICL_A.3.2.3|BBA_D.ICL_A.3.2.4|BBA_D.ICL_A.3.2.5|BBA_D.ICL_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "BBA_D.LRC_A.3.2.1|BBA_D.LC_A.3.2.1|BBA_D.LR_A.3.2.1|BBA_D.LIC_A.3.2.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "BBA_D.LRC_A.3.2.4|BBA_D.LC_A.3.2.4|BBA_D.LR_A.3.2.4|BBA_D.LIC_A.3.2.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.5",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "BBA_D.LRC_A.3.2.5|BBA_D.LC_A.3.2.5|BBA_D.LR_A.3.2.5|BBA_D.LIC_A.3.2.5",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.2.6",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "BBA_D.LRC_A.3.2.6|BBA_D.LC_A.3.2.6|BBA_D.LR_A.3.2.6|BBA_D.LIC_A.3.2.6",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.LRC_A.3.3|BBA_D.LC_A.3.3|BBA_D.LR_A.3.3|BBA_D.LIC_A.3.3",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "BBA_D.LRC_A.3.4|BBA_D.LC_A.3.4|BBA_D.LR_A.3.4|BBA_D.LIC_A.3.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "BBA_D.LRC_A.3.5|BBA_D.LC_A.3.5|BBA_D.LR_A.3.5|BBA_D.LIC_A.3.5",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.3.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Investment components",
+        "Reference": "BBA_D.LRC_A.3.6|BBA_D.LC_A.3.6|BBA_D.LR_A.3.6|BBA_D.LIC_A.3.6",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "BBA_D.ICL_A.4.1|BBA_D.ICL_A.4.2|BBA_D.ICL_A.4.3|BBA_D.ICL_A.4.4|BBA_D.ICL_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Premiums received",
+        "Reference": "BBA_D.LRC_A.4.1|BBA_D.LC_A.4.1|BBA_D.LR_A.4.1|BBA_D.LIC_A.4.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Claims paid",
+        "Reference": "BBA_D.LRC_A.4.3|BBA_D.LC_A.4.3|BBA_D.LR_A.4.3|BBA_D.LIC_A.4.3",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "BBA_D.LRC_A.4.4|BBA_D.LC_A.4.4|BBA_D.LR_A.4.4|BBA_D.LIC_A.4.4",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.4.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA.ICL.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.5.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.LRC_A.5.1|BBA_D.LC_A.5.1|BBA_D.LR_A.5.1|BBA_D.LIC_A.5.1",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.5.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.LRC_A.5.2|BBA_D.LC_A.5.2|BBA_D.LR_A.5.2|BBA_D.LIC_A.5.2",
+        "Ref_Type": "Sum_External_Disc",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.ICL_A.6",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "BBA_D.ICL_A.4|BBA_D.ICL_A.3|BBA_D.ICL_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

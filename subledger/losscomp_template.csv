@@ -1,0 +1,29 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+LossComp,1,,Confirmation of loss FCF,Ending_Reset_BEL_Loss_LossComp_Proc,Ending_Reset_BEL_Loss_LossComp_Proc,BEL New Biz-Loss,NB,Cr
+,1,, according to the GOD loss rate ,Confirming_BEL_OtherComp,,BEL New Biz-Other,NB,Dr
+,1,,at the end of the term,Ending_Reset_RA_Loss_LossComp_Proc,Ending_Reset_RA_Loss_LossComp_Proc,RA New Biz-Loss,NB,Cr
+,1,1,,Confirming_RA_OtherComp,,RA New Biz-Other,NB,Dr
+,0,,Writing the difference between,AOCI(BEL)_Loss_OtherComp,,AOCI(BEL) Loss New Biz-Other,NB,Dr
+,0,, the balance after economic ,AOCI(BEL)_Gain_OtherComp,,AOCI(BEL) Gain New Biz-Other,NB,Cr
+,0,,assumption and the balance updated ,Ending_AOCI_BEL_Other_LossComp_Proc,Ending_AOCI_BEL_Other_LossComp_Proc,BEL(AOCI) New Biz-Other,NB,Cr
+,0,,current EIR on OCI account,AOCI(BEL)_Loss_LossComp,,AOCI(BEL) Loss New Biz-Loss,NB,Dr
+,0,,,AOCI(BEL)_Gain_LossComp,,AOCI(BEL) Gain New Biz-Loss,NB,Cr
+,0,,,Ending_AOCI_BEL_Loss_LossComp_Proc,Ending_AOCI_BEL_Loss_LossComp_Proc,BEL(AOCI) New Biz-Loss,NB,Cr
+,0,,,AOCI(RA)_Loss_OtherComp,,AOCI(RA) Loss New Biz-Other,NB,Dr
+,0,,,AOCI(RA)_Gain_OtherComp,,AOCI(RA) Gain New Biz-Other,NB,Cr
+,0,,,Ending_AOCI_RA_Other_LossComp_Proc,Ending_AOCI_RA_Other_LossComp_Proc,RA(AOCI) New Biz-Other,NB,Cr
+,0,,,AOCI(RA)_Loss_LossComp,,AOCI(RA) Loss New Biz-Loss,NB,Dr
+,0,,,AOCI(RA)_Gain_LossComp,,AOCI(RA) Gain New Biz-Loss,NB,Cr
+,0,1,,Ending_AOCI_RA_Loss_LossComp_Proc,Ending_AOCI_RA_Loss_LossComp_Proc,RA(AOCI) New Biz-Loss,NB,Cr
+,1,,Writing deferred corporate tax ,Ending_corporate_tax_AOCI_BEL_Loss_neg,Ending_corporate_tax_AOCI_BEL_Loss,AOCI(DTL-BEL) Loss New Biz-Loss,NB,Dr
+,1,,amount derived from the OCI ,Ending_corporate_tax_AOCI_BEL_Other_neg,Ending_corporate_tax_AOCI_BEL_Other,AOCI(DTL-BEL) Loss New Biz-Other,NB,Dr
+,1,,amount for the current term,DTL_for_BEL_Loss,,Deferred Tax Liabilities,NB,Cr
+,1,,,DTL_for_BEL_Gain,,Deferred Tax Liabilities,NB,Dr
+,1,,,Ending_corporate_tax_AOCI_BEL_Loss_pos,Ending_corporate_tax_AOCI_BEL_Loss,AOCI(DTL-BEL) Gain New Biz-Loss,NB,Cr
+,1,,,Ending_corporate_tax_AOCI_BEL_Other_pos,Ending_corporate_tax_AOCI_BEL_Other,AOCI(DTL-BEL) Gain New Biz-Other,NB,Cr
+,1,,,Ending_corporate_tax_AOCI_RA_Loss_neg,Ending_corporate_tax_AOCI_RA_Loss,AOCI(DTL-RA) Loss New Biz-Loss,NB,Dr
+,1,,,Ending_corporate_tax_AOCI_RA_Other_neg,Ending_corporate_tax_AOCI_RA_Other,AOCI(DTL-RA) Loss New Biz-Other,NB,Dr
+,1,,,DTL_for_RA_Loss,,Deferred Tax Liabilities,NB,Cr
+,1,,,DTL_for_RA_Gain,,Deferred Tax Liabilities,NB,Dr
+,1,,,Ending_corporate_tax_AOCI_RA_Loss_pos,Ending_corporate_tax_AOCI_RA_Loss,AOCI(DTL-RA) Gain New Biz-Loss,NB,Cr
+,1,2,,Ending_corporate_tax_AOCI_RA_Other_pos,Ending_corporate_tax_AOCI_RA_Other,AOCI(DTL-RA) Gain New Biz-Other,NB,Cr

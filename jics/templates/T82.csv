@@ -1,0 +1,5 @@
+﻿住宅ローン以外の不動産ローン,,所要資本
+（返済が不動産収入に依存しないもの）,T82,[1]
+合計,[1],RC_Credit_Mortgage_Loan2
+LTV > 60%,[2],RC_Credit_Mortgage_Loan2_LTV00
+LTV <= 60%,[3],RC_Credit_Mortgage_Loan2_LTV60

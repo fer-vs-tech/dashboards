@@ -1,0 +1,17 @@
+﻿その他の巨大災害,その他の巨大災害,損失額 （プロテクション控除前）,損失額 （プロテクション控除後）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T47,[1],[2],[3],[4=2-3]
+テロ攻撃,[1],dNAV_Terror_wo_P,dNAV_Terror,,
+    損害保険（財物）,[2],dNAV_Terror_Property_wo_P,dNAV_Terror_Property,,
+    損害保険（その他）,[3],dNAV_Terror_Other_wo_P,dNAV_Terror_Other,,
+    死亡および身体障害,[4],dNAV_Terror_Life_wo_P,dNAV_Terror_Life,,
+パンデミック,[5],dNAV_Pandemic_wo_P_MA,dNAV_Pandemic_wo_MA,MA_effect_Pandemic,dNAV_Pandemic
+    欧州経済領域（EEA）およびスイス,[6],dNAV_Pandemic_EEA_CHE_wo_P_MA,dNAV_Pandemic_EEA_CHE_wo_MA,,
+    米国およびカナダ,[7],dNAV_Pandemic_USA_CAN_wo_P_MA,dNAV_Pandemic_USA_CAN_wo_MA,,
+    中国,[8],dNAV_Pandemic_CHN_wo_P_MA,dNAV_Pandemic_CHN_wo_MA,,
+    日本,[9],dNAV_Pandemic_JPN_wo_P_MA,dNAV_Pandemic_JPN_wo_MA,,
+    その他先進国市場,[10],dNAV_Pandemic_DM_wo_P_MA,dNAV_Pandemic_DM_wo_MA,,
+    その他新興市場,[11],dNAV_Pandemic_EM_wo_P_MA,dNAV_Pandemic_EM_wo_MA,,
+信用および保証,[12],dNAV_Credit_wo_P,dNAV_Credit,,
+    不動産ローン保証保険,[13],dNAV_Mortgage_Ins_wo_P,dNAV_Mortgage_Ins,,
+    取引信用保険,[14],dNAV_Trade_Credit_Ins_wo_P,dNAV_Trade_Credit_Ins,,
+    保証,[15],dNAV_Guarantee_Ins_wo_P,dNAV_Guarantee_Ins,,

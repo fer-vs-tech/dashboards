@@ -1,0 +1,20 @@
+﻿通貨間の統合,通貨間の統合,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分
+,,CUR1,CUR2,CUR3,CUR4,CUR5,CUR6,その他,合計
+,T50,[1],[2],[3],[4],[5],[6],[7],[8]
+通貨,[1],CUR1,CUR2,CUR3,CUR4,CUR5,CUR6,,
+平均回帰シナリオ（マネジメント・アクション考慮後）,[2],dNAV_MR_CUR1,dNAV_MR_CUR2,dNAV_MR_CUR3,dNAV_MR_CUR4,dNAV_MR_CUR5,dNAV_MR_CUR6,dNAV_MR_CUR7,dNAV_MR
+水準およびねじれストレスシナリオ（マネジメント・アクション考慮後）,[3],,,,,,,,dNAV_Level_Twist
+    上昇ストレス,[4],dNAV_LU_CUR1,dNAV_LU_CUR2,dNAV_LU_CUR3,dNAV_LU_CUR4,dNAV_LU_CUR5,dNAV_LU_CUR6,dNAV_LU_CUR7,dNAV_LU
+    下降ストレス,[5],dNAV_LD_CUR1,dNAV_LD_CUR2,dNAV_LD_CUR3,dNAV_LD_CUR4,dNAV_LD_CUR5,dNAV_LD_CUR6,dNAV_LD_CUR7,dNAV_LD
+    フラットニング・ストレス,[6],dNAV_TUD_CUR1,dNAV_TUD_CUR2,dNAV_TUD_CUR3,dNAV_TUD_CUR4,dNAV_TUD_CUR5,dNAV_TUD_CUR6,dNAV_TUD_CUR7,dNAV_TUD
+    スティープニング・ストレス,[7],dNAV_TDU_CUR1,dNAV_TDU_CUR2,dNAV_TDU_CUR3,dNAV_TDU_CUR4,dNAV_TDU_CUR5,dNAV_TDU_CUR6,dNAV_TDU_CUR7,dNAV_TDU
+    統合後,[8],dNAV_Level_Twist_Consol_CUR1,dNAV_Level_Twist_Consol_CUR2,dNAV_Level_Twist_Consol_CUR3,dNAV_Level_Twist_Consol_CUR4,dNAV_Level_Twist_Consol_CUR5,dNAV_Level_Twist_Consol_CUR6,dNAV_Level_Twist_Consol_CUR7,dNAV_Level_Twist_Consol
+    通貨毎の所要資本,[9],dNAV_Int_CUR1,dNAV_Int_CUR2,dNAV_Int_CUR3,dNAV_Int_CUR4,dNAV_Int_CUR5,dNAV_Int_CUR6,dNAV_Int_CUR7,dNAV_Int
+平均回帰シナリオ（マネジメント・アクション考慮前）,[10],dNAV_MR_CUR1_wo_MA,dNAV_MR_CUR2_wo_MA,dNAV_MR_CUR3_wo_MA,dNAV_MR_CUR4_wo_MA,dNAV_MR_CUR5_wo_MA,dNAV_MR_CUR6_wo_MA,dNAV_MR_CUR7_wo_MA,dNAV_MR_wo_MA
+水準およびねじれストレスシナリオ（マネジメント・アクション考慮前）,[11],,,,,,,,dNAV_Level_Twist_wo_MA
+    上昇ストレス,[12],dNAV_LU_CUR1_wo_MA,dNAV_LU_CUR2_wo_MA,dNAV_LU_CUR3_wo_MA,dNAV_LU_CUR4_wo_MA,dNAV_LU_CUR5_wo_MA,dNAV_LU_CUR6_wo_MA,dNAV_LU_CUR7_wo_MA,dNAV_LU_wo_MA
+    下降ストレス,[13],dNAV_LD_CUR1_wo_MA,dNAV_LD_CUR2_wo_MA,dNAV_LD_CUR3_wo_MA,dNAV_LD_CUR4_wo_MA,dNAV_LD_CUR5_wo_MA,dNAV_LD_CUR6_wo_MA,dNAV_LD_CUR7_wo_MA,dNAV_LD_wo_MA
+    フラットニング・ストレス,[14],dNAV_TUD_CUR1_wo_MA,dNAV_TUD_CUR2_wo_MA,dNAV_TUD_CUR3_wo_MA,dNAV_TUD_CUR4_wo_MA,dNAV_TUD_CUR5_wo_MA,dNAV_TUD_CUR6_wo_MA,dNAV_TUD_CUR7_wo_MA,dNAV_TUD_wo_MA
+    スティープニング・ストレス,[15],dNAV_TDU_CUR1_wo_MA,dNAV_TDU_CUR2_wo_MA,dNAV_TDU_CUR3_wo_MA,dNAV_TDU_CUR4_wo_MA,dNAV_TDU_CUR5_wo_MA,dNAV_TDU_CUR6_wo_MA,dNAV_TDU_CUR7_wo_MA,dNAV_TDU_wo_MA
+    統合後,[16],dNAV_L_T_Consol_CUR1_wo_MA,dNAV_L_T_Consol_CUR2_wo_MA,dNAV_L_T_Consol_CUR3_wo_MA,dNAV_L_T_Consol_CUR4_wo_MA,dNAV_L_T_Consol_CUR5_wo_MA,dNAV_L_T_Consol_CUR6_wo_MA,dNAV_L_T_Consol_CUR7_wo_MA,dNAV_L_T_Consol_wo_MA
+通貨毎の所要資本,[17],dNAV_Int_CUR1_wo_MA,dNAV_Int_CUR2_wo_MA,dNAV_Int_CUR3_wo_MA,dNAV_Int_CUR4_wo_MA,dNAV_Int_CUR5_wo_MA,dNAV_Int_CUR6_wo_MA,dNAV_Int_CUR7_wo_MA,dNAV_Int_wo_MA

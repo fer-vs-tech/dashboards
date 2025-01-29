@@ -1,0 +1,22 @@
+﻿,未到期责任负债,未到期责任负债,已发生赔款负债,已发生赔款负债,总计
+,非亏损部分,亏损部分,未来现金流量现值,非金融风险调整,
+ 期初的保险合同负债 ,LRC_Profit_SoP_Insurance_Liability,LRC_Onerous_SoP_Insurance_Liability,LIC_CF_SoP_Insurance_Liability,LIC_RA_SoP_Insurance_Liability,Total_SoP_Insurance_Liability
+ 保险收入 ,LRC_Profit_ISR,LRC_Onerous_ISR,LIC_CF_ISR,LIC_RA_ISR,Total_ISR
+  - 保险获取现金流量的摊销 ,,,,,Total_ISR_IACF
+  - 保费分配法分摊,,,,,Total_ISR_Prem
+  - 保险财务费用收入 ,,,,,Total_ISR_Finance_Expesnse
+ 保险服务费用  ,LRC_Profit_ISE,LRC_Onerous_ISE,LIC_CF_ISE,LIC_RA_ISE,Total_ISE
+  - 当期发生赔款及其他相关费用 ,,,LIC_CF_ISE_Claim_Expenses,LIC_RA_ISE_Claim_Expenses,Total_ISE_Claim_Expenses
+  - 保险获取现金流量的摊销 ,LRC_Profit_ISE_IACF,,,,Total_ISE_IACF
+  - 亏损确认及转回 ,,LRC_Onerous_ISE_Loss,,,Total_ISE_Loss
+  - 已发生赔款负债履约现金流变动 ,,,LIC_CF_ISE_Experrience_Adj,LIC_RA_ISE_Experrience_Adj,Total_ISE_Experrience_Adj
+  - 再保险不履约风险变动额,LRC_Profit_ISE_Non_Performance,LRC_Onerous_ISE_Non_Performance,LRC_CF_ISE_Non_Performance,LRC_RA_ISE_Non_Performance,Total_ISE_Non_Performance
+ 保险服务业绩,LRC_Profit_Insurance_Service_Related,LRC_Onerous_Insurance_Service_Related,LIC_CF_Insurance_Service_Related,LIC_RA_Insurance_Service_Related,Total_Insurance_Service_Related
+ 保险财务费用,LRC_Profit_IFIE,LRC_Onerous_IFIE,LIC_CF_IFIE,LIC_RA_IFIE,Total_IFIE
+ 相关综合收益变动合计 ,LRC_Profit_Comprehensive_Income,LRC_Onerous_Comprehensive_Income,LIC_CF_Comprehensive_Income,LIC_RA_Comprehensive_Income,Total_Comprehensive_Income
+ 投资成分 ,LRC_Profit_Investment_Component,,,,Total_Investment_Component
+ 现金流总计,LRC_Profit_CF_Total,LRC_Onerous_CF_Total,LIC_CF_CF_Total,LIC_RA_CF_Total,Total_CF_Total
+  - 收到的保费 ,LRC_Profit_CF_Prem_Received,,,,Total_CF_Prem_Received
+  - 支付的保险获取现金流量 ,LRC_Profit_CF_IACF_Paid,,,,Total_CF_IACF_Paid
+  - 支付的赔款及其他相关费用 ,,,LIC_CF_CF_Claim_Expenses_Paid,,Total_CF_Claim_Expenses_Paid
+ 期末保险合同负债 ,LRC_Profit_EoP_Insurance_Liability,LRC_Onerous_EoP_Insurance_Liability,LIC_CF_EoP_Insurance_Liability,LIC_RA_EoP_Insurance_Liability,Total_EoP_Insurance_Liability

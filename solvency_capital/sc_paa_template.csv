@@ -1,0 +1,17 @@
+﻿Date,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+3/31/2019,,,Premium received,CF_Premium_Opening,CF_Premium_Opening,Cash,NB,Dr
+,,,,CF_Premium_Opening_cr,,BEL_Other_PAA,NB,Cr
+,,,Expense / reduce BEL for ,DAC_Initial_New_Opening,DAC_Initial_New_Opening,BEL_Other_PAA,NB,Dr
+,,,acquisition cash flows,DAC_Initial_New_Opening_cr,,Cash,NB,Cr
+,,,Revenue recognition,Insurance_Contract_Revenue,Insurance_Contract_Revenue,BEL_Other_PAA,NB,Dr
+,,,,Insurance_Contract_Revenue_cr,,Insurance_Revenue,NB,Cr
+,,,LIC recognition,Insurance_Service_Expenses_LIC,Insurance_Service_Expenses_LIC,Insurance_Expense,NB,Dr
+,,,,Insurance_Service_Expenses_LIC_cr,,LIC_PAA,NB,Cr
+,,,Loss component recognition,Loss_On_Onerous_Group_LossComp,Loss_On_Onerous_Group_LossComp,Insurance_Expense,NB,Dr
+,,,,Loss_On_Onerous_Group_LossComp_cr,,BEL_Loss_PAA,NB,Cr
+,,,Claim paid,Outgo_Total_Paid,Outgo_Total_Paid,Insurance_Expense,NB,Dr
+,,,,Outgo_Total_Paid_cr,,Cash,NB,Cr
+,,,LIC derecognition,Liability_Incurred_Claims_derecog,Liability_Incurred_Claims_derecog,LIC_PAA,NB,Dr
+,,,,Liability_Incurred_Claims_derecog_cr,,Insurance_Expense,NB,Cr
+,,,DAC amortization,DAC_amort_Curr,DAC_amort_Curr,Insurance_Expense,NB,Dr
+,,1,,DAC_amort_Curr_cr,,BEL_Other_PAA,NB,Cr

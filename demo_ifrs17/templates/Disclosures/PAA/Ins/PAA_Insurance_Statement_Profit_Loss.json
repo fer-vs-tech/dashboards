@@ -1,0 +1,212 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Statement of Profit & Loss",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.1",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance service result",
+        "Reference": "PAA_D.PL.1.1|PAA_D.PL.1.2|PAA_D.PL.1.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance revenue",
+        "Reference": "PAA.KEY.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance service expense",
+        "Reference": "PAA.KEY.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net income or expense from reinsurance contracts held",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.2",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Financial insurance result",
+        "Reference": "PAA_D.PL.2.1|PAA_D.PL.2.2|PAA_D.PL.2.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.2.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Investment income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.2.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses",
+        "Reference": "PAA.KEY.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.2.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance finance income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.3",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Other income and expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.4",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Income tax",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "PROFIT BEFORE TAX",
+        "Reference": "PAA.KEY.6",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL.6",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "PROFIT AFTER TAX",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Alternative Presentation",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes related to current service",
+        "Reference": "PAA.KEY.6|(-)PAA.CFS.17.1minusPAA.KEY.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes related to past service",
+        "Reference": "-PAA.CFS.17.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes related to future service: loss on onerous groups",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses",
+        "Reference": "PAA.KEY.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.1.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Other Expenses & Investment Income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.PL_Alt.2",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Profit",
+        "Reference": "PAA_D.PL_Alt.1.1|PAA_D.PL_Alt.1.2|PAA_D.PL_Alt.1.3|PAA_D.PL_Alt.1.4|PAA_D.PL_Alt.1.5|PAA_D.PL_Alt.1.6",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

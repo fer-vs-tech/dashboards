@@ -1,0 +1,7 @@
+﻿所要資本の要約,所要資本の要約,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T57,[1],[2],[3]
+スプレッドリスク（上昇）,[1],RC_Spr_Up_wo_MA,MA_Effect_RC_Spr_Up,RC_Spr_Up
+スプレッドリスク（下降）,[2],RC_Spr_Down_wo_MA,MA_Effect_RC_Spr_Down,RC_Spr_Down
+    採用されたストレス,[3],,,Scenario_Spr
+    上昇ストレス後,[4],dNAV_Spr_Up_wo_MA,MA_Effect_dNAV_Spr_Up,dNAV_Spr_Up
+    下降ストレス後,[5],dNAV_Spr_Down_wo_MA,MA_Effect_dNAV_Spr_Down,dNAV_Spr_Down

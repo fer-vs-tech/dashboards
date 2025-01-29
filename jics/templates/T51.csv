@@ -1,0 +1,17 @@
+﻿資産および負債（ストレス前）,資産および負債（ストレス前）,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分,主要な通貨への配分
+,,CUR1,CUR2,CUR3,CUR4,CUR5,CUR6,その他,合計
+,T51,[1],[2],[3],[4],[5],[6],[7],[8]
+資産から負債を控除した額（ストレス前）,[1],NAV_IntBase_CUR1,NAV_IntBase_CUR2,NAV_IntBase_CUR3,NAV_IntBase_CUR4,NAV_IntBase_CUR5,NAV_IntBase_CUR6,NAV_IntBase_CUR7,NAV_IntBase
+    資産,[2],Assets_IntBase_CUR1,Assets_IntBase_CUR2,Assets_IntBase_CUR3,Assets_IntBase_CUR4,Assets_IntBase_CUR5,Assets_IntBase_CUR6,Assets_IntBase_CUR7,Assets_IntBase
+        債券,[3],Bonds_IntBase_CUR1,Bonds_IntBase_CUR2,Bonds_IntBase_CUR3,Bonds_IntBase_CUR4,Bonds_IntBase_CUR5,Bonds_IntBase_CUR6,Bonds_IntBase_CUR7,Bonds_IntBase
+        貸付金,[4],Loans_IntBase_CUR1,Loans_IntBase_CUR2,Loans_IntBase_CUR3,Loans_IntBase_CUR4,Loans_IntBase_CUR5,Loans_IntBase_CUR6,Loans_IntBase_CUR7,Loans_IntBase
+        仕組証券,[5],Structured_Sec_IntBase_CUR1,Structured_Sec_IntBase_CUR2,Structured_Sec_IntBase_CUR3,Structured_Sec_IntBase_CUR4,Structured_Sec_IntBase_CUR5,Structured_Sec_IntBase_CUR6,Structured_Sec_IntBase_CUR7,Structured_Sec_IntBase
+        その他の投資資産,[6],Other_InvestAsset_IntBase_CUR1,Other_InvestAsset_IntBase_CUR2,Other_InvestAsset_IntBase_CUR3,Other_InvestAsset_IntBase_CUR4,Other_InvestAsset_IntBase_CUR5,Other_InvestAsset_IntBase_CUR6,Other_InvestAsset_IntBase_CUR7,Other_InvestAsset_IntBase
+        特別勘定の資産,[7],Separate_Accounts_IntBase_CUR1,Separate_Accounts_IntBase_CUR2,Separate_Accounts_IntBase_CUR3,Separate_Accounts_IntBase_CUR4,Separate_Accounts_IntBase_CUR5,Separate_Accounts_IntBase_CUR6,Separate_Accounts_IntBase_CUR7,Separate_Accounts_IntBase
+        再保険回収額・再保険貸,[8],Reins_Recoverable_IntBase_CUR1,Reins_Recoverable_IntBase_CUR2,Reins_Recoverable_IntBase_CUR3,Reins_Recoverable_IntBase_CUR4,Reins_Recoverable_IntBase_CUR5,Reins_Recoverable_IntBase_CUR6,Reins_Recoverable_IntBase_CUR7,Reins_Recoverable_IntBase
+        非運用資産,[9],Non_Invest_Assets_IntBase_CUR1,Non_Invest_Assets_IntBase_CUR2,Non_Invest_Assets_IntBase_CUR3,Non_Invest_Assets_IntBase_CUR4,Non_Invest_Assets_IntBase_CUR5,Non_Invest_Assets_IntBase_CUR6,Non_Invest_Assets_IntBase_CUR7,Non_Invest_Assets_IntBase
+        ヘッジ目的の金融資産の公正価値,[10],FV_of_Hedging_IntBase_CUR1,FV_of_Hedging_IntBase_CUR2,FV_of_Hedging_IntBase_CUR3,FV_of_Hedging_IntBase_CUR4,FV_of_Hedging_IntBase_CUR5,FV_of_Hedging_IntBase_CUR6,FV_of_Hedging_IntBase_CUR7,FV_of_Hedging_IntBase
+    将来の裁量給付に関する負債,[11],MA_Liab_IntBase_CUR1,MA_Liab_IntBase_CUR2,MA_Liab_IntBase_CUR3,MA_Liab_IntBase_CUR4,MA_Liab_IntBase_CUR5,MA_Liab_IntBase_CUR6,MA_Liab_IntBase_CUR7,MA_Liab_IntBase
+    生命保険の現在推計,[12],Liability_IntBase_CUR1,Liability_IntBase_CUR2,Liability_IntBase_CUR3,Liability_IntBase_CUR4,Liability_IntBase_CUR5,Liability_IntBase_CUR6,Liability_IntBase_CUR7,Liability_IntBase
+    損害保険の現在推計,[13],NonLife_Liability_IntBase_CUR1,NonLife_Liability_IntBase_CUR2,NonLife_Liability_IntBase_CUR3,NonLife_Liability_IntBase_CUR4,NonLife_Liability_IntBase_CUR5,NonLife_Liability_IntBase_CUR6,NonLife_Liability_IntBase_CUR7,NonLife_Liability_IntBase
+    その他の負債（適格資本の要件を充足しない項目）,[14],Other_Liab_IntBase_CUR1,Other_Liab_IntBase_CUR2,Other_Liab_IntBase_CUR3,Other_Liab_IntBase_CUR4,Other_Liab_IntBase_CUR5,Other_Liab_IntBase_CUR6,Other_Liab_IntBase_CUR7,Other_Liab_IntBase

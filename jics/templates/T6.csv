@@ -1,0 +1,13 @@
+﻿所要資本の要約,所要資本の要約,入力,計算,結果,係数
+,T6,[1],[2],[3],[4]
+所要資本,[1],,,RC_ToT,
+    非保険事業の所要資本,[2],,,RC_Non_Insurance,
+    保険事業の所要資本（税効果考慮後）,[3],,,RC_Insurance_post_Tax,
+        利用可能性の評価による影響額,[4],,,Utilisable_Tax_Effect_on_RC,Ins_RC_Calc_Factor
+            a. 欠損金の繰戻還付金と所要資本における税効果のうち小さい方の額の集計値,[5],a_Ins_RC_Input,a_Ins_RC_Calc,,a_Ins_RC_Calc_Factor
+            b. 保険事業から生じる将来の課税所得×実効税率,[6],,b_Ins_RC_Calc,,b_Ins_RC_Calc_Factor
+                過去5年間の会計ベースの税引前利益の合計,[7],b_1_Ins_RC_Input,,,
+                事業上の重要な変化による影響の調整,[8],b_2_Ins_RC_Input,,,
+            c. 保険事業に係る経済価値ベースの正味DTL,[9],,c_Ins_RC_Calc,,
+            d. 保険事業に係る経済価値ベースの正味DTA,[10],,d_Ins_RC_Calc,,d_Ins_RC_Calc_Factor
+            実効税率×保険事業の所要資本,[11],RC,Tax_on_RC_Ins,,Effective_Tax_Rate

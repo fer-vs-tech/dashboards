@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="icon" href="{{url_for('static', filename='assets/favicon.ico')}}">
+	<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/landing_page.css')}}" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>R3S Dashboards</title>
+</head>
+
+<body>
+	{# Main container #}
+	<div class="main-container">
+		<div class="content">
+			{# Left side #}
+			<div class="left-panel">
+				<div class="details">
+					<div class="title">R3S Dashboards</div>
+					<div class="break-line"></div>
+					<div class="description">Welcome to R3S Dashboards.<br />Dashboards can be launched directly from
+						your
+						R3S solution.
+					</div>
+					<div class="version">Version {{VERSION}}</div>
+				</div>
+			</div>
+			{# Right side #}
+			<div class="right-panel">
+				<object class="illustration" type="image/svg+xml"
+					data="{{url_for('static', filename='assets/landing_page_illust.svg')}}"></object>
+			</div>
+		</div>
+		{# Logo #}
+		<div class="logo">
+			<img src="{{url_for('static', filename='assets/rna_logo.png')}}" alt="R3S Logo">
+		</div>
+	</div>
+</body>
+
+</html>

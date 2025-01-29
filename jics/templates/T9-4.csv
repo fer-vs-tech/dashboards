@@ -1,0 +1,31 @@
+﻿Ⅳ - 純資産,[69],A_Total_Net_Assets,A_NL_Total_Net_Assets,A_L_Total_Net_Assets,E_RC_Total_Net_Assets,E_RV_Total_Net_Assets,E_L_Total_Net_Assets,E_Total_Net_Assets
+    基金等合計又は株主資本合計,[70],A_Total_SE_or_Funds,A_NL_Total_SE_or_Funds,A_L_Total_SE_or_Funds,E_RC_Total_SE_or_Funds,E_RV_Total_SE_or_Funds,E_L_Total_SE_or_Funds,E_Total_SE_or_Funds
+        基金又は資本金,[71],A_Fund_or_Equity,A_NL_Fund_or_Equity,A_L_Fund_or_Equity,E_RC_Fund_or_Equity,E_RV_Fund_or_Equity,E_L_Fund_or_Equity,E_Fund_or_Equity
+            うちその他拠出金等（持込資本金等）,[72],A_Brought_in_Capital,A_NL_Brought_in_Capital,A_L_Brought_in_Capital,E_RC_Brought_in_Capital,E_RV_Brought_in_Capital,E_L_Brought_in_Capital,E_Brought_in_Capital
+        基金申込証拠金又は新株式申込証拠金,[73],A_Deposit_for_Found_or_Stock,A_NL_Deposit_for_Found_or_Stock,A_L_Deposit_for_Found_or_Stock,E_RC_Deposit_for_Found_or_Stock,E_RV_Deposit_for_Found_or_Stock,E_L_Deposit_for_Found_or_Stock,E_Deposit_for_Found_or_Stock
+        基金償却積立金,[74],A_Foundation_Funds_Redeemed,A_NL_Foundation_Funds_Redeemed,A_L_Foundation_Funds_Redeemed,E_RC_Foundation_Funds_Redeemed,E_RV_Foundation_Funds_Redeemed,E_L_Foundation_Funds_Redeemed,E_Foundation_Funds_Redeemed
+        再評価積立金,[75],A_Reserve_for_Revaluation,A_NL_Reserve_for_Revaluation,A_L_Reserve_for_Revaluation,E_RC_Reserve_for_Revaluation,E_RV_Reserve_for_Revaluation,E_L_Reserve_for_Revaluation,E_Reserve_for_Revaluation
+        基金償却積立金減少差益,[76],A_Gain_from_Funds_Redeemed,A_NL_Gain_from_Funds_Redeemed,A_L_Gain_from_Funds_Redeemed,E_RC_Gain_from_Funds_Redeemed,E_RV_Gain_from_Funds_Redeemed,E_L_Gain_from_Funds_Redeemed,E_Gain_from_Funds_Redeemed
+        資本剰余金,[77],A_Capital_Surplus,A_NL_Capital_Surplus,A_L_Capital_Surplus,E_RC_Capital_Surplus,E_RV_Capital_Surplus,E_L_Capital_Surplus,E_Capital_Surplus
+        剰余金又は利益剰余金,[78],A_Retained_Earnings,A_NL_Retained_Earnings,A_L_Retained_Earnings,E_RC_Retained_Earnings,E_RV_Retained_Earnings,E_L_Retained_Earnings,E_Retained_Earnings
+        規制上の準備金,[79],,,,E_RC_Regulatory_Res,E_RV_Regulatory_Res,E_L_Regulatory_Res,E_Regulatory_Res
+        (-) 自己株式,[80],A_Treasury_Stock,A_NL_Treasury_Stock,A_L_Treasury_Stock,E_RC_Treasury_Stock,E_RV_Treasury_Stock,E_L_Treasury_Stock,E_Treasury_Stock
+        自己株式申込証拠金,[81],A_Deposit_for_TreasuryStock,A_NL_Deposit_for_TreasuryStock,A_L_Deposit_for_TreasuryStock,E_RC_Deposit_for_TreasuryStock,E_RV_Deposit_for_TreasuryStock,E_L_Deposit_for_TreasuryStock,E_Deposit_for_TreasuryStock
+    その他の包括利益累計額合計（評価・換算差額等合計）,[82],A_AOCI,A_NL_AOCI,A_L_AOCI,E_RC_AOCI,E_RV_AOCI,E_L_AOCI,E_AOCI
+        その他有価証券評価差額金,[83],A_Valuation_diff_on_Sec,A_NL_Valuation_diff_on_Sec,A_L_Valuation_diff_on_Sec,E_RC_Valuation_diff_on_Sec,E_RV_Valuation_diff_on_Sec,E_L_Valuation_diff_on_Sec,E_Valuation_diff_on_Sec
+        繰延ヘッジ損益,[84],A_Defered_on_Hedges,A_NL_Defered_on_Hedges,A_L_Defered_on_Hedges,E_RC_Defered_on_Hedges,E_RV_Defered_on_Hedges,E_L_Defered_on_Hedges,E_Defered_on_Hedges
+        土地再評価差額金,[85],A_Revaluation_Res_for_Land,A_NL_Revaluation_Res_for_Land,A_L_Revaluation_Res_for_Land,E_RC_Revaluation_Res_for_Land,E_RV_Revaluation_Res_for_Land,E_L_Revaluation_Res_for_Land,E_Revaluation_Res_for_Land
+        為替換算調整勘定,[86],A_Currency_Translation_Adj,A_NL_Currency_Translation_Adj,A_L_Currency_Translation_Adj,E_RC_Currency_Translation_Adj,E_RV_Currency_Translation_Adj,E_L_Currency_Translation_Adj,E_Currency_Translation_Adj
+        退職給付に係る調整累計額,[87],A_Remeasure_Retirement_Ben,A_NL_Remeasure_Retirement_Ben,A_L_Remeasure_Retirement_Ben,E_RC_Remeasure_Retirement_Ben,E_RV_Remeasure_Retirement_Ben,E_L_Remeasure_Retirement_Ben,E_Remeasure_Retirement_Ben
+    株式引受権,[88],A_Pre_Emption_Right,A_NL_Pre_Emption_Right,A_L_Pre_Emption_Right,E_RC_Pre_Emption_Right,E_RV_Pre_Emption_Right,E_L_Pre_Emption_Right,E_Pre_Emption_Right
+    新株予約権,[89],A_Stock_Acquisition_Right,A_NL_Stock_Acquisition_Right,A_L_Stock_Acquisition_Right,E_RC_Stock_Acquisition_Right,E_RV_Stock_Acquisition_Right,E_L_Stock_Acquisition_Right,E_Stock_Acquisition_Right
+    非支配株主持分,[90],A_NCIs,A_NL_NCIs,A_L_NCIs,E_RC_NCIs,E_RV_NCIs,E_L_NCIs,E_NCIs
+    その他,[91],A_Other,A_NL_Other,A_L_Other,E_RC_Other,E_RV_Other,E_L_Other,E_Other
+    有配当保険の保険契約者持分,[92],,,,E_RC_Policyholders_Share,E_RV_Policyholders_Share,E_L_Policyholders_Share,E_Policyholders_Share
+調整額,[93],,,,,,Total_Net_Assets_Adjustments,
+    資産に係る調整額,[94],,,,,,Investments_Adjustment_Offset,
+    税効果に係る調整額,[95],,,,,,Deferred_Tax_Adjustment_Offset,
+    その他の非保険負債に係る調整額,[96],,,,,,Other_Liab_Adj_Offset_Non_Ins,
+    保険負債および再保険に係る調整額,[97],,,,,,Insurance_Liab_Adj_Offset,
+    (-) 他の純資産項目に含まれている調整額,[98],,,,,,Adjustments_in_Net_Asset_Items,
+チェック,[99],,,,,,,

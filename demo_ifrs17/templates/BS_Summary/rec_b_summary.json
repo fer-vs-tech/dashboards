@@ -1,0 +1,205 @@
+[
+    {
+        "Description": "OPENING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.1|ReBBA_D.ICL_B.1|PAA_D.ICL_B.1|RePAA_D.ICL_B.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.1|ReBBA_D.DCF_B.1|PAA_D.DCF_B.1|RePAA_D.DCF_B.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.1|ReBBA_D.RA_B.1|PAA_D.RA_B.1|RePAA_D.RA_B.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.1|ReBBA_D.CSM_B.1|PAA_D.CSM_B.1|RePAA_D.CSM_B.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.1.1|ReBBA_D.ICL_B.1.1|PAA_D.ICL_B.1.1|RePAA_D.ICL_B.1.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.1.1|ReBBA_D.DCF_B.1.1|PAA_D.DCF_B.1.1|RePAA_D.DCF_B.1.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.1.1|ReBBA_D.RA_B.1.1|PAA_D.RA_B.1.1|RePAA_D.RA_B.1.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.1.1|ReBBA_D.CSM_B.1.1|PAA_D.CSM_B.1.1|RePAA_D.CSM_B.1.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.1.2|ReBBA_D.ICL_B.1.2|PAA_D.ICL_B.1.2|RePAA_D.ICL_B.1.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.1.2|ReBBA_D.DCF_B.1.2|PAA_D.DCF_B.1.2|RePAA_D.DCF_B.1.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.1.2|ReBBA_D.RA_B.1.2|PAA_D.RA_B.1.2|RePAA_D.RA_B.1.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.1.2|ReBBA_D.CSM_B.1.2|PAA_D.CSM_B.1.2|RePAA_D.CSM_B.1.2","Value":null}
+    },
+    {
+        "Description": "OPENING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.2|ReBBA_D.ICL_B.2|PAA_D.ICL_B.2|RePAA_D.ICL_B.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.2|ReBBA_D.DCF_B.2|PAA_D.DCF_B.2|RePAA_D.DCF_B.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.2|ReBBA_D.RA_B.2|PAA_D.RA_B.2|RePAA_D.RA_B.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.2|ReBBA_D.CSM_B.2|PAA_D.CSM_B.2|RePAA_D.CSM_B.2","Value":null}
+    },
+    {
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3|ReBBA_D.ICL_B.3|PAA_D.ICL_B.3|RePAA_D.ICL_B.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3|ReBBA_D.DCF_B.3|PAA_D.DCF_B.3|RePAA_D.DCF_B.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3|ReBBA_D.RA_B.3|PAA_D.RA_B.3|RePAA_D.RA_B.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3|ReBBA_D.CSM_B.3|PAA_D.CSM_B.3|RePAA_D.CSM_B.3","Value":null}
+    },
+    {
+        "Description": "Changes related to current services",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.1|ReBBA_D.ICL_B.3.1|PAA_D.ICL_B.3.1|RePAA_D.ICL_B.3.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.1|ReBBA_D.DCF_B.3.1|PAA_D.DCF_B.3.1|RePAA_D.DCF_B.3.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.1|ReBBA_D.RA_B.3.1|PAA_D.RA_B.3.1|RePAA_D.RA_B.3.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.1|ReBBA_D.CSM_B.3.1|PAA_D.CSM_B.3.1|RePAA_D.CSM_B.3.1","Value":null}
+    },
+    {
+        "Description": "CSM recognized in profit and loss",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.1.1|ReBBA_D.ICL_B.3.1.1|PAA_D.ICL_B.3.1.1|RePAA_D.ICL_B.3.1.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.1.1|ReBBA_D.DCF_B.3.1.1|PAA_D.DCF_B.3.1.1|RePAA_D.DCF_B.3.1.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.1.1|ReBBA_D.RA_B.3.1.1|PAA_D.RA_B.3.1.1|RePAA_D.RA_B.3.1.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.1.1|ReBBA_D.CSM_B.3.1.1|PAA_D.CSM_B.3.1.1|RePAA_D.CSM_B.3.1.1","Value":null}
+    },
+    {
+        "Description": "Risk Adjustment recognized in profit and loss",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.1.2|ReBBA_D.ICL_B.3.1.2|PAA_D.ICL_B.3.1.2|RePAA_D.ICL_B.3.1.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.1.2|ReBBA_D.DCF_B.3.1.2|PAA_D.DCF_B.3.1.2|RePAA_D.DCF_B.3.1.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.1.2|ReBBA_D.RA_B.3.1.2|PAA_D.RA_B.3.1.2|RePAA_D.RA_B.3.1.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.1.2|ReBBA_D.CSM_B.3.1.2|PAA_D.CSM_B.3.1.2|RePAA_D.CSM_B.3.1.2","Value":null}
+    },
+    {
+        "Description": "Experience adjustments",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.1.3|ReBBA_D.ICL_B.3.1.3|PAA_D.ICL_B.3.1.3|RePAA_D.ICL_B.3.1.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.1.3|ReBBA_D.DCF_B.3.1.3|PAA_D.DCF_B.3.1.3|RePAA_D.DCF_B.3.1.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.1.3|ReBBA_D.RA_B.3.1.3|PAA_D.RA_B.3.1.3|RePAA_D.RA_B.3.1.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.1.3|ReBBA_D.CSM_B.3.1.3|PAA_D.CSM_B.3.1.3|RePAA_D.CSM_B.3.1.3","Value":null}
+    },
+    {
+        "Description": "Changes related to future services",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.2|ReBBA_D.ICL_B.3.2|PAA_D.ICL_B.3.2|RePAA_D.ICL_B.3.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.2|ReBBA_D.DCF_B.3.2|PAA_D.DCF_B.3.2|RePAA_D.DCF_B.3.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.2|ReBBA_D.RA_B.3.2|PAA_D.RA_B.3.2|RePAA_D.RA_B.3.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.2|ReBBA_D.CSM_B.3.2|PAA_D.CSM_B.3.2|RePAA_D.CSM_B.3.2","Value":null}
+    },
+    {
+        "Description": "Contracts initially recognized in the period",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.2.1|ReBBA_D.ICL_B.3.2.1|PAA_D.ICL_B.3.2.1|RePAA_D.ICL_B.3.2.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.2.1|ReBBA_D.DCF_B.3.2.1|PAA_D.DCF_B.3.2.1|RePAA_D.DCF_B.3.2.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.2.1|ReBBA_D.RA_B.3.2.1|PAA_D.RA_B.3.2.1|RePAA_D.RA_B.3.2.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.2.1|ReBBA_D.CSM_B.3.2.1|PAA_D.CSM_B.3.2.1|RePAA_D.CSM_B.3.2.1","Value":null}
+    },
+    {
+        "Description": "Changes in estimates that adjust CSM",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.2.2|ReBBA_D.ICL_B.3.2.2|PAA_D.ICL_B.3.2.2|RePAA_D.ICL_B.3.2.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.2.2|ReBBA_D.DCF_B.3.2.2|PAA_D.DCF_B.3.2.2|RePAA_D.DCF_B.3.2.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.2.2|ReBBA_D.RA_B.3.2.2|PAA_D.RA_B.3.2.2|RePAA_D.RA_B.3.2.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.2.2|ReBBA_D.CSM_B.3.2.2|PAA_D.CSM_B.3.2.2|RePAA_D.CSM_B.3.2.2","Value":null}
+    },
+    {
+        "Description": "Changes in estimates that result in onerous contracts or reversal of losses",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.2.3|ReBBA_D.ICL_B.3.2.3|PAA_D.ICL_B.3.2.3|RePAA_D.ICL_B.3.2.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.2.3|ReBBA_D.DCF_B.3.2.3|PAA_D.DCF_B.3.2.3|RePAA_D.DCF_B.3.2.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.2.3|ReBBA_D.RA_B.3.2.3|PAA_D.RA_B.3.2.3|RePAA_D.RA_B.3.2.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.2.3|ReBBA_D.CSM_B.3.2.3|PAA_D.CSM_B.3.2.3|RePAA_D.CSM_B.3.2.3","Value":null}
+    },
+    {
+        "Description": "Changes that relate to past service adjustments to Paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.3|ReBBA_D.ICL_B.3.3|PAA_D.ICL_B.3.3|RePAA_D.ICL_B.3.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.3|ReBBA_D.DCF_B.3.3|PAA_D.DCF_B.3.3|RePAA_D.DCF_B.3.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.3|ReBBA_D.RA_B.3.3|PAA_D.RA_B.3.3|RePAA_D.RA_B.3.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.3|ReBBA_D.CSM_B.3.3|PAA_D.CSM_B.3.3|RePAA_D.CSM_B.3.3","Value":null}
+    },
+    {
+        "Description": "Changes that relate to past service adjustments to Incur",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.4|ReBBA_D.ICL_B.3.4|PAA_D.ICL_B.3.4|RePAA_D.ICL_B.3.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.4|ReBBA_D.DCF_B.3.4|PAA_D.DCF_B.3.4|RePAA_D.DCF_B.3.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.4|ReBBA_D.RA_B.3.4|PAA_D.RA_B.3.4|RePAA_D.RA_B.3.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.4|ReBBA_D.CSM_B.3.4|PAA_D.CSM_B.3.4|RePAA_D.CSM_B.3.4","Value":null}
+    },
+    {
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.5|ReBBA_D.ICL_B.3.5|PAA_D.ICL_B.3.5|RePAA_D.ICL_B.3.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.5|ReBBA_D.DCF_B.3.5|PAA_D.DCF_B.3.5|RePAA_D.DCF_B.3.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.5|ReBBA_D.RA_B.3.5|PAA_D.RA_B.3.5|RePAA_D.RA_B.3.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.5|ReBBA_D.CSM_B.3.5|PAA_D.CSM_B.3.5|RePAA_D.CSM_B.3.5","Value":null}
+    },
+    {
+        "Description": "Insurance finance expenses through profit and loss",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.6|ReBBA_D.ICL_B.3.6|PAA_D.ICL_B.3.6|RePAA_D.ICL_B.3.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.6|ReBBA_D.DCF_B.3.6|PAA_D.DCF_B.3.6|RePAA_D.DCF_B.3.6","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.6|ReBBA_D.RA_B.3.6|PAA_D.RA_B.3.6|RePAA_D.RA_B.3.6","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.6|ReBBA_D.CSM_B.3.6|PAA_D.CSM_B.3.6|RePAA_D.CSM_B.3.6","Value":null}
+    },
+    {
+        "Description": "Insurance finance expenses through OCI",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.7|ReBBA_D.ICL_B.3.7|PAA_D.ICL_B.3.7|RePAA_D.ICL_B.3.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.7|ReBBA_D.DCF_B.3.7|PAA_D.DCF_B.3.7|RePAA_D.DCF_B.3.7","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.7|ReBBA_D.RA_B.3.7|PAA_D.RA_B.3.7|RePAA_D.RA_B.3.7","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.7|ReBBA_D.CSM_B.3.7|PAA_D.CSM_B.3.7|RePAA_D.CSM_B.3.7","Value":null}
+    },
+    {
+        "Description": "Net foreign exchange income or expense",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.3.8|ReBBA_D.ICL_B.3.8|PAA_D.ICL_B.3.8|RePAA_D.ICL_B.3.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.3.8|ReBBA_D.DCF_B.3.8|PAA_D.DCF_B.3.8|RePAA_D.DCF_B.3.8","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.3.8|ReBBA_D.RA_B.3.8|PAA_D.RA_B.3.8|RePAA_D.RA_B.3.8","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.3.8|ReBBA_D.CSM_B.3.8|PAA_D.CSM_B.3.8|RePAA_D.CSM_B.3.8","Value":null}
+    },
+    {
+        "Description": "TOTAL CASH FLOWS",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4|ReBBA_D.ICL_B.4|PAA_D.ICL_B.4|RePAA_D.ICL_B.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4|ReBBA_D.DCF_B.4|PAA_D.DCF_B.4|RePAA_D.DCF_B.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4|ReBBA_D.RA_B.4|PAA_D.RA_B.4|RePAA_D.RA_B.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4|ReBBA_D.CSM_B.4|PAA_D.CSM_B.4|RePAA_D.CSM_B.4","Value":null}
+    },
+    {
+        "Description": "Premiums received",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4.1|ReBBA_D.ICL_B.4.1|PAA_D.ICL_B.4.1|RePAA_D.ICL_B.4.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4.1|ReBBA_D.DCF_B.4.1|PAA_D.DCF_B.4.1|RePAA_D.DCF_B.4.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4.1|ReBBA_D.RA_B.4.1|PAA_D.RA_B.4.1|RePAA_D.RA_B.4.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4.1|ReBBA_D.CSM_B.4.1|PAA_D.CSM_B.4.1|RePAA_D.CSM_B.4.1","Value":null}
+    },
+    {
+        "Description": "Commission received from reinsurer",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4.2|ReBBA_D.ICL_B.4.2|PAA_D.ICL_B.4.2|RePAA_D.ICL_B.4.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4.2|ReBBA_D.DCF_B.4.2|PAA_D.DCF_B.4.2|RePAA_D.DCF_B.4.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4.2|ReBBA_D.RA_B.4.2|PAA_D.RA_B.4.2|RePAA_D.RA_B.4.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4.2|ReBBA_D.CSM_B.4.2|PAA_D.CSM_B.4.2|RePAA_D.CSM_B.4.2","Value":null}
+    },
+    {
+        "Description": "Claims paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4.3|ReBBA_D.ICL_B.4.3|PAA_D.ICL_B.4.3|RePAA_D.ICL_B.4.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4.3|ReBBA_D.DCF_B.4.3|PAA_D.DCF_B.4.3|RePAA_D.DCF_B.4.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4.3|ReBBA_D.RA_B.4.3|PAA_D.RA_B.4.3|RePAA_D.RA_B.4.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4.3|ReBBA_D.CSM_B.4.3|PAA_D.CSM_B.4.3|RePAA_D.CSM_B.4.3","Value":null}
+    },
+    {
+        "Description": "Directly attributable expenses paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4.4|ReBBA_D.ICL_B.4.4|PAA_D.ICL_B.4.4|RePAA_D.ICL_B.4.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4.4|ReBBA_D.DCF_B.4.4|PAA_D.DCF_B.4.4|RePAA_D.DCF_B.4.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4.4|ReBBA_D.RA_B.4.4|PAA_D.RA_B.4.4|RePAA_D.RA_B.4.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4.4|ReBBA_D.CSM_B.4.4|PAA_D.CSM_B.4.4|RePAA_D.CSM_B.4.4","Value":null}
+    },
+    {
+        "Description": "Acquisition cost paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.4.5|ReBBA_D.ICL_B.4.5|PAA_D.ICL_B.4.5|RePAA_D.ICL_B.4.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.4.5|ReBBA_D.DCF_B.4.5|PAA_D.DCF_B.4.5|RePAA_D.DCF_B.4.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.4.5|ReBBA_D.RA_B.4.5|PAA_D.RA_B.4.5|RePAA_D.RA_B.4.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.4.5|ReBBA_D.CSM_B.4.5|PAA_D.CSM_B.4.5|RePAA_D.CSM_B.4.5","Value":null}
+    },
+    {
+        "Description": "CLOSING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.5|ReBBA_D.ICL_B.5|PAA_D.ICL_B.5|RePAA_D.ICL_B.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.5|ReBBA_D.DCF_B.5|PAA_D.DCF_B.5|RePAA_D.DCF_B.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.5|ReBBA_D.RA_B.5|PAA_D.RA_B.5|RePAA_D.RA_B.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.5|ReBBA_D.CSM_B.5|PAA_D.CSM_B.5|RePAA_D.CSM_B.5","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.5.1|ReBBA_D.ICL_B.5.1|PAA_D.ICL_B.5.1|RePAA_D.ICL_B.5.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.5.1|ReBBA_D.DCF_B.5.1|PAA_D.DCF_B.5.1|RePAA_D.DCF_B.5.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.5.1|ReBBA_D.RA_B.5.1|PAA_D.RA_B.5.1|RePAA_D.RA_B.5.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.5.1|ReBBA_D.CSM_B.5.1|PAA_D.CSM_B.5.1|RePAA_D.CSM_B.5.1","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.5.2|ReBBA_D.ICL_B.5.2|PAA_D.ICL_B.5.2|RePAA_D.ICL_B.5.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.5.2|ReBBA_D.DCF_B.5.2|PAA_D.DCF_B.5.2|RePAA_D.DCF_B.5.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.5.2|ReBBA_D.RA_B.5.2|PAA_D.RA_B.5.2|RePAA_D.RA_B.5.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.5.2|ReBBA_D.CSM_B.5.2|PAA_D.CSM_B.5.2|RePAA_D.CSM_B.5.2","Value":null}
+    },
+    {
+        "Description": "CLOSING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_B.6|ReBBA_D.ICL_B.6|PAA_D.ICL_B.6|RePAA_D.ICL_B.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA_D.DCF_B.6|ReBBA_D.DCF_B.6|PAA_D.DCF_B.6|RePAA_D.DCF_B.6","Value":null},
+        "Risk Adjustment": {"Reference":"BBA_D.RA_B.6|ReBBA_D.RA_B.6|PAA_D.RA_B.6|RePAA_D.RA_B.6","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA_D.CSM_B.6|ReBBA_D.CSM_B.6|PAA_D.CSM_B.6|RePAA_D.CSM_B.6","Value":null}
+    }
+]

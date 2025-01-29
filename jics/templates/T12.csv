@@ -1,0 +1,17 @@
+﻿保険負債の商品別内訳,保険負債の商品別内訳,会計ベース,会計ベース,会計ベース,経済価値ベース,経済価値ベース,経済価値ベース
+,,保険負債,再保険回収額,正味額,保険負債,再保険回収額,正味額
+,T12,[1],[2],[3=1-2],[4],[5],[6=4-5]
+合計,[1],A_Insurance_Liab,A_Insurance_ReinsRec,A_Insurance_Net,E_Insurance_Liab,E_Insurance_ReinsRec,E_Insurance_Net
+        うち、将来の配当およびその他裁量給付に係る額,[2],A_MA_Liab_Liab,A_MA_Liab_ReinsRec,A_MA_Liab_Net,E_MA_Liab_Liab,E_MA_Liab_ReinsRec,E_MA_Liab_Net
+    生命保険契約,[3],A_Life_Ins_Liab,A_Life_Ins_ReinsRec,A_Life_Ins_Net,E_Life_Ins_Liab,E_Life_Ins_ReinsRec,E_Life_Ins_Net
+        死亡保険（無配当）,[4],A_Death_Benefit_Liab,A_Death_Benefit_ReinsRec,A_Death_Benefit_Net,E_Death_Benefit_Liab,E_Death_Benefit_ReinsRec,E_Death_Benefit_Net
+        医療保険（無配当）,[5],A_Health_Liab,A_Health_ReinsRec,A_Health_Net,E_Health_Liab,E_Health_ReinsRec,E_Health_Net
+        その他の保障性保険（無配当）,[6],A_Other_Protection_Liab,A_Other_Protection_ReinsRec,A_Other_Protection_Net,E_Other_Protection_Liab,E_Other_Protection_ReinsRec,E_Other_Protection_Net
+        最低保証のない貯蓄性保険、生存保障保険（無配当）,[7],A_Non_Guaranteed_Ins_Liab,A_Non_Guaranteed_Ins_ReinsRec,A_Non_Guaranteed_Ins_Net,E_Non_Guaranteed_Ins_Liab,E_Non_Guaranteed_Ins_ReinsRec,E_Non_Guaranteed_Ins_Net
+        年金保険,[8],A_Annuity_Liab,A_Annuity_ReinsRec,A_Annuity_Net,E_Annuity_Liab,E_Annuity_ReinsRec,E_Annuity_Net
+        有配当保険（年金保険を除く）,[9],A_Participating_Ins_Liab,A_Participating_Ins_ReinsRec,A_Participating_Ins_Net,E_Participating_Ins_Liab,E_Participating_Ins_ReinsRec,E_Participating_Ins_Net
+        最低保証付変額保険、最低保証付変額年金保険,[10],A_Variable_Annuity_Liab,A_Variable_Annuity_ReinsRec,A_Variable_Annuity_Net,E_Variable_Annuity_Liab,E_Variable_Annuity_ReinsRec,E_Variable_Annuity_Net
+        その他の生命保険,[11],A_Other_Insurance_Liab,A_Other_Insurance_ReinsRec,A_Other_Insurance_Net,E_Other_Insurance_Liab,E_Other_Insurance_ReinsRec,E_Other_Insurance_Net
+    損害保険契約,[12],A_NonLife_Ins_Liab,A_NonLife_Ins_ReinsRec,A_NonLife_Ins_Net,E_NonLife_Ins_Liab,E_NonLife_Ins_ReinsRec,E_NonLife_Ins_Net
+        未経過責任に係る保険負債,[13],A_Unearned_Premium_Liab,A_Unearned_Premium_ReinsRec,A_Unearned_Premium_Net,E_Unearned_Premium_Liab,E_Unearned_Premium_ReinsRec,E_Unearned_Premium_Net
+        既発生事故に係る保険負債,[14],A_Outstanding_Claims_Liab,A_Outstanding_Claims_ReinsRec,A_Outstanding_Claims_Net,E_Outstanding_Claims_Liab,E_Outstanding_Claims_ReinsRec,E_Outstanding_Claims_Net

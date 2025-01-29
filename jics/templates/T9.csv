@@ -1,0 +1,49 @@
+﻿バランスシート,バランスシート,会計ベース,会計ベース,会計ベース,経済価値ベース,経済価値ベース,経済価値ベース,経済価値ベース
+,,バランスシート,非保険事業,保険事業,会計ベースからの組替,会計ベースからの評価替,保険事業,合計
+,T9,[1],[2=1-3],[3],[4],[5],[6=3+4+5],[7=6+2]
+I - 総資産,[1],A_Total_Assets,A_NL_Total_Assets,A_L_Total_Assets,E_RC_Total_Assets,E_RV_Total_Assets,E_L_Total_Assets,E_Total_Assets
+    投資資産,[2],A_Investments,A_NL_Investments,A_L_Investments,E_RC_Investments,E_RV_Investments,E_L_Investments,E_Investments
+        現金およびその他の非投資目的の流動性資産,[3],A_Cash_and_Deposits,A_NL_Cash_and_Deposits,A_L_Cash_and_Deposits,E_RC_Cash_and_Deposits,E_RV_Cash_and_Deposits,E_L_Cash_and_Deposits,E_Cash_and_Deposits
+        未収金・未収収益（資産運用関連）,[4],A_Call_Loans,A_NL_Call_Loans,A_L_Call_Loans,E_RC_Call_Loans,E_RV_Call_Loans,E_L_Call_Loans,E_Call_Loans
+        固定利付国債,[5],A_Receivables_under_Resale,A_NL_Receivables_under_Resale,A_L_Receivables_under_Resale,E_RC_Receivables_under_Resale,E_RV_Receivables_under_Resale,E_L_Receivables_under_Resale,E_Receivables_under_Resale
+        固定利付社債,[6],A_Receivables_under_Sec,A_NL_Receivables_under_Sec,A_L_Receivables_under_Sec,E_RC_Receivables_under_Sec,E_RV_Receivables_under_Sec,E_L_Receivables_under_Sec,E_Receivables_under_Sec
+        固定利付地方債,[7],A_Monetary_Receivables,A_NL_Monetary_Receivables,A_L_Monetary_Receivables,E_RC_Monetary_Receivables,E_RV_Monetary_Receivables,E_L_Monetary_Receivables,E_Monetary_Receivables
+        変動利付国債,[8],A_Trading_Account_Sec,A_NL_Trading_Account_Sec,A_L_Trading_Account_Sec,E_RC_Trading_Account_Sec,E_RV_Trading_Account_Sec,E_L_Trading_Account_Sec,E_Trading_Account_Sec
+        変動利付社債,[9],A_Money_Held_in_Trust,A_NL_Money_Held_in_Trust,A_L_Money_Held_in_Trust,E_RC_Money_Held_in_Trust,E_RV_Money_Held_in_Trust,E_L_Money_Held_in_Trust,E_Money_Held_in_Trust
+        変動利付地方債,[10],A_Securities,A_NL_Securities,A_L_Securities,E_RC_Securities,E_RV_Securities,E_L_Securities,E_Securities
+        転換社債,[11],A_GB,A_NL_GB,A_L_GB,E_RC_GB,E_RV_GB,E_L_GB,E_GB
+        住宅ローン,[12],A_Local_GB,A_NL_Local_GB,A_L_Local_GB,E_RC_Local_GB,E_RV_Local_GB,E_L_Local_GB,E_Local_GB
+        住宅ローン以外の不動産ローン,[13],A_CB,A_NL_CB,A_L_CB,E_RC_CB,E_RV_CB,E_L_CB,E_CB
+        その他の貸付金（不動産ローン以外）,[14],A_Stocks,A_NL_Stocks,A_L_Stocks,E_RC_Stocks,E_RV_Stocks,E_L_Stocks,E_Stocks
+        保険約款貸付,[15],A_Foreign_Sec,A_NL_Foreign_Sec,A_L_Foreign_Sec,E_RC_Foreign_Sec,E_RV_Foreign_Sec,E_L_Foreign_Sec,E_Foreign_Sec
+        住宅ローン担保証券（RMBS）,[16],A_Foreign_GB,A_NL_Foreign_GB,A_L_Foreign_GB,E_RC_Foreign_GB,E_RV_Foreign_GB,E_L_Foreign_GB,E_Foreign_GB
+        商業用不動産担保証券（CMBS）,[17],A_Foreign_Local_GB,A_NL_Foreign_Local_GB,A_L_Foreign_Local_GB,E_RC_Foreign_Local_GB,E_RV_Foreign_Local_GB,E_L_Foreign_Local_GB,E_Foreign_Local_GB
+        その他の仕組証券,[18],A_Foreign_CB,A_NL_Foreign_CB,A_L_Foreign_CB,E_RC_Foreign_CB,E_RV_Foreign_CB,E_L_Foreign_CB,E_Foreign_CB
+        保険リンク証券,[19],A_Foreign_Stocks,A_NL_Foreign_Stocks,A_L_Foreign_Stocks,E_RC_Foreign_Stocks,E_RV_Foreign_Stocks,E_L_Foreign_Stocks,E_Foreign_Stocks
+        上場株式,[20],A_Other_Foreign_Sec,A_NL_Other_Foreign_Sec,A_L_Other_Foreign_Sec,E_RC_Other_Foreign_Sec,E_RV_Other_Foreign_Sec,E_L_Other_Foreign_Sec,E_Other_Foreign_Sec
+        ヘッジファンド,[21],A_Other_Sec,A_NL_Other_Sec,A_L_Other_Sec,E_RC_Other_Sec,E_RV_Other_Sec,E_L_Other_Sec,E_Other_Sec
+        非上場株式,[22],A_Loans_Receivable,A_NL_Loans_Receivable,A_L_Loans_Receivable,E_RC_Loans_Receivable,E_RV_Loans_Receivable,E_L_Loans_Receivable,E_Loans_Receivable
+        不動産（投資目的）,[23],A_Policy_Loans,A_NL_Policy_Loans,A_L_Policy_Loans,E_RC_Policy_Loans,E_RV_Policy_Loans,E_L_Policy_Loans,E_Policy_Loans
+        インフラ投資,[24],A_General_loans,A_NL_General_loans,A_L_General_loans,E_RC_General_loans,E_RV_General_loans,E_L_General_loans,E_General_loans
+        うち、負債性投資,[25],A_Tangible_Assets,A_NL_Tangible_Assets,A_L_Tangible_Assets,E_RC_Tangible_Assets,E_RV_Tangible_Assets,E_L_Tangible_Assets,E_Tangible_Assets
+        うち、資本性投資,[26],A_Tangible_Assets_Inv,A_NL_Tangible_Assets_Inv,A_L_Tangible_Assets_Inv,E_RC_Tangible_Assets_Inv,E_RV_Tangible_Assets_Inv,E_L_Tangible_Assets_Inv,E_Tangible_Assets_Inv
+        その他の投資資産,[27],A_Land,A_NL_Land,A_L_Land,E_RC_Land,E_RV_Land,E_L_Land,E_Land
+    特別勘定の資産,[28],A_Buildings,A_NL_Buildings,A_L_Buildings,E_RC_Buildings,E_RV_Buildings,E_L_Buildings,E_Buildings
+    再保険回収額,[29],A_Tangible_Assets_Lease,A_NL_Tangible_Assets_Lease,A_L_Tangible_Assets_Lease,E_RC_Tangible_Assets_Lease,E_RV_Tangible_Assets_Lease,E_L_Tangible_Assets_Lease,E_Tangible_Assets_Lease
+        うち、未経過責任に係る保険負債（未経過保険料）,[30],A_Construction_in_Progress,A_NL_Construction_in_Progress,A_L_Construction_in_Progress,E_RC_Construction_in_Progress,E_RV_Construction_in_Progress,E_L_Construction_in_Progress,E_Construction_in_Progress
+    その他の再保険債権,[31],A_Other_Tangible_Assets,A_NL_Other_Tangible_Assets,A_L_Other_Tangible_Assets,E_RC_Other_Tangible_Assets,E_RV_Other_Tangible_Assets,E_L_Other_Tangible_Assets,E_Other_Tangible_Assets
+    当期税金資産（未収法人税等）,[32],A_Intangible_Assets,A_NL_Intangible_Assets,A_L_Intangible_Assets,E_RC_Intangible_Assets,E_RV_Intangible_Assets,E_L_Intangible_Assets,E_Intangible_Assets
+    DTA（繰延税金資産）,[33],A_Soft,A_NL_Soft,A_L_Soft,E_RC_Soft,E_RV_Soft,E_L_Soft,E_Soft
+    その他の繰延税金等,[34],A_Goodwill,A_NL_Goodwill,A_L_Goodwill,E_RC_Goodwill,E_RV_Goodwill,E_L_Goodwill,E_Goodwill
+    繰延新契約費およびその他の繰延費用（取得事業価値を含む）,[35],A_Intangible_Assets_Lease,A_NL_Intangible_Assets_Lease,A_L_Intangible_Assets_Lease,E_RC_Intangible_Assets_Lease,E_RV_Intangible_Assets_Lease,E_L_Intangible_Assets_Lease,E_Intangible_Assets_Lease
+        うち、損害保険,[36],A_Other_Intangible_Assets,A_NL_Other_Intangible_Assets,A_L_Other_Intangible_Assets,E_RC_Other_Intangible_Assets,E_RV_Other_Intangible_Assets,E_L_Other_Intangible_Assets,E_Other_Intangible_Assets
+        うち、生命保険,[37],A_Retirement_Ben_Assets,A_NL_Retirement_Ben_Assets,A_L_Retirement_Ben_Assets,E_RC_Retirement_Ben_Assets,E_RV_Retirement_Ben_Assets,E_L_Retirement_Ben_Assets,E_Retirement_Ben_Assets
+    その他の非運用資産,[38],A_DTA,A_NL_DTA,A_L_DTA,E_RC_DTA,E_RV_DTA,E_L_DTA,E_DTA
+        うち、未収保険料,[39],A_DTA_for_Land_Revaluation,A_NL_DTA_for_Land_Revaluation,A_L_DTA_for_Land_Revaluation,E_RC_DTA_for_Land_Revaluation,,,E_DTA_for_Land_Revaluation
+    不動産（自己使用目的）,[40],A_Allowance_for_Deabt,A_NL_Allowance_for_Deabt,A_L_Allowance_for_Deabt,E_RC_Allowance_for_Deabt,E_RV_Allowance_for_Deabt,E_L_Allowance_for_Deabt,E_Allowance_for_Deabt
+    のれん,[41],A_Allownace_for_Deabt_Inv,A_NL_Allownace_for_Deabt_Inv,A_L_Allownace_for_Deabt_Inv,E_RC_Allownace_for_Deabt_Inv,E_RV_Allownace_for_Deabt_Inv,E_L_Allownace_for_Deabt_Inv,E_Allownace_for_Deabt_Inv
+    無形資産,[42],A_Allownace_for_Inv,A_NL_Allownace_for_Inv,A_L_Allownace_for_Inv,E_RC_Allownace_for_Inv,E_RV_Allownace_for_Inv,E_L_Allownace_for_Inv,E_Allownace_for_Inv
+        うち、ソフトウェア以外,[43],A_Other_Assets,A_NL_Other_Assets,A_L_Other_Assets,E_RC_Other_Assets,E_RV_Other_Assets,E_L_Other_Assets,E_Other_Assets
+        うち、ソフトウェア,[44],A_Other_Assets_Inv,A_NL_Other_Assets_Inv,A_L_Other_Assets_Inv,E_RC_Other_Assets_Inv,E_RV_Other_Assets_Inv,E_L_Other_Assets_Inv,E_Other_Assets_Inv
+    オフバランスのエクスポージャーに関連するオンバランス評価額（市場関連）,[45],A_Saparate_Account_Assets,A_NL_Saparate_Account_Assets,A_L_Saparate_Account_Assets,E_RC_Saparate_Account_Assets,E_RV_Saparate_Account_Assets,E_L_Saparate_Account_Assets,E_Saparate_Account_Assets
+    オフバランスのエクスポージャーに関連するオンバランス評価額（非市場関連）,[46],A_ReinsRec,,A_L_ReinsRec,E_RC_ReinsRec,E_RV_ReinsRec,E_L_ReinsRec,E_ReinsRec

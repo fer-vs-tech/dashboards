@@ -1,0 +1,9 @@
+﻿,,,,,相関,相関,相関,相関
+所要資本の要約,所要資本の要約,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）,先進国市場,新興市場,ハイブリッド債 ・優先株式,その他の株式
+,T59,[1],[2],[3],,,,
+株式リスク,[1],RC_Eq_wo_MA,MA_Effect_RC_Eq,RC_Eq,,,,
+    先進国市場における上場株式のストレス,[2],dNAV_Equity_DM_wo_MA,MA_Effect_dNAV_Equity_DM,dNAV_Equity_DM,Corr_Equity_ESR_1_1,Corr_Equity_ESR_1_2,Corr_Equity_ESR_1_3,Corr_Equity_ESR_1_4
+    新興市場における上場株式へのストレス,[3],dNAV_Equity_EM_wo_MA,MA_Effect_dNAV_Equity_EM,dNAV_Equity_EM,Corr_Equity_ESR_2_1,Corr_Equity_ESR_2_2,Corr_Equity_ESR_2_3,Corr_Equity_ESR_2_4
+    ハイブリッド債・優先株式へのストレス,[4],dNAV_Equity_HP_wo_MA,MA_Effect_dNAV_Equity_HP,dNAV_Equity_HP,Corr_Equity_ESR_3_1,Corr_Equity_ESR_3_2,Corr_Equity_ESR_3_3,Corr_Equity_ESR_3_4
+    その他の株式へのストレス,[5],dNAV_Equity_OTH_wo_MA,MA_Effect_dNAV_Equity_OTH,dNAV_Equity_OTH,Corr_Equity_ESR_4_1,Corr_Equity_ESR_4_2,Corr_Equity_ESR_4_3,Corr_Equity_ESR_4_4
+    ボラティリティストレス,[6],dNAV_Equity_Vol_wo_MA,MA_Effect_dNAV_Equity_Vol,dNAV_Equity_Vol,,,,

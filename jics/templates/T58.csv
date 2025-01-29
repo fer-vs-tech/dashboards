@@ -1,0 +1,24 @@
+﻿資産および負債,資産および負債,ストレス前,上昇ストレス後,下降ストレス後
+,T58,[1],[2],[3]
+資産から負債を控除した額（マネジメント・アクション考慮後）,[1],NAV_IntBase,NAV_Spr_Up,NAV_Spr_Down
+資産から負債を控除した額（マネジメント・アクション考慮前、修正後）,[2],NAV_IntBase,NAV_Spr_Up_wo_MA,NAV_Spr_Down_wo_MA
+将来の裁量給付に関する負債の利用割合,[3],,DiscretionaryBenRatio_Spr_Up,DiscretionaryBenRatio_Spr_Down
+    資産,[4],Assets_IntBase,Assets_Spr_Up,Assets_Spr_Down
+        債券,[5],Bonds_IntBase,Bonds_Spr_Up,Bonds_Spr_Down
+        貸付金,[6],Loans_IntBase,Loans_Spr_Up,Loans_Spr_Down
+        仕組証券,[7],Structured_Sec_IntBase,Structured_Sec_Spr_Up,Structured_Sec_Spr_Down
+        その他の投資資産,[8],Other_InvestAsset_IntBase,Other_InvestAsset_Spr_Up,Other_InvestAsset_Spr_Down
+        特別勘定の資産,[9],Separate_Accounts_IntBase,Separate_Accounts_Spr_Up,Separate_Accounts_Spr_Down
+        再保険回収額・再保険貸,[10],Reins_Recoverable_IntBase,Reins_Recoverable_Spr_Up,Reins_Recoverable_Spr_Down
+        非運用資産,[11],Non_Invest_Assets_IntBase,Non_Invest_Assets_Spr_Up,Non_Invest_Assets_Spr_Down
+        ヘッジ目的の金融資産の公正価値,[12],FV_of_Hedging_IntBase,FV_of_Hedging_Spr_Up,FV_of_Hedging_Spr_Down
+    将来の裁量給付に関する負債（ストレス前）,[13],MA_Liab_IntBase,MA_Liab_IntBase,MA_Liab_IntBase
+        （ストレス後、マネジメント・アクション考慮前）,[14],,MA_Liab_Spr_Up_wo_MA,MA_Liab_Spr_Down_wo_MA
+        （ストレス後、マネジメント・アクション考慮後）,[15],,MA_Liab_Spr_Up,MA_Liab_Spr_Down
+    生命保険の現在推計（マネジメント・アクション考慮後）,[16],Liability_IntBase,Liability_Spr_Up,Liability_Spr_Down
+        資産ポートフォリオによって複製可能な保険負債,[17],Liab_Replicable_Int_Base,Liab_Replicable_Spr_Up,Liab_Replicable_Spr_Down
+        トップバケット,[18],Liab_TopBucket_Int_Base,Liab_TopBucket_Spr_Up,Liab_TopBucket_Spr_Down
+        ミドルバケット,[19],Liab_MiddleBucket_Int_Base,Liab_MiddleBucket_Spr_Up,Liab_MiddleBucket_Spr_Down
+        一般バケット,[20],Liab_GeneralBucket_Int_Base,Liab_GeneralBucket_Spr_Up,Liab_GeneralBucket_Spr_Down
+    損害保険の現在推計,[21],NonLife_Liability_IntBase,NonLife_Liability_Spr_Up,NonLife_Liability_Spr_Down
+    その他の負債（適格資本の要件を充足しない項目）,[22],Other_Liab_IntBase,Other_Liab_Spr_Up,Other_Liab_Spr_Down

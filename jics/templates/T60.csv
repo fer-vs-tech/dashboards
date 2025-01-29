@@ -1,0 +1,5 @@
+﻿,,マネジメント・アクション考慮前,マネジメント・アクション考慮前,マネジメント・アクション考慮前,マネジメント・アクション考慮後,マネジメント・アクション考慮後,マネジメント・アクション考慮後,
+上場株式トインフラ投資の統合,上場株式トインフラ投資の統合,上場株式,インフラ投資,相関考慮後,上場株式,インフラ投資,相関考慮後,相関
+,T60,[1],[2],[3],[4],[5],[6],
+先進国市場,[1],dNAV_DM_wo_MA,dNAV_DM_Infra_wo_MA,dNAV_Equity_DM_wo_MA,dNAV_DM,dNAV_DM_Infra,dNAV_Equity_DM,Corr_DM_ESR
+新興市場,[2],dNAV_EM_wo_MA,dNAV_EM_Infra_wo_MA,dNAV_Equity_EM_wo_MA,dNAV_EM,dNAV_EM_Infra,dNAV_Equity_EM,Corr_EM_ESR

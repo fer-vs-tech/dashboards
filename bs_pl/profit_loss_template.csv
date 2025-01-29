@@ -1,0 +1,73 @@
+﻿ITEMS,group_row_hidden
+Insurance Revenue,1
+Expected Insurance Claim,
+Expected Acquisition Cost (not relevant premium),
+Expected Maintenance Cost,
+Expected Inspection Cost,
+Expected Investment Management Cost,
+RA Variance,
+CSM Amortization,
+Expected Acquisition Cost Amortization,
+Other Insurance Revenue,
+Reinsurance Revenue,1
+Incurred Claim,
+Incurred Claim Adjustment Cost,
+Incurred Profit Commission,
+Profit from Loss Contracts,
+Incurred Claim Asset Adjustment,
+Incurred Reinsurance Premium Recovery,
+Other Reinsurance Revenue,
+Net Insurance Revenue,2
+Insurance Expense,
+Incurred Insurance Claim,
+Incurred Acquisition Cost (not relevant premium),
+Incurred Maintenance Cost,
+Incurred Inspection Cost,
+Incurred Investment Management Cost,
+Incurred Acquisition Cost Amortization,
+Expense from Loss Contracts,
+LIC Adjustment,
+Other Insurance Expense,
+Reinsurance Expense,1
+Re CSM Amortization,
+Re Expected Insurance Claim,
+Re Expected Adjustment Cost,
+Re Expected Profit Commission,
+Re RA Variance,
+Gain(Loss) from Expected Reinsurance Premium,
+Expected Reinsurance Claim Recovery,
+PAA Expense,
+Other Reinsurance Expense,
+Net Insurance Expense,2
+Insurance Service Result,2
+Interest Revenue,
+Interest from Deposit,
+Interest from Bond,
+Other Interest Revenue,
+Dividend Revenue,1
+Realized Gain from Sales of Financial Instruments,1
+Other Finance Revenue,1
+Finance Income,2
+Interest Expense (not insurance-relevant),1
+Realized Loss from Sales of Financial Instruments,1
+Insurance Finance Expense,1
+LRC Finance Gain (Loss),
+LIC Finance Gain (Loss),
+Discount Rate Variance Impact,
+Foreign Currency Exchange,
+Other Finance Gain (Loss),
+Reinsurance Finance Expense,1
+LRC Reinsurance Finance Gain (Loss),
+LIC Reinsurance Finance Gain (Loss),
+Reinsurer Credit Loss Variance,
+Discount Rate Variance Impact,
+Foreign Currency Exchange,
+Other Finance Gain (Loss),
+Other Finance Expense,1
+Finance Expense,2
+Net Financial Results,2
+Net Profit (Loss) before Tax,2
+Corporate Income Tax,2
+Net Profit (Loss) after Tax,2
+Other Comprehensive Income,2
+Comprehensive Income,2

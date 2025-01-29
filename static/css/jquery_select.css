@@ -1,0 +1,93 @@
+.ui-selectmenu-button.ui-button {
+  height: 30px;
+  width: 280px;
+  font-size: 12px;
+  border: 1px solid #91a7df;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 0 8px 16px;
+  background-color: #fff;
+}
+
+.ui-selectmenu-button.ui-button:last-child {
+  margin-right: 0;
+}
+
+.ui-selectmenu-button .ui-selectmenu-text {
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+.ui-selectmenu-button.ui-selectmenu-button-closed .ui-selectmenu-icon.ui-icon.custom-button {
+  background-image: url("/dash/static/assets/arrow_down.svg");
+}
+
+.ui-selectmenu-button.ui-selectmenu-button-open .ui-selectmenu-icon.ui-icon.custom-button {
+  background-image: url("/dash/static/assets/arrow_up.svg");
+}
+
+.ui-selectmenu-button .ui-selectmenu-icon.ui-icon.custom-button {
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 12px;
+}
+
+.ui-selectmenu-menu .ui-widget {
+  border: 1px solid #91a7df;
+  border-radius: 4px;
+  padding: 8px 0;
+  min-height: 60px;
+  max-height: 156px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  overflow-y: auto;
+  background-color: #fff;
+  width: 280px;
+}
+
+.ui-selectmenu-menu .ui-widget.show-vertical-scrollbar {
+  padding-right: 4px;
+}
+
+.ui-selectmenu-menu .ui-widget.show-horizontal-scrollbar {
+  padding-bottom: 4px;
+}
+
+.ui-selectmenu-menu .ui-widget::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.ui-selectmenu-menu .ui-widget::-webkit-scrollbar-thumb {
+  width: 8px;
+  background: linear-gradient(172.83deg, rgba(0, 82, 212, 0.8) -7.69%, rgba(67, 100, 247, 0.8) 58.11%, rgba(111, 177, 252, 0.8) 123.91%);
+  border-radius: 2px;
+  height: 10px;
+}
+
+.ui-selectmenu-menu .ui-widget::-webkit-scrollbar-track {
+  background-color: rgb(233, 237, 249);
+  border-radius: 2px;
+}
+
+.ui-selectmenu-menu .ui-menu-item {
+  font-size: 12px;
+}
+
+.ui-selectmenu-menu .ui-menu-item .ui-menu-item-wrapper {
+  padding: 7px 16px;
+  color: #828282;
+  word-break: break-all;
+  white-space: pre-line;
+}
+
+.ui-selectmenu-menu .ui-menu-item .ui-menu-item-wrapper.ui-state-active {
+  border: none;
+  background-color: transparent;
+  color: black;
+}
+
+
+/*# sourceMappingURL=jquery_select.css.map */

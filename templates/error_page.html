@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="{{url_for('static', filename='assets/favicon.ico')}}" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/error.css') }}" />
+    <meta charset="UTF-8">
+    <title>R3S Dashboards</title>
+</head>
+
+<body>
+    <div id="error-page-container">
+        <div class="container">
+            <div class="error-content">
+                <object data="{{ url_for('static', filename='assets/error_illust.svg') }}"
+                    type="image/svg+xml"></object>
+                <div class="error-message">
+                    <div class="title">
+                        {{error_code}} {{error_title}}
+                    </div>
+                    <div class="description">
+                        {{error_description}}
+                        {% if internal_error %}
+                        {{internal_error}}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

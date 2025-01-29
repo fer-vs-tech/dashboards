@@ -1,0 +1,9 @@
+﻿所要資本の要約,所要資本の要約,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T31,[1],[2],[3=1-2],[4],[5=3-4]
+全地域,[1],,,dNAV_Mort_wo_MA,MA_Effect_Mort,dNAV_Mort
+    欧州経済領域（EEA）およびスイス,[2],NAV_Mort_Base_EEA_CHE,NAV_Mort_EEA_CHE_wo_MA,dNAV_Mort_EEA_CHE_wo_MA,MA_Effect_Mort_EEA_CHE,dNAV_Mort_EEA_CHE
+    米国およびカナダ,[3],NAV_Mort_Base_USA_CAN,NAV_Mort_USA_CAN_wo_MA,dNAV_Mort_USA_CAN_wo_MA,MA_Effect_Mort_USA_CAN,dNAV_Mort_USA_CAN
+    中国,[4],NAV_Mort_Base_CHN,NAV_Mort_CHN_wo_MA,dNAV_Mort_CHN_wo_MA,MA_Effect_Mort_CHN,dNAV_Mort_CHN
+    日本,[5],NAV_Mort_Base_JPN,NAV_Mort_JPN_wo_MA,dNAV_Mort_JPN_wo_MA,MA_Effect_Mort_JPN,dNAV_Mort_JPN
+    その他先進国市場,[6],NAV_Mort_Base_DM,NAV_Mort_DM_wo_MA,dNAV_Mort_DM_wo_MA,MA_Effect_Mort_DM,dNAV_Mort_DM
+    その他新興市場,[7],NAV_Mort_Base_EM,NAV_Mort_EM_wo_MA,dNAV_Mort_EM_wo_MA,MA_Effect_Mort_EM,dNAV_Mort_EM

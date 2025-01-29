@@ -1,0 +1,16 @@
+﻿,,プロテクション控除前,プロテクション控除前,プロテクション控除前,プロテクション控除後,プロテクション控除後,プロテクション控除後
+日本における所要資本の内訳情報,ぺリル,地震,風災,水災,地震,風災,水災
+,T46,[1],[2],[3],[4],[5],[6]
+商品区分,,,,,,,
+    火災,[1],RC_CAT_Fire_EQ_wo_P,RC_CAT_Fire_Wind_wo_P,RC_CAT_Fire_Flood_wo_P,RC_CAT_Fire_EQ,RC_CAT_Fire_Wind,RC_CAT_Fire_Flood
+    船舶,[2],RC_CAT_Hull_EQ_wo_P,RC_CAT_Hull_Wind_wo_P,RC_CAT_Hull_Flood_wo_P,RC_CAT_Hull_EQ,RC_CAT_Hull_Wind,RC_CAT_Hull_Flood
+    貨物,[3],RC_CAT_Cargo_EQ_wo_P,RC_CAT_Cargo_Wind_wo_P,RC_CAT_Cargo_Flood_wo_P,RC_CAT_Cargo_EQ,RC_CAT_Cargo_Wind,RC_CAT_Cargo_Flood
+    傷害,[4],RC_CAT_PA_EQ_wo_P,RC_CAT_PA_Wind_wo_P,RC_CAT_PA_Flood_wo_P,RC_CAT_PA_EQ,RC_CAT_PA_Wind,RC_CAT_PA_Flood
+    自動車,[5],RC_CAT_Automobile_EQ_wo_P,RC_CAT_Automobile_Wind_wo_P,RC_CAT_Automobile_Flood_wo_P,RC_CAT_Automobile_EQ,RC_CAT_Automobile_Wind,RC_CAT_Automobile_Flood
+    航空,[6],RC_CAT_Aviation_EQ_wo_P,RC_CAT_Aviation_Wind_wo_P,RC_CAT_Aviation_Flood_wo_P,RC_CAT_Aviation_EQ,RC_CAT_Aviation_Wind,RC_CAT_Aviation_Flood
+    機械,[7],RC_CAT_Machinery_EQ_wo_P,RC_CAT_Machinery_Wind_wo_P,RC_CAT_Machinery_Flood_wo_P,RC_CAT_Machinery_EQ,RC_CAT_Machinery_Wind,RC_CAT_Machinery_Flood
+    建設工事,[8],RC_CAT_Constroctors_EQ_wo_P,RC_CAT_Constroctors_Wind_wo_P,RC_CAT_Constroctors_Flood_wo_P,RC_CAT_Constroctors_EQ,RC_CAT_Constroctors_Wind,RC_CAT_Constroctors_Flood
+    動産総合,[9],RC_CAT_Real_Estate_EQ_wo_P,RC_CAT_Real_Estate_Wind_wo_P,RC_CAT_Real_Estate_Flood_wo_P,RC_CAT_Real_Estate_EQ,RC_CAT_Real_Estate_Wind,RC_CAT_Real_Estate_Flood
+    家計地震,[10],RC_CAT_Earthquake_EQ_wo_P,RC_CAT_Earthquake_Wind_wo_P,RC_CAT_Earthquake_Flood_wo_P,RC_CAT_Earthquake_EQ,RC_CAT_Earthquake_Wind,RC_CAT_Earthquake_Flood
+    その他,[11],RC_CAT_Other_EQ_wo_P,RC_CAT_Other_Wind_wo_P,RC_CAT_Other_Flood_wo_P,RC_CAT_Other_EQ,RC_CAT_Other_Wind,RC_CAT_Other_Flood
+合計,[12],RC_CAT_Total_EQ_wo_P,RC_CAT_Total_Wind_wo_P,RC_CAT_Total_Flood_wo_P,RC_CAT_Total_EQ,RC_CAT_Total_Wind,RC_CAT_Total_Flood

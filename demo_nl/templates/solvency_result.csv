@@ -1,0 +1,85 @@
+﻿MAIN OUTPUT,
+    Solvency Capital Requirement(SCR),SCR
+    Minimum Capital Requirement(MCR),MCR
+    Risk Margin,Risk_Margin
+    Net Asset Value,NAV_Base
+    Asset(Market Value),Asset_Total
+    Liability(Best Estimated),Liability_BE_Total
+Capital Requirement,
+    Basic SCR,BSCR
+    Operation Risk,SCR_Op
+    Adjustment,Adj
+BASIC SCR,
+    Basic SCR,BSCR
+        Market Risk,SCR_Mkt
+        Life Insurance Risk,SCR_Life
+        Non-Life Insurance Risk,SCR_NonLife
+        Health Insurance Risk,SCR_Health
+        Counterparty Default Risk,SCR_Def
+SCR Life Insurance,
+    Catastrophe,SCR_Life_Cat
+    Expenses,SCR_Life_Exp
+    Lapses (Combined),SCR_Life_Lapse
+        Lapses Down,SCR_Life_LapseDown
+        Lapses Mass,SCR_Life_LapseMass
+        Lapses Up,SCR_Life_LapseUp
+    Longevity,SCR_Life_Long
+    Morbidity,SCR_Life_Morb
+    Mortality,SCR_Life_Mort
+    Revision,SCR_Life_Rev
+SCR Market,
+    Equity (Combined),SCR_Mkt_Eq
+        Equity Type_1,SCR_Mkt_Eq_Type_1
+        Equity Type_2,SCR_Mkt_Eq_Type_2
+    Currency (Combined),SCR_Mkt_FX
+        Currency Down,SCR_Mkt_FX_Down_1
+        Currency Up,SCR_Mkt_FX_Up_1
+    Interest (Combined),SCR_Mkt_Int
+        Interest Down,SCR_Mkt_IntDown
+        Interest Up,SCR_Mkt_IntUp
+    Property,SCR_Mkt_Prop
+    Spread (Combined),SCR_Mkt_Sp
+        Spread Bond : Infra Corp,SCR_Mkt_Sp_Bond_Infra_Corp
+        Spread Bond : Infra Invest,SCR_Mkt_Sp_Bond_Infra_Invest
+        Spread Bond : Other than Infra,SCR_Mkt_Sp_Bond_No_Infra
+        Spread Secur,SCR_Mkt_Sp_Securitisation
+        Spread CD,SCR_Mkt_Sp_CD
+SCR Health,
+    Health Non-Similar to Life Tech(NonSLT),SCR_Health_NonSLT
+    Health Similar to Life Technique(SLT),SCR_Health_SLT
+        SLT : Expense,SCR_Health_SLT_Exp
+        SLT : Lapse(Combined),SCR_Health_SLT_Lapse
+            SLT : Lapse down,SCR_Health_SLT_LapseDown
+            SLT : Lapse mass,SCR_Health_SLT_LapseMass
+            SLT : Lapse up,SCR_Health_SLT_LapseUp
+            SLT : Longevity,SCR_Health_SLT_Long
+    SLT : Morbidity(Combined),SCR_Health_SLT_Morb
+            SLT : Morb income,SCR_Health_SLT_MorbidityIncome
+            SLT : Morb Med(Combined),SCR_Health_SLT_MorbidityMedical
+            SLT : Morb Meddown,SCR_Health_SLT_MorbidityMedicalDown
+            SLT : Morb Med up,SCR_Health_SLT_MorbidityMedicalUp
+    SLT : Mortality,SCR_Health_SLT_Mort
+    SLT : Revision,SCR_Health_SLT_Rev
+OPERATIONAL RISK,
+    Operational Risk(Total),SCR_Op
+    Basic SCR,BSCR
+    Expense of Unit-Linked,ExpUL
+    Basic Operational Risk,OP
+        Basic Operational Risk : Premium,OP_Premium
+            Earn_Life,Earn_Life
+            Earn_LifeUL,Earn_LifeUL
+            Earn_NL,Earn_NL
+            pEarn_Life,pEarn_Life
+            pEarn_LifeUL,pEarn_LifeUL
+            pEarn_NL,pEarn_NL
+        Basic Operational Risk : Reserve,OP_Provision
+            Life Current Estimated(TP),TP_Life_Gross_Reins
+            Unit-Linked Current Estimated(TP),TP_LifeUL_Gross_Reins
+            Non-Life Current Estimated(TP),TP_NL_Gross_Reins
+ADJUSTMENT,
+    Adjustment,Adj
+        Loss absorbing Reserve(TP),Adj_TP
+        Basic SCR (gross),BSCR
+        Basic SCR (net),nBSCR
+        Base future discretionary,FDB
+        Adjustment deferred tax,Adj_DT

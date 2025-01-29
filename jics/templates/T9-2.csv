@@ -1,0 +1,4 @@
+﻿II - 保険負債,[47],A_Total_Insurance_Liab,,A_L_Total_Insurance_Liab,E_RC_Total_Insurance_Liab,E_RV_Total_Insurance_Liab,E_L_Total_Insurance_Liab,E_Total_Insurance_Liab
+    資産ポートフォリオによって複製可能な保険負債,[48],,,,,,E_L_Replicable_Assets,E_Replicable_Assets
+    現在推計,[49],,,,,,E_L_Current_Estimate,E_Current_Estimate
+    現在推計を超えるマージン（MOCE）,[50],,,,,,E_L_MOCE,E_MOCE

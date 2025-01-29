@@ -1,0 +1,4 @@
+﻿特別勘定,特別勘定,
+,T85,[1]
+信用リスクから除外される特別勘定の資産,[1],Credit_SA_excl_Credit_Risk
+特別勘定の負債の信用リスク,[2],Credit_Risk_from_SA_Liab

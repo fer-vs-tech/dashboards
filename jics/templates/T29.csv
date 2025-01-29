@@ -1,0 +1,16 @@
+﻿,,,,,,相関,相関,相関,相関,相関
+所要資本の要約,,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）,詳細,生命保険リスク,損害保険リスク,巨大災害リスク,市場リスク,信用リスク
+,T29,[1],[2],[3],,,,,,
+所要資本,[1],,,RC,,,,,,
+    マネジメント・アクションの効果の上限による影響額,[2],,,Effect_of_Cap_for_MA,,,,,,
+    マネジメント・アクションの効果の上限,[3],,,Cap_for_MA,,,,,,
+    所要資本（マネジメント・アクションの効果の上限考慮前）,[4],RC_wo_MA,MA_Efffect_Ratio_RC,RC_bef_Limit,,,,,,
+        保険リスク,,,,,,,,,,
+            生命保険リスク,[5],RC_Life_wo_MA,MA_Effect_Ratio_RC_Life,RC_Life,詳細,Corr_RC_ESR_1_1,Corr_RC_ESR_1_2,Corr_RC_ESR_1_3,Corr_RC_ESR_1_4,Corr_RC_ESR_1_5
+            損害保険リスク,[6],RC_NonLife,,RC_NonLife,詳細,Corr_RC_ESR_2_1,Corr_RC_ESR_2_2,Corr_RC_ESR_2_3,Corr_RC_ESR_2_4,Corr_RC_ESR_2_5
+            巨大災害リスク,[7],RC_CAT_wo_MA,MA_Effect_Ratio_RC_CAT,RC_CAT,詳細,Corr_RC_ESR_3_1,Corr_RC_ESR_3_2,Corr_RC_ESR_3_3,Corr_RC_ESR_3_4,Corr_RC_ESR_3_5
+        市場リスク,[8],RC_Market_wo_MA,MA_Effect_Ratio_RC_Market,RC_Market,詳細,Corr_RC_ESR_4_1,Corr_RC_ESR_4_2,Corr_RC_ESR_4_3,Corr_RC_ESR_4_4,Corr_RC_ESR_4_5
+        信用リスク,[9],RC_Credit_wo_MA,MA_Effect_Ratio_RC_Credit,RC_Credit,詳細,Corr_RC_ESR_5_1,Corr_RC_ESR_5_2,Corr_RC_ESR_5_3,Corr_RC_ESR_5_4,Corr_RC_ESR_5_5
+        オペレーショナルリスク,[10],RC_Ops,,RC_Ops,詳細,,,,,
+    単純合計,[11],Simple_Sum_of_Risks_wo_MA,MA_Effect_Ratio_Sum_of_Risks,Simple_Sum_of_Risks,,,,,,
+    分散効果,[12],Diversification_Effects_wo_MA,,Diversification_Effects,,,,,,

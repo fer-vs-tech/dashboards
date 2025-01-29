@@ -1,0 +1,9 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+FAP,1,,Initial recognition for new business,mr_initial_biz_loss,,Insurance Expense New Biz-Loss(IR),NB,Dr
+,1,,,Initial_Loss_BEL_FMP_Proc,Initial_Loss_BEL_FMP_Proc,BEL New Biz-Loss,NB,Cr
+,1,,,Initial_Other_BEL_FMP_Proc,Initial_Other_BEL_FMP_Proc,BEL New Biz-Other,NB,Cr
+,1,,,Initial_Loss_RA_FMP_Proc,Initial_Loss_RA_FMP_Proc,RA New Biz-Loss,NB,Cr
+,1,,,Initial_Other_RA_FMP_Proc,Initial_Other_RA_FMP_Proc,RA New Biz-Other,NB,Cr
+,1,1,,Initial_CSM_FMP_Proc,Initial_CSM_FMP_Proc,CSM New Biz,NB,Cr
+,0,,Creation of CSM suspense account,Initial_CSM_FMP_Proc,Initial_CSM_FMP_Proc,CSM New Biz,NB,Dr
+,0,2,for new business,mr_csm_new_biz,,(Sus) CSM New Biz,NB,Cr

@@ -1,0 +1,19 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+AOCI,1,,Writing the difference between the balance after ,Loss_BEL_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(BEL) Loss New Biz_REINS,NB,Dr
+,1,,economic assumption and the balance ,Gain_BEL_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(BEL) Gain New Biz_REINS,NB,Cr
+,1,,updated current EIR on OCI account,End_AOCI_BEL_REINS_AOCI_Reins_Proc,End_AOCI_BEL_REINS_AOCI_Reins_Proc,BEL(AOCI) New Biz_REINS,NB,Dr
+,1,,,Loss_RA_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(RA) Loss New Biz_REINS,NB,Dr
+,1,,,Gain_RA_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(RA) Gain New Biz_REINS,NB,Cr
+,1,,,End_AOCI_RA_REINS_AOCI_Reins_Proc,End_AOCI_RA_REINS_AOCI_Reins_Proc,RA(AOCI) New Biz_REINS,NB,Dr
+,1,,,Loss_CL_BEL_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(CL BEL) Loss New Biz_REINS,NB,Dr
+,1,,,Gain_CL_BEL_Diff_from_Economic_Change_Current_EIR_REINS,,AOCI(CL BEL) Gain New Biz_REINS,NB,Cr
+,1,1,,End_AOCI_CL_BEL_REINS_AOCI_Reins_Proc,End_AOCI_CL_BEL_REINS_AOCI_Reins_Proc,Credit Loss BEL(AOCI) New Biz_REINS,NB,Dr
+,0,,Writing deferred corporate tax amount derived ,Loss_BEL_Def_Tax_REINS,,AOCI(DTL-BEL) Loss New Biz_REINS,NB,Dr
+,0,,from the OCI amount for the current term,End_corp_tax_AOCI_BEL_REINS_AOCI_Reins_Proc,End_corp_tax_AOCI_BEL_REINS_AOCI_Reins_Proc,Deferred Tax Liabilities,NB,Cr
+,0,,,Gain_BEL_Def_Tax_REINS,,AOCI(DTL-BEL) Gain New Biz_REINS,NB,Cr
+,0,,,Loss_RA_Def_Tax_REINS,,AOCI(DTL-RA) Loss New Biz_REINS,NB,Dr
+,0,,,End_corp_tax_AOCI_RA_REINS_AOCI_Reins_Proc,End_corp_tax_AOCI_RA_REINS_AOCI_Reins_Proc,Deferred Tax Liabilities,NB,Cr
+,0,,,Gain_RA_Def_Tax_REINS,,AOCI(DTL-RA) Gain New Biz_REINS,NB,Cr
+,0,,,Loss_CL_BEL_Def_Tax_REINS,,AOCI(DTL-CL BEL) Loss New Biz_REINS,NB,Dr
+,0,,,End_corp_tax_AOCI_CL_BEL_REINS_AOCI_Reins_Proc,End_corp_tax_AOCI_CL_BEL_REINS_AOCI_Reins_Proc,Deferred Tax Liabilities,NB,Cr
+,0,2,,Gain_CL_BEL_Def_Tax_REINS,,AOCI(DTL-CL BEL) Gain New Biz_REINS,NB,Cr

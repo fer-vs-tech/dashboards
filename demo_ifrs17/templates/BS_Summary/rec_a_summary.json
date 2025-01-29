@@ -1,0 +1,218 @@
+[
+    {
+        "Description": "OPENING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.1|ReBBA_D.ICL_A.1|PAA_D.ICL_A.1|RePAA_D.ICL_A.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.1|ReBBA_D.LRC_A.1|PAA_D.LRC_A.1|RePAA_D.LRC_A.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.1|ReBBA_D.LC_A.1|PAA_D.LC_A.1|RePAA_D.LC_A.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.1|ReBBA_D.LR_A.1|PAA_D.LR_A.1|RePAA_D.LR_A.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.1|ReBBA_D.LIC_A.1|PAA_D.LIC_A.1|RePAA_D.LIC_A.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.1.1|ReBBA_D.ICL_A.1.1|PAA_D.ICL_A.1.1|RePAA_D.ICL_A.1.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.1.1|ReBBA_D.LRC_A.1.1|PAA_D.LRC_A.1.1|RePAA_D.LRC_A.1.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.1.1|ReBBA_D.LC_A.1.1|PAA_D.LC_A.1.1|RePAA_D.LC_A.1.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.1.1|ReBBA_D.LR_A.1.1|PAA_D.LR_A.1.1|RePAA_D.LR_A.1.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.1.1|ReBBA_D.LIC_A.1.1|PAA_D.LIC_A.1.1|RePAA_D.LIC_A.1.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.1.2|ReBBA_D.ICL_A.1.2|PAA_D.ICL_A.1.2|RePAA_D.ICL_A.1.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.1.2|ReBBA_D.LRC_A.1.2|PAA_D.LRC_A.1.2|RePAA_D.LRC_A.1.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.1.2|ReBBA_D.LC_A.1.2|PAA_D.LC_A.1.2|RePAA_D.LC_A.1.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.1.2|ReBBA_D.LR_A.1.2|PAA_D.LR_A.1.2|RePAA_D.LR_A.1.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.1.2|ReBBA_D.LIC_A.1.2|PAA_D.LIC_A.1.2|RePAA_D.LIC_A.1.2","Value":null}
+    },
+    {
+        "Description": "OPENING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.2|ReBBA_D.ICL_A.2|PAA_D.ICL_A.2|RePAA_D.ICL_A.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.2|ReBBA_D.LRC_A.2|PAA_D.LRC_A.2|RePAA_D.LRC_A.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.2|ReBBA_D.LC_A.2|PAA_D.LC_A.2|RePAA_D.LC_A.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.2|ReBBA_D.LR_A.2|PAA_D.LR_A.2|RePAA_D.LR_A.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.2|ReBBA_D.LIC_A.2|PAA_D.LIC_A.2|RePAA_D.LIC_A.2","Value":null}
+    },
+    {
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3|ReBBA_D.ICL_A.3|PAA_D.ICL_A.3|RePAA_D.ICL_A.3","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3|ReBBA_D.LRC_A.3|PAA_D.LRC_A.3|RePAA_D.LRC_A.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3|ReBBA_D.LC_A.3|PAA_D.LC_A.3|RePAA_D.LC_A.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3|ReBBA_D.LR_A.3|PAA_D.LR_A.3|RePAA_D.LR_A.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3|ReBBA_D.LIC_A.3|PAA_D.LIC_A.3|RePAA_D.LIC_A.3","Value":null}
+    },
+    {
+        "Description": "Insurance revenue",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.1|ReBBA_D.ICL_A.3.1|PAA_D.ICL_A.3.1|RePAA_D.ICL_A.3.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.1|ReBBA_D.LRC_A.3.1|PAA_D.LRC_A.3.1|RePAA_D.LRC_A.3.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.1|ReBBA_D.LC_A.3.1|PAA_D.LC_A.3.1|RePAA_D.LC_A.3.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.1|ReBBA_D.LR_A.3.1|PAA_D.LR_A.3.1|RePAA_D.LR_A.3.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.1|ReBBA_D.LIC_A.3.1|PAA_D.LIC_A.3.1|RePAA_D.LIC_A.3.1","Value":null}
+    },
+    {
+        "Description": "Insurance service expenses",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2|ReBBA_D.ICL_A.3.2|PAA_D.ICL_A.3.2|RePAA_D.ICL_A.3.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2|ReBBA_D.LRC_A.3.2|PAA_D.LRC_A.3.2|RePAA_D.LRC_A.3.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2|ReBBA_D.LC_A.3.2|PAA_D.LC_A.3.2|RePAA_D.LC_A.3.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2|ReBBA_D.LR_A.3.2|PAA_D.LR_A.3.2|RePAA_D.LR_A.3.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2|ReBBA_D.LIC_A.3.2|PAA_D.LIC_A.3.2|RePAA_D.LIC_A.3.2","Value":null}
+    },
+    {
+        "Description": "Incurred benefits and expenses",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.1|ReBBA_D.ICL_A.3.2.1|PAA_D.ICL_A.3.2.1|RePAA_D.ICL_A.3.2.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.1|ReBBA_D.LRC_A.3.2.1|PAA_D.LRC_A.3.2.1|RePAA_D.LRC_A.3.2.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.1|ReBBA_D.LC_A.3.2.1|PAA_D.LC_A.3.2.1|RePAA_D.LC_A.3.2.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.1|ReBBA_D.LR_A.3.2.1|PAA_D.LR_A.3.2.1|RePAA_D.LR_A.3.2.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.1|ReBBA_D.LIC_A.3.2.1|PAA_D.LIC_A.3.2.1|RePAA_D.LIC_A.3.2.1","Value":null}
+    },
+    {
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.2|ReBBA_D.ICL_A.3.2.2|PAA_D.ICL_A.3.2.2|RePAA_D.ICL_A.3.2.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.2|ReBBA_D.LRC_A.3.2.2|PAA_D.LRC_A.3.2.2|RePAA_D.LRC_A.3.2.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.2|ReBBA_D.LC_A.3.2.2|PAA_D.LC_A.3.2.2|RePAA_D.LC_A.3.2.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.2|ReBBA_D.LR_A.3.2.2|PAA_D.LR_A.3.2.2|RePAA_D.LR_A.3.2.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.2|ReBBA_D.LIC_A.3.2.2|PAA_D.LIC_A.3.2.2|RePAA_D.LIC_A.3.2.2","Value":null}
+    },
+    {
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.3|ReBBA_D.ICL_A.3.2.3|PAA_D.ICL_A.3.2.3|RePAA_D.ICL_A.3.2.3","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.3|ReBBA_D.LRC_A.3.2.3|PAA_D.LRC_A.3.2.3|RePAA_D.LRC_A.3.2.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.3|ReBBA_D.LC_A.3.2.3|PAA_D.LC_A.3.2.3|RePAA_D.LC_A.3.2.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.3|ReBBA_D.LR_A.3.2.3|PAA_D.LR_A.3.2.3|RePAA_D.LR_A.3.2.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.3|ReBBA_D.LIC_A.3.2.3|PAA_D.LIC_A.3.2.3|RePAA_D.LIC_A.3.2.3","Value":null}
+    },
+    {
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.4|ReBBA_D.ICL_A.3.2.4|PAA_D.ICL_A.3.2.4|RePAA_D.ICL_A.3.2.4","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.4|ReBBA_D.LRC_A.3.2.4|PAA_D.LRC_A.3.2.4|RePAA_D.LRC_A.3.2.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.4|ReBBA_D.LC_A.3.2.4|PAA_D.LC_A.3.2.4|RePAA_D.LC_A.3.2.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.4|ReBBA_D.LR_A.3.2.4|PAA_D.LR_A.3.2.4|RePAA_D.LR_A.3.2.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.4|ReBBA_D.LIC_A.3.2.4|PAA_D.LIC_A.3.2.4|RePAA_D.LIC_A.3.2.4","Value":null}
+    },
+    {
+        "Description": "Maturing portfolios closing adjustment",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.5|ReBBA_D.ICL_A.3.2.5|PAA_D.ICL_A.3.2.5|RePAA_D.ICL_A.3.2.5","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.5|ReBBA_D.LRC_A.3.2.5|PAA_D.LRC_A.3.2.5|RePAA_D.LRC_A.3.2.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.5|ReBBA_D.LC_A.3.2.5|PAA_D.LC_A.3.2.5|RePAA_D.LC_A.3.2.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.5|ReBBA_D.LR_A.3.2.5|PAA_D.LR_A.3.2.5|RePAA_D.LR_A.3.2.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.5|ReBBA_D.LIC_A.3.2.5|PAA_D.LIC_A.3.2.5|RePAA_D.LIC_A.3.2.5","Value":null}
+    },
+    {
+        "Description": "Amortised insurance acquisition",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.2.6|ReBBA_D.ICL_A.3.2.6|PAA_D.ICL_A.3.2.6|RePAA_D.ICL_A.3.2.6","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.2.6|ReBBA_D.LRC_A.3.2.6|PAA_D.LRC_A.3.2.6|RePAA_D.LRC_A.3.2.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.2.6|ReBBA_D.LC_A.3.2.6|PAA_D.LC_A.3.2.6|RePAA_D.LC_A.3.2.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.2.6|ReBBA_D.LR_A.3.2.6|PAA_D.LR_A.3.2.6|RePAA_D.LR_A.3.2.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.2.6|ReBBA_D.LIC_A.3.2.6|PAA_D.LIC_A.3.2.6|RePAA_D.LIC_A.3.2.6","Value":null}
+    },
+    {
+        "Description": "Insurance finance expenses through profit and loss",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.3|ReBBA_D.ICL_A.3.3|PAA_D.ICL_A.3.3|RePAA_D.ICL_A.3.3","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.3|ReBBA_D.LRC_A.3.3|PAA_D.LRC_A.3.3|RePAA_D.LRC_A.3.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.3|ReBBA_D.LC_A.3.3|PAA_D.LC_A.3.3|RePAA_D.LC_A.3.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.3|ReBBA_D.LR_A.3.3|PAA_D.LR_A.3.3|RePAA_D.LR_A.3.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.3|ReBBA_D.LIC_A.3.3|PAA_D.LIC_A.3.3|RePAA_D.LIC_A.3.3","Value":null}
+    },
+    {
+        "Description": "Insurance finance expenses through OCI",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.4|ReBBA_D.ICL_A.3.4|PAA_D.ICL_A.3.4|RePAA_D.ICL_A.3.4","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.4|ReBBA_D.LRC_A.3.4|PAA_D.LRC_A.3.4|RePAA_D.LRC_A.3.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.4|ReBBA_D.LC_A.3.4|PAA_D.LC_A.3.4|RePAA_D.LC_A.3.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.4|ReBBA_D.LR_A.3.4|PAA_D.LR_A.3.4|RePAA_D.LR_A.3.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.4|ReBBA_D.LIC_A.3.4|PAA_D.LIC_A.3.4|RePAA_D.LIC_A.3.4","Value":null}
+    },
+    {
+        "Description": "Net foreign exchange income or expense",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.5|ReBBA_D.ICL_A.3.5|PAA_D.ICL_A.3.5|RePAA_D.ICL_A.3.5","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.5|ReBBA_D.LRC_A.3.5|PAA_D.LRC_A.3.5|RePAA_D.LRC_A.3.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.5|ReBBA_D.LC_A.3.5|PAA_D.LC_A.3.5|RePAA_D.LC_A.3.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.5|ReBBA_D.LR_A.3.5|PAA_D.LR_A.3.5|RePAA_D.LR_A.3.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.5|ReBBA_D.LIC_A.3.5|PAA_D.LIC_A.3.5|RePAA_D.LIC_A.3.5","Value":null}
+    },
+    {
+        "Description": "Investment components",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.3.6|ReBBA_D.ICL_A.3.6|PAA_D.ICL_A.3.6|RePAA_D.ICL_A.3.6","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.3.6|ReBBA_D.LRC_A.3.6|PAA_D.LRC_A.3.6|RePAA_D.LRC_A.3.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.3.6|ReBBA_D.LC_A.3.6|PAA_D.LC_A.3.6|RePAA_D.LC_A.3.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.3.6|ReBBA_D.LR_A.3.6|PAA_D.LR_A.3.6|RePAA_D.LR_A.3.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.3.6|ReBBA_D.LIC_A.3.6|PAA_D.LIC_A.3.6|RePAA_D.LIC_A.3.6","Value":null}
+    },
+    {
+        "Description": "TOTAL CASH FLOWS",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4|ReBBA_D.ICL_A.4|PAA_D.ICL_A.4|RePAA_D.ICL_A.4","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4|ReBBA_D.LRC_A.4|PAA_D.LRC_A.4|RePAA_D.LRC_A.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4|ReBBA_D.LC_A.4|PAA_D.LC_A.4|RePAA_D.LC_A.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4|ReBBA_D.LR_A.4|PAA_D.LR_A.4|RePAA_D.LR_A.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4|ReBBA_D.LIC_A.4|PAA_D.LIC_A.4|RePAA_D.LIC_A.4","Value":null}
+    },
+    {
+        "Description": "Premiums received",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4.1|ReBBA_D.ICL_A.4.1|PAA_D.ICL_A.4.1|RePAA_D.ICL_A.4.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4.1|ReBBA_D.LRC_A.4.1|PAA_D.LRC_A.4.1|RePAA_D.LRC_A.4.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4.1|ReBBA_D.LC_A.4.1|PAA_D.LC_A.4.1|RePAA_D.LC_A.4.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4.1|ReBBA_D.LR_A.4.1|PAA_D.LR_A.4.1|RePAA_D.LR_A.4.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4.1|ReBBA_D.LIC_A.4.1|PAA_D.LIC_A.4.1|RePAA_D.LIC_A.4.1","Value":null}
+    },
+    {
+        "Description": "Commission received from reinsurer",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4.2|ReBBA_D.ICL_A.4.2|PAA_D.ICL_A.4.2|RePAA_D.ICL_A.4.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4.2|ReBBA_D.LRC_A.4.2|PAA_D.LRC_A.4.2|RePAA_D.LRC_A.4.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4.2|ReBBA_D.LC_A.4.2|PAA_D.LC_A.4.2|RePAA_D.LC_A.4.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4.2|ReBBA_D.LR_A.4.2|PAA_D.LR_A.4.2|RePAA_D.LR_A.4.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4.2|ReBBA_D.LIC_A.4.2|PAA_D.LIC_A.4.2|RePAA_D.LIC_A.4.2","Value":null}
+    },
+    {
+        "Description": "Claims paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4.3|ReBBA_D.ICL_A.4.3|PAA_D.ICL_A.4.3|RePAA_D.ICL_A.4.3","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4.3|ReBBA_D.LRC_A.4.3|PAA_D.LRC_A.4.3|RePAA_D.LRC_A.4.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4.3|ReBBA_D.LC_A.4.3|PAA_D.LC_A.4.3|RePAA_D.LC_A.4.3","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4.3|ReBBA_D.LR_A.4.3|PAA_D.LR_A.4.3|RePAA_D.LR_A.4.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4.3|ReBBA_D.LIC_A.4.3|PAA_D.LIC_A.4.3|RePAA_D.LIC_A.4.3","Value":null}
+    },
+    {
+        "Description": "Directly attributable expenses paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4.4|ReBBA_D.ICL_A.4.4|PAA_D.ICL_A.4.4|RePAA_D.ICL_A.4.4","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4.4|ReBBA_D.LRC_A.4.4|PAA_D.LRC_A.4.4|RePAA_D.LRC_A.4.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4.4|ReBBA_D.LC_A.4.4|PAA_D.LC_A.4.4|RePAA_D.LC_A.4.4","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4.4|ReBBA_D.LR_A.4.4|PAA_D.LR_A.4.4|RePAA_D.LR_A.4.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4.4|ReBBA_D.LIC_A.4.4|PAA_D.LIC_A.4.4|RePAA_D.LIC_A.4.4","Value":null}
+    },
+    {
+        "Description": "Acquisition cost paid",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.4.5|ReBBA_D.ICL_A.4.5|PAA_D.ICL_A.4.5|RePAA_D.ICL_A.4.5","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.4.5|ReBBA_D.LRC_A.4.5|PAA_D.LRC_A.4.5|RePAA_D.LRC_A.4.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.4.5|ReBBA_D.LC_A.4.5|PAA_D.LC_A.4.5|RePAA_D.LC_A.4.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.4.5|ReBBA_D.LR_A.4.5|PAA_D.LR_A.4.5|RePAA_D.LR_A.4.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.4.5|ReBBA_D.LIC_A.4.5|PAA_D.LIC_A.4.5|RePAA_D.LIC_A.4.5","Value":null}
+    },
+    {
+        "Description": "CLOSING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.5|ReBBA_D.ICL_A.5|PAA_D.ICL_A.5|RePAA_D.ICL_A.5","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.5|ReBBA_D.LRC_A.5|PAA_D.LRC_A.5|RePAA_D.LRC_A.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.5|ReBBA_D.LC_A.5|PAA_D.LC_A.5|RePAA_D.LC_A.5","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.5|ReBBA_D.LR_A.5|PAA_D.LR_A.5|RePAA_D.LR_A.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.5|ReBBA_D.LIC_A.5|PAA_D.LIC_A.5|RePAA_D.LIC_A.5","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.5.1|ReBBA_D.ICL_A.5.1|PAA_D.ICL_A.5.1|RePAA_D.ICL_A.5.1","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.5.1|ReBBA_D.LRC_A.5.1|PAA_D.LRC_A.5.1|RePAA_D.LRC_A.5.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.5.1|ReBBA_D.LC_A.5.1|PAA_D.LC_A.5.1|RePAA_D.LC_A.5.1","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.5.1|ReBBA_D.LR_A.5.1|PAA_D.LR_A.5.1|RePAA_D.LR_A.5.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.5.1|ReBBA_D.LIC_A.5.1|PAA_D.LIC_A.5.1|RePAA_D.LIC_A.5.1","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.5.2|ReBBA_D.ICL_A.5.2|PAA_D.ICL_A.5.2|RePAA_D.ICL_A.5.2","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.5.2|ReBBA_D.LRC_A.5.2|PAA_D.LRC_A.5.2|RePAA_D.LRC_A.5.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.5.2|ReBBA_D.LC_A.5.2|PAA_D.LC_A.5.2|RePAA_D.LC_A.5.2","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.5.2|ReBBA_D.LR_A.5.2|PAA_D.LR_A.5.2|RePAA_D.LR_A.5.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.5.2|ReBBA_D.LIC_A.5.2|PAA_D.LIC_A.5.2|RePAA_D.LIC_A.5.2","Value":null}
+    },
+    {
+        "Description": "CLOSING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA_D.ICL_A.6|ReBBA_D.ICL_A.6|PAA_D.ICL_A.6|RePAA_D.ICL_A.6","Value":null},
+        "Liability for Remaining Coverage  (Excl. LC/LR)": {"Reference":"BBA_D.LRC_A.6|ReBBA_D.LRC_A.6|PAA_D.LRC_A.6|RePAA_D.LRC_A.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Component)": {"Reference":"BBA_D.LC_A.6|ReBBA_D.LC_A.6|PAA_D.LC_A.6|RePAA_D.LC_A.6","Value":null},
+        "Liability for Remaining Coverage  (Loss Recovery Component)": {"Reference":"BBA_D.LR_A.6|ReBBA_D.LR_A.6|PAA_D.LR_A.6|RePAA_D.LR_A.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA_D.LIC_A.6|ReBBA_D.LIC_A.6|PAA_D.LIC_A.6|RePAA_D.LIC_A.6","Value":null}
+    }
+]

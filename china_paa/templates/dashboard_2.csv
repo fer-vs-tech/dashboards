@@ -1,0 +1,13 @@
+﻿,当期
+保险服务收入,PL_Insurance_Service_Revenue
+保险获取现金流量的摊销,PL_IACF_Amortized
+保费分配法分摊,PL_Insurance_Revenue_Prem
+保险服务费用,PL_Insurance_Service_Expenses
+保险合同承保利润,PL_Insurance_Contract_Profit
+投资收益,
+承保财务损失,PL_Non_Insurance_Service_Related
+净投资收益,PL_Net_Investment_Reveune
+营业利润,PL_Operation_Profit
+其他综合收益-资产,
+其他综合收益-负债,PL_OCI_Liability
+综合收益,PL_OCI_Total

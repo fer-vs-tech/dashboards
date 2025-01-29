@@ -1,0 +1,18 @@
+﻿,,NAIC指定格付使用,RC_Credit_with_NAIC
+所要資本の要約,所要資本の要約,所要資本（NAIC指定格付使用前）,所要資本
+,T67,[1],[2]
+所要資本（マネジメント・アクション考慮後）,[1],RC_Credit_NAIC,RC_Credit
+    マネジメント・アクションの効果,[2],MA_Effect_RC_Credit_NAIC,MA_Effect_RC_Credit
+    信用リスク,[3],RC_Credit_wo_MA_NAIC,RC_Credit_wo_MA
+        公共部門,[4],RC_Credit_Public_NAIC,RC_Credit_Public
+        企業,[5],RC_Credit_Corp_NAIC,RC_Credit_Corp
+        うち、金融機関,[6],,RC_Credit_Corp_FI
+        インフラ投資,[7],RC_Credit_Infra_NAIC,RC_Credit_Infra
+        証券化商品,[8],RC_Credit_Secur_NAIC,RC_Credit_Secur
+        再証券化商品,[9],RC_Credit_ReSecur_NAIC,RC_Credit_ReSecur
+        再保険（担保付損害再保険を除く）,[10],RC_Credit_Reins_NAIC,RC_Credit_Reins
+        担保付損害再保険,[11],RC_Credit_CNLR_NAIC,RC_Credit_CNLR
+        不動産ローン,[12],,RC_Credit_Mortgage
+        その他の資産,[13],,RC_Credit_Misc
+        特別勘定の負債の信用リスク,[14],,RC_Credit_SA_Liab
+        信用保険（損害保険リスク）,[15],,RC_Credit_Non_Life

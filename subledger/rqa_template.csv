@@ -1,0 +1,11 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+RQA,1,,Writing CSM/expense of the amount of BEL,Initial_BEL_REINS_RPA_Proc,Initial_BEL_REINS_RPA_Proc,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Dr
+,1,,and RA after volume adjustment based on,Initial_RA_REINS_RPA_Proc,Initial_RA_REINS_RPA_Proc,Reinsurance Interest Expense New Biz-RA_REINS,NB,Dr
+,1,,initial EIR,Initial_Credit_Loss_BEL_REINS_RPA_Proc,Initial_Credit_Loss_BEL_REINS_RPA_Proc,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Cr
+,1,1,,Writing_CSM_Initial_EIR_REINS,,(Sus) CSM New Biz_REINS,NB,Cr
+,0,,Writing interest expense and the amount of BEL ,Current_BEL_REINS_RPA_Proc,Current_BEL_REINS_RPA_Proc,BEL New Biz_REINS,NB,Dr
+,0,,and RA after volume adjustment based on ,Writing_BEL_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Cr
+,0,,current EIR,Current_RA_REINS_RPA_Proc,Current_RA_REINS_RPA_Proc,RA New Biz_REINS,NB,Dr
+,0,,,Writing_RA_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-RA_REINS,NB,Cr
+,0,,,Current_Credit_Loss_BEL_REINS_RPA_Proc,Current_Credit_Loss_BEL_REINS_RPA_Proc,Credit Loss BEL New Biz_REINS,NB,Cr
+,0,2,,Writing_Credit_Loss_Interest_Expense_Current_EIR_REINS,,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Dr

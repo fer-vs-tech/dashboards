@@ -1,0 +1,19 @@
+﻿所要資本の要約,所要資本の要約,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T33,[1],[2],[3=1-2],[4],[5=3-4]
+全地域,[1],,,dNAV_Morb_wo_MA,MA_Effect_Morb,dNAV_Morb
+    商品区分1：医療費補償,[2],,,dNAV_Morb1_wo_MA,MA_Effect_Morb1,dNAV_Morb1
+        保障期間：短期,[3],,,dNAV_Morb1_S_wo_MA,MA_Effect_Morb1_S,dNAV_Morb1_S
+        保障期間：長期,[4],,,dNAV_Morb1_L_wo_MA,MA_Effect_Morb1_L,dNAV_Morb1_L
+    商品区分2：健康事象発現時の一時金,[5],,,dNAV_Morb2_wo_MA,MA_Effect_Morb2,dNAV_Morb2
+        保障期間：短期,[6],,,dNAV_Morb2_S_wo_MA,MA_Effect_Morb2_S,dNAV_Morb2_S
+        保障期間：長期,[7],,,dNAV_Morb2_L_wo_MA,MA_Effect_Morb2_L,dNAV_Morb2_L
+    商品区分3：短期定期的給付,[8],,,dNAV_Morb3_wo_MA,MA_Effect_Morb3,dNAV_Morb3
+        保障期間：短期,[9],,,dNAV_Morb3_S_wo_MA,MA_Effect_Morb3_S,dNAV_Morb3_S
+        保障期間：長期,[10],,,dNAV_Morb3_L_wo_MA,MA_Effect_Morb3_L,dNAV_Morb3_L
+    商品区分4：長期定期的給付,[11],,,dNAV_Morb4_wo_MA,,dNAV_Morb4
+        保障期間：短期,[12],,,dNAV_Morb4_S_wo_MA,MA_Effect_Morb4_S,dNAV_Morb4_S
+            発生率に対するストレス,[13],,,dNAV_Morb4_S_Inc_wo_MA,MA_Effect_Morb4_S_Inc,dNAV_Morb4_S_Inc
+            回復率に対するストレス,[14],,,dNAV_Morb4_S_Rec_wo_MA,MA_Effect_Morb4_S_Rec,dNAV_Morb4_S_Rec
+        保障期間：長期,[15],,,dNAV_Morb4_L_wo_MA,MA_Effect_Morb4_L,dNAV_Morb4_L
+            発生率に対するストレス,[16],,,dNAV_Morb4_L_Inc_wo_MA,MA_Effect_Morb4_L_Inc,dNAV_Morb4_L_Inc
+            回復率に対するストレス,[17],,,dNAV_Morb4_L_Rec_wo_MA,MA_Effect_Morb4_L_Rec,dNAV_Morb4_L_Rec

@@ -1,0 +1,37 @@
+[
+    {
+        "Model": "BBA",
+        "Insurance": "BBA.ICL.9",
+        "Reinsurance": "ReBBA.ICL.9",
+        "Net Position": "BBA.ICL.9|ReBBA.ICL.9",
+		"Value": null
+    },
+    {
+        "Model": "BBA_Eff_Yield",
+        "Insurance": "BBA.ICL.9",
+        "Reinsurance": "ReBBA.ICL.9",
+        "Net Position": "BBA.ICL.9|ReBBA.ICL.9",
+		"Value": null
+    },
+    {
+        "Model": "BBA_Credit_Rate",
+        "Insurance": "BBA.ICL.9",
+        "Reinsurance": "ReBBA.ICL.9",
+        "Net Position": "BBA.ICL.9|ReBBA.ICL.9",
+		"Value": null
+    },
+    {
+        "Model": "VFA",
+        "Insurance": "BBA.ICL.9",
+        "Reinsurance": "ReBBA.ICL.9",
+        "Net Position": "BBA.ICL.9|ReBBA.ICL.9",
+		"Value": null
+    },
+    {
+        "Model": "PAA",
+        "Insurance": "PAA.ICL.9",
+        "Reinsurance": "RePAA.ICL.9",
+        "Net Position": "PAA.ICL.9|RePAA.ICL.9",
+		"Value": null
+    }
+]

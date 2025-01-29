@@ -1,0 +1,11 @@
+﻿,,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,기초가정위험,기초가정위험,기초가정위험,기초가정위험,기초가정위험,기초가정위험,기초가정위험
+,,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,예실차위험,예실차위험,예실차위험,예실차위험,예실차위험,예실차위험,예실차위험액
+,,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,일반운영위험,지급금예실차위험,지급금예실차위험,지급금예실차위험,사업비예실차위험,사업비예실차위험,사업비예실차위험,예실차위험액
+,,익스포져,익스포져,익스포져,익스포져,익스포져,위험계수,위험계수,위험계수,위험액,익스포져,위험계수,위험액,익스포져,위험계수,위험액,예실차위험액
+,,보 험 료,보 험 료,보 험 료,현행추정부채,적용 익스포져,보 험 료 익스포져,보 험 료 익스포져,현행추정부채  익스포져,위험액,익스포져,위험계수,위험액,익스포져,위험계수,위험액,예실차위험액
+항목명,운영위험액 (일반운영위험액 +기초가정위험액),직전1년간 납입된보험료,직전1년간  초과납입된보험료,역외출재 경과보험료,현행추정부채,적용 익스포져,보험료,역외출재,현행추정부채  익스포져,위험액,익스포져,위험계수,위험액,익스포져,위험계수,위험액,예실차위험액
+생명·장기손해보험_변액,ORSK_CHGA_AMT,,,,PELBT_EXPS_CHGA_AMT,ORSK_APPT_EXPS_CHGA_AMT,"0.00%","0.00%","0.40%",ORSK_CHGA_AMT,Benefit_Claims_AE_Diff_Exposure_Var,"3.5",Benefit_Claims_AE_Diff_Risk_Var,Expense_AE_Diff_Exposure_Var,"3.7",Expense_AE_Diff_Risk_Var,Opening_Assumption_Risk_Var
+생명·장기손해보험_퇴직,ORSK_RETI_AMT,,,,PELBT_EXPS_RETI_AMT,ORSK_APPT_EXPS_RETI_AMT,"0.00%","0.00%","0.30%",ORSK_RETI_AMT,,,,,,,
+생명·장기손해보험_이외,ORSK_GNLF_AMT,JB_Y1_PAD_PRM_GNLF_AMT,JBB_Y1_PAD_PRM_GNLF_AMT,,PELBT_EXPS_GNLF_AMT,ORSK_APPT_EXPS_GNLF_AMT,"3.50%","0.00%","0.40%",ORSK_GNLF_AMT,Benefit_Claims_AE_Diff_Exposure_Oth,"3.5",Benefit_Claims_AE_Diff_Risk_Oth,Expense_AE_Diff_Exposure_Oth,"3.7",Expense_AE_Diff_Risk_Oth,Opening_Assumption_Risk_Oth
+일반손해보험,,,,,,,"2.75%","0.40%","2.75%",,,,,,,,
+합계,,,,,,,,,,,,,,,,,

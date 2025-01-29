@@ -1,0 +1,9 @@
+﻿所要資本の要約,所要資本の要約,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T32,[1],[2],[3=1-2],[4],[5=3-4]
+全地域,[1],,,dNAV_Long_wo_MA,MA_Effect_Long,dNAV_Long
+    欧州経済領域（EEA）およびスイス,[2],NAV_Long_Base_EEA_CHE,NAV_Long_EEA_CHE_wo_MA,dNAV_Long_EEA_CHE_wo_MA,MA_Effect_Long_EEA_CHE,dNAV_Long_EEA_CHE
+    米国およびカナダ,[3],NAV_Long_Base_USA_CAN,NAV_Long_USA_CAN_wo_MA,dNAV_Long_USA_CAN_wo_MA,MA_Effect_Long_USA_CAN,dNAV_Long_USA_CAN
+    中国,[4],NAV_Long_Base_CHN,NAV_Long_CHN_wo_MA,dNAV_Long_CHN_wo_MA,MA_Effect_Long_CHN,dNAV_Long_CHN
+    日本,[5],NAV_Long_Base_JPN,NAV_Long_JPN_wo_MA,dNAV_Long_JPN_wo_MA,MA_Effect_Long_JPN,dNAV_Long_JPN
+    その他先進国市場,[6],NAV_Long_Base_DM,NAV_Long_DM_wo_MA,dNAV_Long_DM_wo_MA,MA_Effect_Long_DM,dNAV_Long_DM
+    その他新興市場,[7],NAV_Long_Base_EM,NAV_Long_EM_wo_MA,dNAV_Long_EM_wo_MA,MA_Effect_Long_EM,dNAV_Long_EM

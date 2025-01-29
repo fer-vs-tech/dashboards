@@ -1,0 +1,82 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Insurance Service Expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Incurred benefits",
+        "Reference": "PAA.LIC.5.5",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Incurred directly attributable expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "PAA_D.ICL_A.3.2.4",
+        "Ref_Type": "Sum_Disc_Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance acquisition costs",
+        "Reference": "PAA.MISC.1.25|PAA.ICL.5.10",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes that relate to past service",
+        "Reference": "PAA.CFS.17.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.1.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.ISE.2",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL INSURANCE SERVICE EXPENSES",
+        "Reference": "PAA_D.ISE.1.6|PAA_D.ISE.1.5|PAA_D.ISE.1.4|PAA_D.ISE.1.3|PAA_D.ISE.1.2|PAA_D.ISE.1.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

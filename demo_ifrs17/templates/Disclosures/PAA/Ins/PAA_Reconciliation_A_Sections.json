@@ -1,0 +1,842 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage  (Excl. LC/LR)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "PAA.DCF.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Opening insurance contract assets",
+        "Reference": "PAA.DCF.1.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "PAA.DCF.1.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "PAA.DCF.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "PAA_D.LRC_A.3.1|PAA_D.LRC_A.3.2|PAA_D.LRC_A.3.3|PAA_D.LRC_A.3.4|PAA_D.LRC_A.3.5|PAA_D.LRC_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance revenue",
+        "Reference": "PAA.DCF.5.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Insurance service expenses",
+        "Reference": "PAA_D.LRC_A.3.2.1|PAA_D.LRC_A.3.2.2|PAA_D.LRC_A.3.2.3|PAA_D.LRC_A.3.2.4|PAA_D.LRC_A.3.2.5|PAA_D.LRC_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.5",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.2.6",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "PAA.ICL.5.10",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "PAA.DCF.4.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.3.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Investment components",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "PAA_D.LRC_A.4.1|PAA_D.LRC_A.4.2|PAA_D.LRC_A.4.3|PAA_D.LRC_A.4.4|PAA_D.LRC_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Premiums received",
+        "Reference": "PAA.ICL.4.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.4.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Acquisition cost paid",
+        "Reference": "PAA.MISC.1.26minusPAA.MISC.1.25",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "PAA.DCF.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.5.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract assets",
+        "Reference": "PAA.DCF.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.5.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "PAA.DCF.8.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LRC_A.6",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "PAA_D.LRC_A.4|PAA_D.LRC_A.3|PAA_D.LRC_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage  (Loss Component)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "PAA.LC.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract assets",
+        "Reference": "PAA.LC.1.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "PAA.LC.1.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "PAA.LC.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "PAA_D.LC_A.3.1|PAA_D.LC_A.3.2|PAA_D.LC_A.3.3|PAA_D.LC_A.3.4|PAA_D.LC_A.3.5|PAA_D.LC_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Insurance revenue",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Insurance service expenses",
+        "Reference": "PAA_D.LC_A.3.2.1|PAA_D.LC_A.3.2.2|PAA_D.LC_A.3.2.3|PAA_D.LC_A.3.2.4|PAA_D.LC_A.3.2.5|PAA_D.LC_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "PAA.LC.5.11",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.5",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.2.6",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "PAA.LC.4.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.3.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Investment components",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "PAA_D.LC_A.4.1|PAA_D.LC_A.4.2|PAA_D.LC_A.4.3|PAA_D.LC_A.4.4|PAA_D.LC_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.4.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "PAA.LC.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.5.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract assets",
+        "Reference": "PAA.LC.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.5.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "PAA.LC.8.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LC_A.6",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "PAA_D.LC_A.4|PAA_D.LC_A.3|PAA_D.LC_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Incurred Claim",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (current rates)",
+        "Reference": "PAA.RA.1|PAA.LIC.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract assets",
+        "Reference": "PAA.RA.1.1|PAA.LIC.1.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "PAA.RA.1.2|PAA.LIC.1.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "PAA.RA.2|PAA.LIC.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "PAA_D.LIC_A.3.1|PAA_D.LIC_A.3.2|PAA_D.LIC_A.3.3|PAA_D.LIC_A.3.4|PAA_D.LIC_A.3.5|PAA_D.LIC_A.3.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Insurance revenue",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Insurance service expenses",
+        "Reference": "PAA_D.LIC_A.3.2.1|PAA_D.LIC_A.3.2.2|PAA_D.LIC_A.3.2.3|PAA_D.LIC_A.3.2.4|PAA_D.LIC_A.3.2.5|PAA_D.LIC_A.3.2.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.1",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "PAA.LIC.5.5",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.2",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "PAA.LIC.5.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.3",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.4",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.5",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.2.6",
+        "Level": "3",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "PAA.LIC.4.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "PAA.LIC.8",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.3.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Investment components",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "PAA_D.LIC_A.4.1|PAA_D.LIC_A.4.2|PAA_D.LIC_A.4.3|PAA_D.LIC_A.4.4|PAA_D.LIC_A.4.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Claims paid",
+        "Reference": "PAA.CFS.18",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.4.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "PAA.RA.7|PAA.LIC.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.5.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract assets",
+        "Reference": "PAA.RA.8.1|PAA.LIC.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.5.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "PAA.RA.8.2|PAA.LIC.8.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "PAA_D.LIC_A.6",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "CLOSING (current rates)",
+        "Reference": "PAA_D.LIC_A.4|PAA_D.LIC_A.3|PAA_D.LIC_A.1",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

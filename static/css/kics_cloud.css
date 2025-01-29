@@ -1,0 +1,224 @@
+/* Custom CSS for KICS Cloud Dashboards */
+
+body {
+    background-color: #F4F6FC;
+    font-family: 'Arial';
+}
+
+.container {
+    max-width: 1920px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+.body-container {
+    border: none;
+    padding: none;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    width: 498px;
+    height: 44px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.logo-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    letter-spacing: -0.75px;
+    color: #4F4F4F;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 2px 0px;
+    gap: 10px;
+
+    width: 203px;
+    height: 32px;
+}
+
+.box-container {
+    padding: 24px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding-right: 16px;
+    margin-bottom: 16px;
+    height: 500px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.276571px;
+    color: #333333;
+}
+
+table {
+    border: none !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 14px !important;
+}
+
+.regular-table,
+.special-table {
+    display: inline-block;
+}
+
+.regular-table table {
+    width: 248px !important;
+    min-width: 248px !important;
+    max-width: 320px !important;
+    margin-left: 16px;
+}
+
+.regular-table th,
+.special-table th,
+.custome-table th {
+    color: #333333 !important;
+    background-color: #F2F2F2 !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    letter-spacing: 0.221257px;
+    border: none !important;
+    min-height: 24px !important;
+    height: 24px !important;
+
+}
+
+.regular-table td,
+.special-table td,
+.custome-table td {
+    min-height: 16px !important;
+    height: 16px !important;
+    padding: 1px !important;
+    text-align: left !important;
+}
+
+.regular-table td:last-child {
+    text-align: right !important;
+}
+
+.special-table td:not(:first-child),
+.custome-table td:not(:first-child) {
+    text-align: right !important;
+}
+
+.custome-table th:first-child {
+    color: transparent !important;
+}
+
+
+.regular-table tr,
+.special-table tr {
+    min-height: 16px !important;
+    height: 16px !important;
+}
+
+.custome-table td {
+    min-height: 20px !important;
+    height: 20px !important;
+    padding: 2px !important;
+}
+
+.custome-table tr {
+    min-height: 20px !important;
+    height: 20px !important;
+    /* padding: 2px !important; */
+}
+
+.regular-table th:not(:first-child) {
+    color: transparent !important;
+}
+
+.special-table table tr:nth-child(2) td:first-child,
+.special-table table tr:nth-child(8) td:first-child,
+.special-table table tr:nth-child(14) td:first-child {
+    font-weight: bold !important;
+}
+
+.special-table table tr:nth-child(2) td:not(:first-child),
+.special-table table tr:nth-child(8) td:not(:first-child),
+.special-table table tr:nth-child(14) td:not(:first-child) {
+    color: rgba(39, 65, 188, 1) !important;
+}
+
+.custome-table table tr:nth-child(odd) td {
+    background-color: #F2F2F2 !important;
+}
+
+.custome-table table tr:nth-child(even) td {
+    background-color: #FFFFFF !important;
+}
+
+.rb-1 table tr:nth-child(odd) td:nth-last-child(1),
+.rb-2 table tr:nth-child(odd) td:nth-last-child(2),
+.rb-2 table tr:nth-child(odd) td:nth-last-child(1) {
+    background-color: #F7E8DF !important;
+}
+
+.rb-1 table tr:nth-child(even) td:nth-last-child(1),
+.rb-2 table tr:nth-child(even) td:nth-last-child(2),
+.rb-2 table tr:nth-child(even) td:nth-last-child(1) {
+    background-color: #FDF0E7 !important;
+}
+
+/* Apply border to table */
+.with-border table {
+    border: 1px solid #E0E0E0 !important;
+    border-collapse: collapse !important;
+}
+
+.with-border table tr td {
+    border: 1px solid #E0E0E0 !important;
+    border-collapse: collapse !important;
+}
+
+.with-border td {
+    padding: 2px !important;
+    text-align: right !important;
+}
+
+.table-title {
+    height: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    color: #333333;
+}
+
+.insurance-risk {
+    margin-top: 9px;
+    background: #E3E8FA;
+}
+
+.market-risk {
+    background: #F6E2CA
+}
+
+.required-capital {
+    background: #D5E8DD;
+}
+
+.middle {
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 47.8%
+}

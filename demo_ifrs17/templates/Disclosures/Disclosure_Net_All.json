@@ -1,0 +1,3665 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Statement of Profit & Loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance service result",
+        "Reference": "Net_D.PL.1.1|Net_D.PL.1.2|Net_D.PL.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance revenue",
+        "Reference": "BBA_D.PL.1.1|PAA_D.PL.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance service expense",
+        "Reference": "BBA_D.PL.1.2|PAA_D.PL.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Net income or expense from reinsurance contracts held",
+        "Reference": "ReBBA_D.PL.1|RePAA_D.PL.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Financial insurance result",
+        "Reference": "Net_D.PL.2.1|Net_D.PL.2.2|Net_D.PL.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Investment income",
+        "Reference": "BBA_D.PL.2.1|PAA_D.PL.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses",
+        "Reference": "BBA_D.PL.2.2|PAA_D.PL.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Reinsurance finance income",
+        "Reference": "ReBBA_D.PL.2|PAA_D.PL.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Other income and expense",
+        "Reference": "BBA_D.PL.3|PAA_D.PL.3|ReBBA_D.PL.3|RePAA_D.PL.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Income tax",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "PROFIT BEFORE TAX",
+        "Reference": "BBA_D.PL.5|PAA_D.PL.5|ReBBA_D.PL.5|RePAA_D.PL.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "PROFIT AFTER TAX",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "ALTERNATIVE PRESENTATION",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes related to current service",
+        "Reference": "BBA_D.PL_Alt.1.1|PAA_D.PL_Alt.1.1|ReBBA_D.PL_Alt.1.1|RePAA_D.PL_Alt.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes related to past service",
+        "Reference": "BBA_D.PL_Alt.1.2|PAA_D.PL_Alt.1.2|ReBBA_D.PL_Alt.1.2|RePAA_D.PL_Alt.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes related to future service: loss on onerous groups",
+        "Reference": "BBA_D.PL_Alt.1.3|PAA_D.PL_Alt.1.3|ReBBA_D.PL_Alt.1.3|RePAA_D.PL_Alt.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "ReBBA_D.PL_Alt.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses",
+        "Reference": "BBA_D.PL_Alt.1.5|PAA_D.PL_Alt.1.5|ReBBA_D.PL_Alt.1.5|RePAA_D.PL_Alt.1.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.1.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Other Expenses & Investment Income",
+        "Reference": "BBA_D.PL_Alt.1.6|PAA_D.PL_Alt.1.6|ReBBA_D.PL_Alt.1.6|RePAA_D.PL_Alt.1.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.PL_Alt.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Profit",
+        "Reference": "Net_D.PL_Alt.1.1|Net_D.PL_Alt.1.2|Net_D.PL_Alt.1.3|Net_D.PL_Alt.1.4|Net_D.PL_Alt.1.5|Net_D.PL_Alt.1.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Statemenf of Financial Position",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Total assets",
+        "Reference": "Net_D.SFP.1.1|Net_D.SFP.1.2|Net_D.SFP.1.3|Net_D.SFP.1.4|Net_D.SFP.1.5|Net_D.SFP.1.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash and cash equivalents",
+        "Reference": "BBA_D.SFP.1.1|PAA_D.SFP.1.1|ReBBA_D.SFP.1.1|RePAA_D.SFP.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Investment assets",
+        "Reference": "BBA_D.SFP.1.2|PAA_D.SFP.1.2|ReBBA_D.SFP.1.2|RePAA_D.SFP.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance contract assets",
+        "Reference": "BBA_D.SFP.1.3|PAA_D.SFP.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Reinsurance contract assets",
+        "Reference": "-ReBBA_D.ICL_A.5.1|RePAA_D.ICL_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other assets",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.1.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Deferred tax assets",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Total liabilities",
+        "Reference": "Net_D.SFP.2.1|Net_D.SFP.2.2|Net_D.SFP.2.3|Net_D.SFP.2.4|Net_D.SFP.2.5|Net_D.SFP.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Current tax liabilities",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Investment contract liabilities",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance contract liabilities",
+        "Reference": "BBA_D.SFP.2.3|PAA_D.SFP.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Reinsurance contract liabilities",
+        "Reference": "ReBBA_D.ICL_A.5.2|RePAA_D.ICL_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other payables",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.2.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Deferred tax liabilities",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Total equity",
+        "Reference": "Net_D.SFP.3.1|Net_D.SFP.3.2|Net_D.SFP.3.3|Net_D.SFP.3.4|Net_D.SFP.3.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Share capital",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Fair value reserve",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Retained earnings",
+        "Reference": "Net_D.EQ.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3.4",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Other comprehensive income",
+        "Reference": "Net_D.EQ.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other reserves",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.SFP.4",
+        "Level_Calc": "4",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL LIABILITIES & EQUITY",
+        "Reference": "Net_D.SFP.2|Net_D.SFP.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Statement of Change In Equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Share capital",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Opening equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Closing equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Fair value reserve",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Opening equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.3.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Closing equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Retained earnings",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening equity",
+        "Reference": "BBA_D.EQ.5|PAA_D.EQ.5|ReBBA_D.EQ.5|RePAA_D.EQ.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Profit for the year",
+        "Reference": "BBA_D.EQ.5.1|PAA_D.EQ.5.1|ReBBA_D.EQ.5.1|RePAA_D.EQ.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.5.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.6",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Closing equity",
+        "Reference": "Net_D.EQ.5|Net_D.EQ.5.1|Net_D.EQ.5.2|Net_D.EQ.5.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Other comprehensive income",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.7",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening equity",
+        "Reference": "BBA_D.EQ.7|PAA_D.EQ.7|ReBBA_D.EQ.7|RePAA_D.EQ.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.7.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Profit for the year",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.7.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Other comprehensive income for the year",
+        "Reference": "BBA_D.EQ.7.2|PAA_D.EQ.7.2|ReBBA_D.EQ.7.2|RePAA_D.EQ.7.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.7.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Other changes in equity",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.EQ.8",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Closing equity",
+        "Reference": "Net_D.EQ.7|Net_D.EQ.7.1|Net_D.EQ.7.2|Net_D.EQ.7.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Cash & Equity Balance",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Asset",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash Balance Opening",
+        "Reference": "BBA_D.CEQ.1|PAA_D.CEQ.1|ReBBA_D.CEQ.1|RePAA_D.CEQ.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash (this year)",
+        "Reference": "BBA_D.CEQ.1.1|PAA_D.CEQ.1.1|ReBBA_D.CEQ.1.1|RePAA_D.CEQ.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash Balance Closing",
+        "Reference": "BBA_D.CEQ.2|PAA_D.CEQ.2|ReBBA_D.CEQ.2|RePAA_D.CEQ.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance Contract Liability",
+        "Reference": "BBA_D.CEQ.3|PAA_D.CEQ.3|ReBBA_D.CEQ.3|RePAA_D.CEQ.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Equity Balance Closing",
+        "Reference": "Net_D.CEQ.2|Net_D.CEQ.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Liability",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash Balance Opening",
+        "Reference": "BBA_D.CEQ.5|PAA_D.CEQ.5|ReBBA_D.CEQ.5|RePAA_D.CEQ.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Cash (this year)",
+        "Reference": "BBA_D.CEQ.5.1|PAA_D.CEQ.5.1|ReBBA_D.CEQ.5.1|RePAA_D.CEQ.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.6",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Cash Balance Closing",
+        "Reference": "Net_D.CEQ.5|Net_D.CEQ.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.7",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance Contract Liability",
+        "Reference": "BBA_D.CEQ.7|PAA_D.CEQ.7|ReBBA_D.CEQ.7|RePAA_D.CEQ.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.8",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Equity Balance Closing",
+        "Reference": "Net_D.CEQ.6|Net_D.CEQ.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "TOTAL",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.9",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Cash Balance Opening",
+        "Reference": "Net_D.CEQ.1|Net_D.CEQ.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.9.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Cash (this year)",
+        "Reference": "Net_D.CEQ.1.1|Net_D.CEQ.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.10",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Cash Balance Closing",
+        "Reference": "Net_D.CEQ.2|Net_D.CEQ.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.11",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance Contract Liability",
+        "Reference": "Net_D.CEQ.3|Net_D.CEQ.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CEQ.12",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Equity Balance Closing",
+        "Reference": "Net_D.CEQ.10|Net_D.CEQ.11",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Balance of Unrecovered Acquisition Costs",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DAC.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening balance",
+        "Reference": "BBA_D.DAC.1|PAA_D.DAC.1|ReBBA_D.DAC.1|RePAA_D.DAC.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DAC.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "New acquisition CF",
+        "Reference": "BBA_D.DAC.1.1|PAA_D.DAC.1.1|ReBBA_D.DAC.1.1|RePAA_D.DAC.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DAC.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Recovery of costs",
+        "Reference": "BBA_D.DAC.1.2|PAA_D.DAC.1.2|ReBBA_D.DAC.1.2|RePAA_D.DAC.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DAC.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Increase in DAC",
+        "Reference": "BBA_D.DAC.2|PAA_D.DAC.2|ReBBA_D.DAC.2|RePAA_D.DAC.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DAC.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing balance",
+        "Reference": "BBA_D.DAC.3|PAA_D.DAC.3|ReBBA_D.DAC.3|RePAA_D.DAC.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Statement of Other Comprehensive Income",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Debt instruments at fair value through other comprehensive income",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Change in fair value of financial assets",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Amount reclassified to profit or loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Net insurance financial result",
+        "Reference": "Net_D.OCI.2.1|Net_D.OCI.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses",
+        "Reference": "BBA_D.OCI.2.1|PAA_D.OCI.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - DiscCF",
+        "Reference": "BBA_D.OCI.2.1.1|PAA_D.OCI.2.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - RA",
+        "Reference": "BBA_D.OCI.2.1.2|PAA_D.OCI.2.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - LIC DiscCF",
+        "Reference": "BBA_D.OCI.2.1.3|PAA_D.OCI.2.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - LIC RA",
+        "Reference": "BBA_D.OCI.2.1.4|PAA_D.OCI.2.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Reinsurance finance income",
+        "Reference": "ReBBA_D.OCI.2.1|RePAA_D.OCI.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - DiscCF",
+        "Reference": "ReBBA_D.OCI.2.1.1|RePAA_D.OCI.2.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - RA",
+        "Reference": "ReBBA_D.OCI.2.1.2|RePAA_D.OCI.2.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - LIC DiscCF",
+        "Reference": "ReBBA_D.OCI.2.1.3|RePAA_D.OCI.2.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.2.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amount recognised in OCI - LIC RA",
+        "Reference": "ReBBA_D.OCI.2.1.4|RePAA_D.OCI.2.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.OCI.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL GROSS COMPREHENSIVE INCOME",
+        "Reference": "Net_D.OCI.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Insurance Revenue",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Amounts relating to changes in LRC",
+        "Reference": "Net_D.INSREV.1.1|Net_D.INSREV.1.2|Net_D.INSREV.1.3|Net_D.INSREV.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Expected benefits incurred",
+        "Reference": "BBA_D.INSREV.1.1|ReBBA_D.INSREV.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Expected expenses incurred",
+        "Reference": "BBA_D.INSREV.1.2|ReBBA_D.INSREV.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Change in the risk adjustment",
+        "Reference": "BBA_D.INSREV.1.3|ReBBA_D.INSREV.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CSM recognized",
+        "Reference": "BBA_D.INSREV.1.4|ReBBA_D.INSREV.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Recovery of acquisition cash flows",
+        "Reference": "BBA_D.INSREV.2|ReBBA_D.INSREV.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Experience adjustments",
+        "Reference": "BBA_D.INSREV.3|ReBBA_D.INSREV.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Release of Loss Recovery Component",
+        "Reference": "BBA_D.INSREV.4|ReBBA_D.INSREV.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.5",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Contracts not measured under PAA",
+        "Reference": "Net_D.INSREV.1|Net_D.INSREV.2|Net_D.INSREV.3|Net_D.INSREV.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Contracts measured under PAA",
+        "Reference": "PAA_D.INSREV.6|RePAA_D.INSREV.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV.7",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL INSURANCE REVENUE",
+        "Reference": "Net_D.INSREV.5|Net_D.INSREV.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Alternative Presentation",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Amounts relating to the changes in the liability for remaining coverage:",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance service expenses incurred",
+        "Reference": "BBA_D.INSREV_Alt.1.1|ReBBA_D.INSREV_Alt.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Contractual service margin recognised in profit or loss",
+        "Reference": "BBA_D.INSREV_Alt.1.2|ReBBA_D.INSREV_Alt.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Change in the risk adjustment for non-financial risk caused by the release from risk",
+        "Reference": "BBA_D.INSREV_Alt.1.3|ReBBA_D.INSREV_Alt.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Allocation of recovery of insurance deferred expense cash flows",
+        "Reference": "BBA_D.INSREV_Alt.1.4|ReBBA_D.INSREV_Alt.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.INSREV_Alt.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance revenue not measured under PAA",
+        "Reference": "Net_D.INSREV_Alt.1.1|Net_D.INSREV_Alt.1.2|Net_D.INSREV_Alt.1.3|Net_D.INSREV_Alt.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Insurance Service Expenses",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Incurred benefits",
+        "Reference": "BBA_D.ISE.1.1|PAA_D.ISE.1.1|ReBBA_D.ISE.1.1|RePAA_D.ISE.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Incurred directly attributable expenses",
+        "Reference": "BBA_D.ISE.1.2|PAA_D.ISE.1.2|ReBBA_D.ISE.1.2|RePAA_D.ISE.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "BBA_D.ISE.1.3|PAA_D.ISE.1.3|ReBBA_D.ISE.1.3|RePAA_D.ISE.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance acquisition costs",
+        "Reference": "BBA_D.ISE.1.4|PAA_D.ISE.1.4|ReBBA_D.ISE.1.4|RePAA_D.ISE.1.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service",
+        "Reference": "BBA_D.ISE.1.5|PAA_D.ISE.1.5|ReBBA_D.ISE.1.5|RePAA_D.ISE.1.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.1.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "ReBBA_D.ISE.1.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ISE.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL INSURANCE SERVICE EXPENSES",
+        "Reference": "Net_D.ISE.1.1|Net_D.ISE.1.2|Net_D.ISE.1.3|Net_D.ISE.1.4|Net_D.ISE.1.5|Net_D.ISE.1.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Insurance Finance Expenses",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Total Insurance Finance Expense through P&L",
+        "Reference": "Net_D.IFIE.1.1.1|Net_D.IFIE.1.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Interest accreted to insurance contracts",
+        "Reference": "BBA_D.IFIE.1.1.1|PAA_D.IFIE.1.1.1|ReBBA_D.IFIE.1.1.1|RePAA_D.IFIE.1.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Change in financial assumptions through P&L",
+        "Reference": "BBA_D.IFIE.1.1.2|PAA_D.IFIE.1.1.2|ReBBA_D.IFIE.1.1.2|RePAA_D.IFIE.1.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Change in financial assumptions through OCI",
+        "Reference": "BBA_D.IFIE.1.2|PAA_D.IFIE.1.2|ReBBA_D.IFIE.1.2|RePAA_D.IFIE.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of unlocking CSM at locked-in rates and FCF at current rates",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of risk mitigation on CSM for contracts measured under VFA",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.1.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.IFIE.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL INSURANCE FINANCE EXPENSE",
+        "Reference": "Net_D.IFIE.1.1.1|Net_D.IFIE.1.1.2|Net_D.IFIE.1.2|Net_D.IFIE.1.3|Net_D.IFIE.1.4|Net_D.IFIE.1.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Reconciliation A: LRC & LIC for Insurance Contracts",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Insurance Contract Liability",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "Net_D.LRC_A.1|Net_D.LC_A.1|Net_D.LR_A.1|Net_D.LIC_A.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.1.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "Net_D.LRC_A.1.1|Net_D.LC_A.1.1|Net_D.LR_A.1.1|Net_D.LIC_A.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.1.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "Net_D.LRC_A.1.2|Net_D.LC_A.1.2|Net_D.LR_A.1.2|Net_D.LIC_A.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.ICL_A.2|PAA_D.ICL_A.2|ReBBA_D.ICL_A.2|RePAA_D.ICL_A.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3",
+        "Level_Calc": "8",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.ICL_A.3.1|Net_D.ICL_A.3.2|Net_D.ICL_A.3.3|Net_D.ICL_A.3.4|Net_D.ICL_A.3.5|Net_D.ICL_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance revenue",
+        "Reference": "Net_D.LRC_A.3.1|Net_D.LC_A.3.1|Net_D.LR_A.3.1|Net_D.LIC_A.3.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2",
+        "Level_Calc": "7",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance service expenses",
+        "Reference": "Net_D.ICL_A.3.2.1|Net_D.ICL_A.3.2.2|Net_D.ICL_A.3.2.3|Net_D.ICL_A.3.2.4|Net_D.ICL_A.3.2.5|Net_D.ICL_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "Net_D.LRC_A.3.2.1|Net_D.LC_A.3.2.1|Net_D.LR_A.3.2.1|Net_D.LIC_A.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "Net_D.LRC_A.3.2.2|Net_D.LC_A.3.2.2|Net_D.LR_A.3.2.2|Net_D.LIC_A.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "Net_D.LRC_A.3.2.3|Net_D.LC_A.3.2.3|Net_D.LR_A.3.2.3|Net_D.LIC_A.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.4",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "Net_D.LRC_A.3.2.4|Net_D.LC_A.3.2.4|Net_D.LR_A.3.2.4|Net_D.LIC_A.3.2.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.5",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "Net_D.LRC_A.3.2.5|Net_D.LC_A.3.2.5|Net_D.LR_A.3.2.5|Net_D.LIC_A.3.2.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.2.6",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "Net_D.LRC_A.3.2.6|Net_D.LC_A.3.2.6|Net_D.LR_A.3.2.6|Net_D.LIC_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "Net_D.LRC_A.3.3|Net_D.LC_A.3.3|Net_D.LR_A.3.3|Net_D.LIC_A.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.4",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "Net_D.LRC_A.3.4|Net_D.LC_A.3.4|Net_D.LR_A.3.4|Net_D.LIC_A.3.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.5",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "Net_D.LRC_A.3.5|Net_D.LC_A.3.5|Net_D.LR_A.3.5|Net_D.LIC_A.3.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.3.6",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Investment components",
+        "Reference": "Net_D.LRC_A.3.6|Net_D.LC_A.3.6|Net_D.LR_A.3.6|Net_D.LIC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4",
+        "Level_Calc": "7",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.ICL_A.4.1|Net_D.ICL_A.4.2|Net_D.ICL_A.4.3|Net_D.ICL_A.4.4|Net_D.ICL_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "Net_D.LRC_A.4.1|Net_D.LC_A.4.1|Net_D.LR_A.4.1|Net_D.LIC_A.4.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "Net_D.LRC_A.4.2|Net_D.LC_A.4.2|Net_D.LR_A.4.2|Net_D.LIC_A.4.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "Net_D.LRC_A.4.3|Net_D.LC_A.4.3|Net_D.LR_A.4.3|Net_D.LIC_A.4.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4.4",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "Net_D.LRC_A.4.4|Net_D.LC_A.4.4|Net_D.LR_A.4.4|Net_D.LIC_A.4.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "BBA_D.ICL_A.4.5|PAA_D.ICL_A.4.5|ReBBA_D.ICL_A.4.5|RePAA_D.ICL_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.ICL_A.5|PAA_D.ICL_A.5|ReBBA_D.ICL_A.5|RePAA_D.ICL_A.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.ICL_A.5.1|PAA_D.ICL_A.5.1|ReBBA_D.ICL_A.5.1|RePAA_D.ICL_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.ICL_A.5.2|PAA_D.ICL_A.5.2|ReBBA_D.ICL_A.5.2|RePAA_D.ICL_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_A.6",
+        "Level_Calc": "9",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.ICL_A.1|Net_D.ICL_A.3|Net_D.ICL_A.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage  (Excl. LC/LR)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.LRC_A.1|PAA_D.LRC_A.1|ReBBA_D.LRC_A.1|RePAA_D.LRC_A.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.LRC_A.1.1|PAA_D.LRC_A.1.1|ReBBA_D.LRC_A.1.1|RePAA_D.LRC_A.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.LRC_A.1.2|PAA_D.LRC_A.1.2|ReBBA_D.LRC_A.1.2|RePAA_D.LRC_A.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.LRC_A.2|PAA_D.LRC_A.2|ReBBA_D.LRC_A.2|RePAA_D.LRC_A.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.LRC_A.3.1|Net_D.LRC_A.3.2|Net_D.LRC_A.3.3|Net_D.LRC_A.3.4|Net_D.LRC_A.3.5|Net_D.LRC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance revenue",
+        "Reference": "BBA_D.LRC_A.3.1|PAA_D.LRC_A.3.1|ReBBA_D.LRC_A.3.1|RePAA_D.LRC_A.3.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance service expenses",
+        "Reference": "Net_D.LRC_A.3.2.1|Net_D.LRC_A.3.2.2|Net_D.LRC_A.3.2.3|Net_D.LRC_A.3.2.4|Net_D.LRC_A.3.2.5|Net_D.LRC_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "BBA_D.LRC_A.3.2.1|PAA_D.LRC_A.3.2.1|ReBBA_D.LRC_A.3.2.1|RePAA_D.LRC_A.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "ReBBA_D.LRC_A.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "BBA_D.LRC_A.3.2.4|PAA_D.LRC_A.3.2.4|ReBBA_D.LRC_A.3.2.4|RePAA_D.LRC_A.3.2.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "BBA_D.LRC_A.3.2.5|PAA_D.LRC_A.3.2.5|ReBBA_D.LRC_A.3.2.5|RePAA_D.LRC_A.3.2.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.2.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "BBA_D.LRC_A.3.2.6|PAA_D.LRC_A.3.2.6|ReBBA_D.LRC_A.3.2.6|RePAA_D.LRC_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.LRC_A.3.3|PAA_D.LRC_A.3.3|ReBBA_D.LRC_A.3.3|RePAA_D.LRC_A.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "BBA_D.LRC_A.3.4|PAA_D.LRC_A.3.4|ReBBA_D.LRC_A.3.4|RePAA_D.LRC_A.3.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "BBA_D.LRC_A.3.5|PAA_D.LRC_A.3.5|ReBBA_D.LRC_A.3.5|RePAA_D.LRC_A.3.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Investment components",
+        "Reference": "BBA_D.LRC_A.3.6|PAA_D.LRC_A.3.6|ReBBA_D.LRC_A.3.6|RePAA_D.LRC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.LRC_A.4.1|Net_D.LRC_A.4.2|Net_D.LRC_A.4.3|Net_D.LRC_A.4.4|Net_D.LRC_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "BBA_D.LRC_A.4.1|PAA_D.LRC_A.4.1|ReBBA_D.LRC_A.4.1|RePAA_D.LRC_A.4.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "BBA_D.LRC_A.4.2|PAA_D.LRC_A.4.2|ReBBA_D.LRC_A.4.2|RePAA_D.LRC_A.4.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "BBA_D.LRC_A.4.5|PAA_D.LRC_A.4.5|ReBBA_D.LRC_A.4.5|RePAA_D.LRC_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.LRC_A.5|PAA_D.LRC_A.5|ReBBA_D.LRC_A.5|RePAA_D.LRC_A.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.LRC_A.5.1|PAA_D.LRC_A.5.1|ReBBA_D.LRC_A.5.1|RePAA_D.LRC_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.LRC_A.5.2|PAA_D.LRC_A.5.2|ReBBA_D.LRC_A.5.2|RePAA_D.LRC_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LRC_A.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.LRC_A.1|Net_D.LRC_A.3|Net_D.LRC_A.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage  (Loss Component)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.LC_A.1|PAA_D.LC_A.1|ReBBA_D.LC_A.1|RePAA_D.LC_A.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.LC_A.1.1|PAA_D.LC_A.1.1|ReBBA_D.LC_A.1.1|RePAA_D.LC_A.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.LC_A.1.2|PAA_D.LC_A.1.2|ReBBA_D.LC_A.1.2|RePAA_D.LC_A.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.LC_A.2|PAA_D.LC_A.2|ReBBA_D.LC_A.2|RePAA_D.LC_A.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.LC_A.3.1|Net_D.LC_A.3.2|Net_D.LC_A.3.3|Net_D.LC_A.3.4|Net_D.LC_A.3.5|Net_D.LC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Insurance revenue",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance service expenses",
+        "Reference": "Net_D.LC_A.3.2.1|Net_D.LC_A.3.2.2|Net_D.LC_A.3.2.3|Net_D.LC_A.3.2.4|Net_D.LC_A.3.2.5|Net_D.LC_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "BBA_D.LC_A.3.2.1|PAA_D.LC_A.3.2.1|ReBBA_D.LC_A.3.2.1|RePAA_D.LC_A.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "BBA_D.LC_A.3.2.4|PAA_D.LC_A.3.2.4|ReBBA_D.LC_A.3.2.4|RePAA_D.LC_A.3.2.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "BBA_D.LC_A.3.2.5|PAA_D.LC_A.3.2.5|ReBBA_D.LC_A.3.2.5|RePAA_D.LC_A.3.2.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.2.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.LC_A.3.3|PAA_D.LC_A.3.3|ReBBA_D.LC_A.3.3|RePAA_D.LC_A.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Investment components",
+        "Reference": "BBA_D.LC_A.3.6|PAA_D.LC_A.3.6|ReBBA_D.LC_A.3.6|RePAA_D.LC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.LC_A.4.1|Net_D.LC_A.4.2|Net_D.LC_A.4.3|Net_D.LC_A.4.4|Net_D.LC_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.LC_A.5|PAA_D.LC_A.5|ReBBA_D.LC_A.5|RePAA_D.LC_A.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.LC_A.5.1|PAA_D.LC_A.5.1|ReBBA_D.LC_A.5.1|RePAA_D.LC_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.LC_A.5.2|PAA_D.LC_A.5.2|ReBBA_D.LC_A.5.2|RePAA_D.LC_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LC_A.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.LC_A.1|Net_D.LC_A.3|Net_D.LC_A.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Remaining Coverage  (Loss Recovery Component)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.LR_A.1|PAA_D.LR_A.1|ReBBA_D.LR_A.1|RePAA_D.LR_A.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.LR_A.1.1|PAA_D.LR_A.1.1|ReBBA_D.LR_A.1.1|RePAA_D.LR_A.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.LR_A.1.2|PAA_D.LR_A.1.2|ReBBA_D.LR_A.1.2|RePAA_D.LR_A.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.LR_A.2|PAA_D.LR_A.2|ReBBA_D.LR_A.2|RePAA_D.LR_A.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.LR_A.3.1|Net_D.LR_A.3.2|Net_D.LR_A.3.3|Net_D.LR_A.3.4|Net_D.LR_A.3.5|Net_D.LR_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Reinsurance revenue",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Reinsurance service expenses",
+        "Reference": "Net_D.LR_A.3.2.1|Net_D.LR_A.3.2.2|Net_D.LR_A.3.2.3|Net_D.LR_A.3.2.4|Net_D.LR_A.3.2.5|Net_D.LR_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "BBA_D.LR_A.3.2.4|PAA_D.LR_A.3.2.4|ReBBA_D.LR_A.3.2.4|RePAA_D.LR_A.3.2.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.2.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Reinsurance finance expenses through profit and loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Reinsurance finance expenses through OCI",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Investment components",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.LR_A.4.1|Net_D.LR_A.4.2|Net_D.LR_A.4.3|Net_D.LR_A.4.4|Net_D.LR_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.LR_A.5|PAA_D.LR_A.5|ReBBA_D.LR_A.5|RePAA_D.LR_A.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.LR_A.5.1|PAA_D.LR_A.5.1|ReBBA_D.LR_A.5.1|RePAA_D.LR_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.LR_A.5.2|PAA_D.LR_A.5.2|ReBBA_D.LR_A.5.2|RePAA_D.LR_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LR_A.6",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.LR_A.1|Net_D.LR_A.3|Net_D.LR_A.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Liability for Incurred Claim",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.LIC_A.1|PAA_D.LIC_A.1|ReBBA_D.LIC_A.1|RePAA_D.LIC_A.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.LIC_A.1.1|PAA_D.LIC_A.1.1|ReBBA_D.LIC_A.1.1|RePAA_D.LIC_A.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.LIC_A.1.2|PAA_D.LIC_A.1.2|ReBBA_D.LIC_A.1.2|RePAA_D.LIC_A.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.LIC_A.2|PAA_D.LIC_A.2|ReBBA_D.LIC_A.2|RePAA_D.LIC_A.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.LIC_A.3.1|Net_D.LIC_A.3.2|Net_D.LIC_A.3.3|Net_D.LIC_A.3.4|Net_D.LIC_A.3.5|Net_D.LIC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Insurance revenue",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance service expenses",
+        "Reference": "Net_D.LIC_A.3.2.1|Net_D.LIC_A.3.2.2|Net_D.LIC_A.3.2.3|Net_D.LIC_A.3.2.4|Net_D.LIC_A.3.2.5|Net_D.LIC_A.3.2.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Incurred benefits and expenses",
+        "Reference": "BBA_D.LIC_A.3.2.1|PAA_D.LIC_A.3.2.1|ReBBA_D.LIC_A.3.2.1|RePAA_D.LIC_A.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service - adjustments to LIC",
+        "Reference": "BBA_D.LIC_A.3.2.2|PAA_D.LIC_A.3.2.2|ReBBA_D.LIC_A.3.2.2|RePAA_D.LIC_A.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Losses on onerous contracts and reversal of those losses",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Maturing portfolios closing adjustment",
+        "Reference": "BBA_D.LIC_A.3.2.5|PAA_D.LIC_A.3.2.5|ReBBA_D.LIC_A.3.2.5|RePAA_D.LIC_A.3.2.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.2.6",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Amortised insurance acquisition",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.LIC_A.3.3|PAA_D.LIC_A.3.3|ReBBA_D.LIC_A.3.3|RePAA_D.LIC_A.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "BBA_D.LIC_A.3.4|PAA_D.LIC_A.3.4|ReBBA_D.LIC_A.3.4|RePAA_D.LIC_A.3.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Investment components",
+        "Reference": "BBA_D.LIC_A.3.6|PAA_D.LIC_A.3.6|ReBBA_D.LIC_A.3.6|RePAA_D.LIC_A.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.LIC_A.4.1|Net_D.LIC_A.4.2|Net_D.LIC_A.4.3|Net_D.LIC_A.4.4|Net_D.LIC_A.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "BBA_D.LIC_A.4.3|PAA_D.LIC_A.4.3|ReBBA_D.LIC_A.4.3|RePAA_D.LIC_A.4.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "BBA_D.LIC_A.4.4|PAA_D.LIC_A.4.4|ReBBA_D.LIC_A.4.4|RePAA_D.LIC_A.4.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.LIC_A.5|PAA_D.LIC_A.5|ReBBA_D.LIC_A.5|RePAA_D.LIC_A.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.LIC_A.5.1|PAA_D.LIC_A.5.1|ReBBA_D.LIC_A.5.1|RePAA_D.LIC_A.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.LIC_A.5.2|PAA_D.LIC_A.5.2|ReBBA_D.LIC_A.5.2|RePAA_D.LIC_A.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.LIC_A.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.LIC_A.1|Net_D.LIC_A.3|Net_D.LIC_A.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "01_HEADER",
+        "Description": "Reconciliation B: Components of Insurance Contracts (Measured under GMM/VFA)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Insurance Contract Liability",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.ICL_B.1|ReBBA_D.ICL_B.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.1.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "Net_D.DCF_B.1.1|Net_D.RA_B.1.1|Net_D.CSM_B.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.1.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "Net_D.DCF_B.1.2|Net_D.RA_B.1.2|Net_D.CSM_B.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.ICL_B.2|ReBBA_D.ICL_B.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3",
+        "Level_Calc": "8",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.ICL_B.3.1|Net_D.ICL_B.3.2|Net_D.ICL_B.3.3|Net_D.ICL_B.3.4|Net_D.ICL_B.3.5|Net_D.ICL_B.3.6|Net_D.ICL_B.3.7|Net_D.ICL_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.1",
+        "Level_Calc": "7",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to current services",
+        "Reference": "Net_D.ICL_B.3.1.1|Net_D.ICL_B.3.1.2|Net_D.ICL_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.1.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CSM recognized in profit and loss",
+        "Reference": "Net_D.DCF_B.3.1.1|Net_D.RA_B.3.1.1|Net_D.CSM_B.3.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.1.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Risk Adjustment recognized in profit and loss",
+        "Reference": "Net_D.DCF_B.3.1.2|Net_D.RA_B.3.1.2|Net_D.CSM_B.3.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.1.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Experience adjustments",
+        "Reference": "Net_D.DCF_B.3.1.3|Net_D.RA_B.3.1.3|Net_D.CSM_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.2",
+        "Level_Calc": "7",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to future services",
+        "Reference": "Net_D.ICL_B.3.2.1|Net_D.ICL_B.3.2.2|Net_D.ICL_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.2.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Contracts initially recognized in the period",
+        "Reference": "Net_D.DCF_B.3.2.1|Net_D.RA_B.3.2.1|Net_D.CSM_B.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.2.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes in estimates that adjust CSM",
+        "Reference": "Net_D.DCF_B.3.2.2|Net_D.RA_B.3.2.2|Net_D.CSM_B.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.2.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes in estimates that result in onerous contracts or reversal of losses",
+        "Reference": "Net_D.DCF_B.3.2.3|Net_D.RA_B.3.2.3|Net_D.CSM_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Paid",
+        "Reference": "Net_D.DCF_B.3.3|Net_D.RA_B.3.3|Net_D.CSM_B.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.4",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Incur",
+        "Reference": "Net_D.DCF_B.3.4|Net_D.RA_B.3.4|Net_D.CSM_B.3.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.5",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "Net_D.DCF_B.3.5|Net_D.RA_B.3.5|Net_D.CSM_B.3.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.6",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "Net_D.DCF_B.3.6|Net_D.RA_B.3.6|Net_D.CSM_B.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.7",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "Net_D.DCF_B.3.7|Net_D.RA_B.3.7|Net_D.CSM_B.3.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.3.8",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "Net_D.DCF_B.3.8|Net_D.RA_B.3.8|Net_D.CSM_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4",
+        "Level_Calc": "7",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.ICL_B.4.1|Net_D.ICL_B.4.2|Net_D.ICL_B.4.3|Net_D.ICL_B.4.4|Net_D.ICL_B.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "Net_D.DCF_B.4.1|Net_D.RA_B.4.1|Net_D.CSM_B.4.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "Net_D.DCF_B.4.2|Net_D.RA_B.4.2|Net_D.CSM_B.4.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4.3",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "Net_D.DCF_B.4.3|Net_D.RA_B.4.3|Net_D.CSM_B.4.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4.4",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "Net_D.DCF_B.4.4|Net_D.RA_B.4.4|Net_D.CSM_B.4.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.4.5",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "Net_D.DCF_B.4.5|Net_D.RA_B.4.5|Net_D.CSM_B.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.ICL_B.5|ReBBA_D.ICL_B.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.5.1",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "Net_D.DCF_B.5.1|Net_D.RA_B.5.1|Net_D.CSM_B.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.5.2",
+        "Level_Calc": "6",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "Net_D.DCF_B.5.2|Net_D.RA_B.5.2|Net_D.CSM_B.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.ICL_B.6",
+        "Level_Calc": "8",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.ICL_B.1|Net_D.ICL_B.3|Net_D.ICL_B.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Discounted Cash Flows",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.DCF_B.1|ReBBA_D.DCF_B.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.DCF_B.1.1|ReBBA_D.DCF_B.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.DCF_B.1.2|ReBBA_D.DCF_B.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.DCF_B.2|ReBBA_D.DCF_B.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.DCF_B.3.1|Net_D.DCF_B.3.2|Net_D.DCF_B.3.3|Net_D.DCF_B.3.4|Net_D.DCF_B.3.5|Net_D.DCF_B.3.6|Net_D.DCF_B.3.7|Net_D.DCF_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to current services",
+        "Reference": "Net_D.DCF_B.3.1.1|Net_D.DCF_B.3.1.2|Net_D.DCF_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "CSM recognized in profit and loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Risk Adjustment recognized in profit and loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Experience adjustments",
+        "Reference": "BBA_D.DCF_B.3.1.3|ReBBA_D.DCF_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to future services",
+        "Reference": "Net_D.DCF_B.3.2.1|Net_D.DCF_B.3.2.2|Net_D.DCF_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Contracts initially recognized in the period",
+        "Reference": "BBA_D.DCF_B.3.2.1|ReBBA_D.DCF_B.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes in estimates that adjust CSM",
+        "Reference": "BBA_D.DCF_B.3.2.2|ReBBA_D.DCF_B.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes in estimates that result in onerous contracts or reversal of losses",
+        "Reference": "BBA_D.DCF_B.3.2.3|ReBBA_D.DCF_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Paid",
+        "Reference": "BBA_D.DCF_B.3.3|ReBBA_D.DCF_B.3.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Incur",
+        "Reference": "BBA_D.DCF_B.3.4|ReBBA_D.DCF_B.3.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "BBA_D.DCF_B.3.5|ReBBA_D.DCF_B.3.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.DCF_B.3.6|ReBBA_D.DCF_B.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.7",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "BBA_D.DCF_B.3.7|ReBBA_D.DCF_B.3.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.3.8",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.DCF_B.4.1|Net_D.DCF_B.4.2|Net_D.DCF_B.4.3|Net_D.DCF_B.4.4|Net_D.DCF_B.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "BBA_D.DCF_B.4.1|ReBBA_D.DCF_B.4.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "BBA_D.DCF_B.4.2|ReBBA_D.DCF_B.4.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "BBA_D.DCF_B.4.3|ReBBA_D.DCF_B.4.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "BBA_D.DCF_B.4.4|ReBBA_D.DCF_B.4.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.DCF_B.5|ReBBA_D.DCF_B.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.DCF_B.5.1|ReBBA_D.DCF_B.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.DCF_B.5.2|ReBBA_D.DCF_B.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.DCF_B.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.DCF_B.1|Net_D.DCF_B.3|Net_D.DCF_B.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Risk Adjustment",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.RA_B.1|ReBBA_D.RA_B.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.RA_B.1.1|ReBBA_D.RA_B.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.RA_B.1.2|ReBBA_D.RA_B.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.RA_B.2|ReBBA_D.RA_B.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.RA_B.3.1|Net_D.RA_B.3.2|Net_D.RA_B.3.3|Net_D.RA_B.3.4|Net_D.RA_B.3.5|Net_D.RA_B.3.6|Net_D.RA_B.3.7|Net_D.RA_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to current services",
+        "Reference": "Net_D.RA_B.3.1.1|Net_D.RA_B.3.1.2|Net_D.RA_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "CSM recognized in profit and loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Risk Adjustment recognized in profit and loss",
+        "Reference": "BBA_D.RA_B.3.1.2|ReBBA_D.RA_B.3.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Experience adjustments",
+        "Reference": "BBA_D.RA_B.3.1.3|ReBBA_D.RA_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to future services",
+        "Reference": "Net_D.RA_B.3.2.1|Net_D.RA_B.3.2.2|Net_D.RA_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Contracts initially recognized in the period",
+        "Reference": "BBA_D.RA_B.3.2.1|ReBBA_D.RA_B.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes in estimates that adjust CSM",
+        "Reference": "BBA_D.RA_B.3.2.2|ReBBA_D.RA_B.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes in estimates that result in onerous contracts or reversal of losses",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Incur",
+        "Reference": "BBA_D.RA_B.3.4|ReBBA_D.RA_B.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.RA_B.3.6|ReBBA_D.RA_B.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.7",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "BBA_D.RA_B.3.7|ReBBA_D.RA_B.3.7",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.3.8",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.RA_B.4.1|Net_D.RA_B.4.2|Net_D.RA_B.4.3|Net_D.RA_B.4.4|Net_D.RA_B.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.RA_B.5|ReBBA_D.RA_B.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.RA_B.5.1|ReBBA_D.RA_B.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.RA_B.5.2|ReBBA_D.RA_B.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.RA_B.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.RA_B.1|Net_D.RA_B.3|Net_D.RA_B.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "Sub_Header",
+        "Description": "Contractual Service Margin",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (current rates)",
+        "Reference": "BBA_D.CSM_B.1|ReBBA_D.CSM_B.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract assets",
+        "Reference": "BBA_D.CSM_B.1.1|ReBBA_D.CSM_B.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Opening insurance contract liabilities",
+        "Reference": "BBA_D.CSM_B.1.2|ReBBA_D.CSM_B.1.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "OPENING (adjusted rates)",
+        "Reference": "BBA_D.CSM_B.2|ReBBA_D.CSM_B.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3",
+        "Level_Calc": "2",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CHANGES  (P&L and OCI)",
+        "Reference": "Net_D.CSM_B.3.1|Net_D.CSM_B.3.2|Net_D.CSM_B.3.3|Net_D.CSM_B.3.4|Net_D.CSM_B.3.5|Net_D.CSM_B.3.6|Net_D.CSM_B.3.7|Net_D.CSM_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.1",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to current services",
+        "Reference": "Net_D.CSM_B.3.1.1|Net_D.CSM_B.3.1.2|Net_D.CSM_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.1.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CSM recognized in profit and loss",
+        "Reference": "BBA_D.CSM_B.3.1.1|ReBBA_D.CSM_B.3.1.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.1.2",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Risk Adjustment recognized in profit and loss",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.1.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Experience adjustments",
+        "Reference": "BBA_D.CSM_B.3.1.3|ReBBA_D.CSM_B.3.1.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.2",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "Changes related to future services",
+        "Reference": "Net_D.CSM_B.3.2.1|Net_D.CSM_B.3.2.2|Net_D.CSM_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.2.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Contracts initially recognized in the period",
+        "Reference": "BBA_D.CSM_B.3.2.1|ReBBA_D.CSM_B.3.2.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.2.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes in estimates that adjust CSM",
+        "Reference": "BBA_D.CSM_B.3.2.2|ReBBA_D.CSM_B.3.2.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.2.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Changes in estimates that result in onerous contracts or reversal of losses",
+        "Reference": "BBA_D.CSM_B.3.2.3|ReBBA_D.CSM_B.3.2.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.3",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.4",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Changes that relate to past service adjustments to Incur",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.6",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through profit and loss",
+        "Reference": "BBA_D.CSM_B.3.6|ReBBA_D.CSM_B.3.6",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.7",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Insurance finance expenses through OCI",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.3.8",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Net foreign exchange income or expense",
+        "Reference": "BBA_D.CSM_B.3.8|ReBBA_D.CSM_B.3.8",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4",
+        "Level_Calc": "1",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "TOTAL CASH FLOWS",
+        "Reference": "Net_D.CSM_B.4.1|Net_D.CSM_B.4.2|Net_D.CSM_B.4.3|Net_D.CSM_B.4.4|Net_D.CSM_B.4.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Premiums received",
+        "Reference": "BBA_D.CSM_B.4.1|ReBBA_D.CSM_B.4.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Commission received from reinsurer",
+        "Reference": "BBA_D.CSM_B.4.2|ReBBA_D.CSM_B.4.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4.3",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Claims paid",
+        "Reference": "BBA_D.CSM_B.4.3|ReBBA_D.CSM_B.4.3",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4.4",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Directly attributable expenses paid",
+        "Reference": "BBA_D.CSM_B.4.4|ReBBA_D.CSM_B.4.4",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.4.5",
+        "Level_Calc": "",
+        "Ref_Type": "",
+        "Record_Type": "",
+        "Description": "Acquisition cost paid",
+        "Reference": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.5",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "CLOSING (adjusted rates)",
+        "Reference": "BBA_D.CSM_B.5|ReBBA_D.CSM_B.5",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.5.1",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract assets",
+        "Reference": "BBA_D.CSM_B.5.1|ReBBA_D.CSM_B.5.1",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.5.2",
+        "Level_Calc": "",
+        "Ref_Type": "Sum_External",
+        "Record_Type": "",
+        "Description": "Closing insurance contract liabilities",
+        "Reference": "BBA_D.CSM_B.5.2|ReBBA_D.CSM_B.5.2",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "Net_D.CSM_B.6",
+        "Level_Calc": "3",
+        "Ref_Type": "Local",
+        "Record_Type": "",
+        "Description": "CLOSING (current rates)",
+        "Reference": "Net_D.CSM_B.1|Net_D.CSM_B.3|Net_D.CSM_B.4",
+        "Value": null
+    }
+]

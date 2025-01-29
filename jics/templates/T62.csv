@@ -1,0 +1,13 @@
+﻿所要資本の要約,所要資本の要約,ストレス前,ストレス後,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T62,1,2,3,4,[5=3-4]
+合計,1,Real_Estate_REBase,Real_Estate_RE,RC_RealEst_wo_MA,MA_Effect_RC_RealEst,RC_RealEst
+    商業用不動産投資,2,Commercial_Invest_REBase,Commercial_Invest_RE,,,
+        直接保有,3,Commercial_Invest_D_REBase,Commercial_Invest_D_RE,,,
+        間接保有（ルックスルー）,4,Commercial_Invest_I_REBase,Commercial_Invest_I_RE,,,
+    住宅投資,5,Residential_Invest_REBase,Residential_Invest_RE,,,
+        直接保有,6,Residential_Invest_D_REBase,Residential_Invest_D_RE,,,
+        間接保有（ルックスルー）,7,Residential_Invest_I_REBase,Residential_Invest_I_RE,,,
+    自己使用目的不動産,8,Real_Estate_for_Own_Use_REBase,Real_Estate_for_Own_Use_RE,,,
+    その他の資産,9,Real_Estate_Others_REBase,Real_Estate_Others_RE,,,
+    負債（保険負債およびその他の負債を含む）,10,Real_Estate_Liability_REBase,Real_Estate_Liability_RE,,MA_Effect_Real_Estate_Liab,
+    不動産ローン保証保険,11,,,RC_Mortgage_Insurance,,RC_Mortgage_Insurance

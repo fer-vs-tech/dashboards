@@ -1,0 +1,9 @@
+﻿format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,,Recognizing Insurance Revenue,Change_in_RA_SM_Proc,Change_in_RA_SM_Proc,RA New Biz-Other,NB,Dr
+1,,,Insurance_Revenue_New_Biz_VFA,,Insurance_Revenue_New_Biz_VFA,NB,Cr
+1,,,Change_in_FCF_Death_Claim_SM_Proc,Change_in_FCF_Death_Claim_SM_Proc,BEL_New_Biz_VFA,NB,Dr
+1,,,Change_in_FCF_Death_Claim_SM_Proc_VFA,,Insurance_Revenue_New_Biz_VFA,NB,Cr
+1,,,Amortized_CSM_CSM_AMOR_Proc,Amortized_CSM_CSM_AMOR_Proc,CSM New Biz,NB,Dr
+1,1,,Amortized_CSM_CSM_AMOR_Proc_VFA,,Insurance_Revenue_New_Biz_VFA,NB,Cr
+,,Recognizing Insurance Expense,FCF_Death_Claims,FCF_Death_Claims,BEL_New_Biz_VFA,NB,Dr
+,,,Insurance Expense New Biz_VFA,,Insurance_Expense_New_Biz_VFA,NB,Cr

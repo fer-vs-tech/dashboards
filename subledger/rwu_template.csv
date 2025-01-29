@@ -1,0 +1,31 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+RWU,1,,CSM adjustment for the difference between initial ,NB_WA_BEL_Diff_REINS_RNC_RWU_Proc,NB_WA_BEL_Diff_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Dr
+,1,,recognition and weighted average for,NB_WA_RA_Diff_REINS_RNC_RWU_Proc,NB_WA_RA_Diff_REINS_RNC_RWU_Proc,RA New Biz_REINS,NB,Dr
+,1,, New Businesses(Cohort-open),NB_WA_CL_BEL_Diff_REINS_RNC_RWU_Proc,NB_WA_CL_BEL_Diff_REINS_RNC_RWU_Proc,Credit Loss BEL New Biz_REINS,NB,Cr
+,1,1,,CSM_Adjustment_for_Diff_REINS,,(Sus) CSM New Biz_REINS,NB,Cr
+,0,,CSM adjustment for expected reinsurance premium,Exp_Reins_Prem_Total_REINS_RNC_RWU_Proc,Exp_Reins_Prem_Total_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Dr
+,0,1,,CSM_Adjustment_for_expected_Prem_REINS,,(Sus) CSM New Biz_REINS,NB,Cr
+,1,,Reversal of profit for expected direct adjustment cost,Exp_Direct_Adjust_Cost_REINS_RNC_RWU_Proc,Exp_Direct_Adjust_Cost_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Dr
+,1,1,,Reversal_Profit_Expected_Direct_Adjust_Cost_REINS,,Reinsurance Expense New Biz-Exp. Adj. Cost_REINS,NB,Cr
+,0,,Reversal of profit for expected claim ,Exp_Reins_Benefit_REINS_RNC_RWU_Proc,Exp_Reins_Benefit_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Cr
+,0,1,(insurance component),Reversal_Profit_Expected_Prem_REINS,,Reinsurance Expense New Biz-Exp. Claim_REINS,NB,Dr
+,1,,Reversal of profit for expected profit commission,Exp_Reins_Benefit_Profit_Comm_REINS_RNC_RWU_Proc,Exp_Reins_Benefit_Profit_Comm_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Cr
+,1,1,,Reversal_Profit_Expected_Profit_Commission_REINS,,Reinsurance Expense New Biz-Exp. Profit Comm_REINS,NB,Dr
+,0,,Reversal of profit for expected RA amortization,Exp_RA_Amort_REINS_RNC_RWU_Proc,Exp_RA_Amort_REINS_RNC_RWU_Proc,RA New Biz_REINS,NB,Cr
+,0,1,,Reversal_Profit_Expected_RA_Amort_REINS,,Reinsurance Expense New Biz-RA Changes_REINS,NB,Dr
+,1,,Recognition of interest expense for BEL difference ,Interest_Expense_WA_BEL_REINS_RNC_RWU_Proc,Interest_Expense_WA_BEL_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Dr
+,1,1,between beginning and end of the term,Recognition_Interest_Expense_BEL_DIFF_REINS,,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Cr
+,0,,Recognition of intereset expense for RA difference,Interest_Expense_WA_RA_REINS_RNC_RWU_Proc,Interest_Expense_WA_RA_REINS_RNC_RWU_Proc,RA New Biz_REINS,NB,Dr
+,0,1,between beginning and end of the term,Recognition_Interest_Expense_RA_DIFF_REINS,,Reinsurance Interest Expense New Biz-RA_REINS,NB,Cr
+,1,,Recognition of intereset expense for credit loss ,Interest_Expense_WA_CL_BEL_REINS_RNC_RWU_Proc,Interest_Expense_WA_CL_BEL_REINS_RNC_RWU_Proc,Credit Loss BEL New Biz_REINS,NB,Cr
+,1,1,BEL difference between beginning and end of the term,Recognition_Interest_Expense_Credit_Loss_DIFF_REINS,,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Dr
+,0,,Recovery of CSM as redeeming interest expense,Exp_Initial_BEL_REINS_RNC_RWU_Proc,Exp_Initial_BEL_REINS_RNC_RWU_Proc,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Cr
+,0,," based on initial BEL, RA and credit loss BEL",Exp_Initial_RA_REINS_RNC_RWU_Proc,Exp_Initial_RA_REINS_RNC_RWU_Proc,Reinsurance Interest Expense New Biz-RA_REINS,NB,Cr
+,0,,,Exp_Initial_Credit_Loss_BEL_REINS_RNC_RWU_Proc,Exp_Initial_Credit_Loss_BEL_REINS_RNC_RWU_Proc,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Dr
+,0,1,,Recovery_CSM_Redeeming_Interest_Expense_REINS,,(Sus) CSM New Biz_REINS,NB,Dr
+,1,,Interest expense adjustment for reversal of reset,Exp_WA_BEL_REINS_RNC_RWU_Proc,Exp_WA_BEL_REINS_RNC_RWU_Proc,BEL New Biz_REINS,NB,Cr
+,1,,"BEL, RA and credit loss BEL",Interest_Expense_Adjustment_to_Reverse_BEL_REINS,,Reinsurance Interest Expense New Biz-BEL_REINS,NB,Dr
+,1,,,Exp_WA_RA_REINS_RNC_RWU_Proc,Exp_WA_RA_REINS_RNC_RWU_Proc,RA New Biz_REINS,NB,Cr
+,1,,,Interest_Expense_Adjustment_to_Reverse_RA_REINS,,Reinsurance Interest Expense New Biz-RA_REINS,NB,Dr
+,1,,,Exp_WA_Credit_Loss_BEL_REINS_RNC_RWU_Proc,Exp_WA_Credit_Loss_BEL_REINS_RNC_RWU_Proc,Credit Loss BEL New Biz_REINS,NB,Dr
+,1,2,,Interest_Expense_Adjustment_to_Reverse_CSM_REINS,,Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,NB,Cr

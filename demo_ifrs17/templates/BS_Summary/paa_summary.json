@@ -1,0 +1,274 @@
+[
+    {
+        "Description": "OPENING (current rates)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.1|RePAA.ICL.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.1|RePAA.DCF.1","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.1|RePAA.RA.1","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.1|RePAA.LC.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.1|RePAA.LIC.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.1.1|RePAA.ICL.1.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.1.1|RePAA.DCF.1.1","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.1.1|RePAA.RA.1.1","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.1.1|RePAA.LC.1.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.1.1|RePAA.LIC.1.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.1.2|RePAA.ICL.1.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.1.2|RePAA.DCF.1.2","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.1.2|RePAA.RA.1.2","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.1.2|RePAA.LC.1.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.1.2|RePAA.LIC.1.2","Value":null}
+    },
+    {
+        "Description": "OPENING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.2|RePAA.ICL.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.2|RePAA.DCF.2","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.2|RePAA.RA.2","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.2|RePAA.LC.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.2|RePAA.LIC.2","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: new contracts",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.3|RePAA.ICL.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.3|RePAA.DCF.3","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.3|RePAA.RA.3","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.3|RePAA.LC.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.3|RePAA.LIC.3","Value":null}
+    },
+    {
+        "Description": "Non-insurance service related:",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4|RePAA.ICL.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4|RePAA.DCF.4","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4|RePAA.RA.4","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4|RePAA.LC.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4|RePAA.LIC.4","Value":null}
+    },
+    {
+        "Description": "Premiums received",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.1|RePAA.ICL.4.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.1|RePAA.DCF.4.1","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.1|RePAA.RA.4.1","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.1|RePAA.LC.4.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.1|RePAA.LIC.4.1","Value":null}
+    },
+    {
+        "Description": "Premium Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.2|RePAA.ICL.4.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.2|RePAA.DCF.4.2","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.2|RePAA.RA.4.2","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.2|RePAA.LC.4.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.2|RePAA.LIC.4.2","Value":null}
+    },
+    {
+        "Description": "Commission received from reinsurer",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.3|RePAA.ICL.4.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.3|RePAA.DCF.4.3","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.3|RePAA.RA.4.3","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.3|RePAA.LC.4.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.3|RePAA.LIC.4.3","Value":null}
+    },
+    {
+        "Description": "Commission Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.4|RePAA.ICL.4.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.4|RePAA.DCF.4.4","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.4|RePAA.RA.4.4","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.4|RePAA.LC.4.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.4|RePAA.LIC.4.4","Value":null}
+    },
+    {
+        "Description": "Directly attributable expense cash flow",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.5|RePAA.ICL.4.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.5|RePAA.DCF.4.5","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.5|RePAA.RA.4.5","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.5|RePAA.LC.4.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.5|RePAA.LIC.4.5","Value":null}
+    },
+    {
+        "Description": "Expense Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.6|RePAA.ICL.4.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.6|RePAA.DCF.4.6","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.6|RePAA.RA.4.6","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.6|RePAA.LC.4.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.6|RePAA.LIC.4.6","Value":null}
+    },
+    {
+        "Description": "Claims paid",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.7|RePAA.ICL.4.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.7|RePAA.DCF.4.7","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.7|RePAA.RA.4.7","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.7|RePAA.LC.4.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.7|RePAA.LIC.4.7","Value":null}
+    },
+    {
+        "Description": "Claims paid experience adjustment",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.8|RePAA.ICL.4.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.8|RePAA.DCF.4.8","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.8|RePAA.RA.4.8","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.8|RePAA.LC.4.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.8|RePAA.LIC.4.8","Value":null}
+    },
+    {
+        "Description": "GMM/PAA: insurance finance expenses",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.9|RePAA.ICL.4.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.9|RePAA.DCF.4.9","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.9|RePAA.RA.4.9","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.9|RePAA.LC.4.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.9|RePAA.LIC.4.9","Value":null}
+    },
+    {
+        "Description": "VFA: Change in Fair Value",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.4.10|RePAA.ICL.4.10","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.4.10|RePAA.DCF.4.10","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.4.10|RePAA.RA.4.10","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.4.10|RePAA.LC.4.10","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.4.10|RePAA.LIC.4.10","Value":null}
+    },
+    {
+        "Description": "Insurance service related",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5|RePAA.ICL.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5|RePAA.DCF.5","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5|RePAA.RA.5","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5|RePAA.LC.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5|RePAA.LIC.5","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: cause A",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.1|RePAA.ICL.5.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.1|RePAA.DCF.5.1","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.1|RePAA.RA.5.1","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.1|RePAA.LC.5.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.1|RePAA.LIC.5.1","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: cause B",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.2|RePAA.ICL.5.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.2|RePAA.DCF.5.2","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.2|RePAA.RA.5.2","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.2|RePAA.LC.5.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.2|RePAA.LIC.5.2","Value":null}
+    },
+    {
+        "Description": "Changes related to currency",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.3|RePAA.ICL.5.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.3|RePAA.DCF.5.3","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.3|RePAA.RA.5.3","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.3|RePAA.LC.5.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.3|RePAA.LIC.5.3","Value":null}
+    },
+    {
+        "Description": "Insurance contract revenue exc amort exp",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.4|RePAA.ICL.5.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.4|RePAA.DCF.5.4","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.4|RePAA.RA.5.4","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.4|RePAA.LC.5.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.4|RePAA.LIC.5.4","Value":null}
+    },
+    {
+        "Description": "Incurred claims and expenses (IBNR inc)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.5|RePAA.ICL.5.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.5|RePAA.DCF.5.5","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.5|RePAA.RA.5.5","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.5|RePAA.LC.5.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.5|RePAA.LIC.5.5","Value":null}
+    },
+    {
+        "Description": "Incurred claims and expenses (IBNR only) ",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.6|RePAA.ICL.5.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.6|RePAA.DCF.5.6","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.6|RePAA.RA.5.6","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.6|RePAA.LC.5.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.6|RePAA.LIC.5.6","Value":null}
+    },
+    {
+        "Description": "Investment component exc from inc claims",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.7|RePAA.ICL.5.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.7|RePAA.DCF.5.7","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.7|RePAA.RA.5.7","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.7|RePAA.LC.5.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.7|RePAA.LIC.5.7","Value":null}
+    },
+    {
+        "Description": "Changes related to past service",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.8|RePAA.ICL.5.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.8|RePAA.DCF.5.8","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.8|RePAA.RA.5.8","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.8|RePAA.LC.5.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.8|RePAA.LIC.5.8","Value":null}
+    },
+    {
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.9|RePAA.ICL.5.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.9|RePAA.DCF.5.9","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.9|RePAA.RA.5.9","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.9|RePAA.LC.5.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.9|RePAA.LIC.5.9","Value":null}
+    },
+    {
+        "Description": "PAA: amortised insurance acquisition",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.10|RePAA.ICL.5.10","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.10|RePAA.DCF.5.10","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.10|RePAA.RA.5.10","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.10|RePAA.LC.5.10","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.10|RePAA.LIC.5.10","Value":null}
+    },
+    {
+        "Description": "Losses (reversals) on onerous groups",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.5.11|RePAA.ICL.5.11","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.5.11|RePAA.DCF.5.11","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.5.11|RePAA.RA.5.11","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.5.11|RePAA.LC.5.11","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.5.11|RePAA.LIC.5.11","Value":null}
+    },
+    {
+        "Description": "Maturing portfolio adjustment",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.6|RePAA.ICL.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.6|RePAA.DCF.6","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.6|RePAA.RA.6","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.6|RePAA.LC.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.6|RePAA.LIC.6","Value":null}
+    },
+    {
+        "Description": "CLOSING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.7|RePAA.ICL.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.7|RePAA.DCF.7","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.7|RePAA.RA.7","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.7|RePAA.LC.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.7|RePAA.LIC.7","Value":null}
+    },
+    {
+        "Description": "Change in financial assumptions through OCI",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.8|RePAA.ICL.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.8|RePAA.DCF.8","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.8|RePAA.RA.8","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.8|RePAA.LC.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.8|RePAA.LIC.8","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.8.1|RePAA.ICL.8.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.8.1|RePAA.DCF.8.1","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.8.1|RePAA.RA.8.1","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.8.1|RePAA.LC.8.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.8.1|RePAA.LIC.8.1","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.8.2|RePAA.ICL.8.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.8.2|RePAA.DCF.8.2","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.8.2|RePAA.RA.8.2","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.8.2|RePAA.LC.8.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.8.2|RePAA.LIC.8.2","Value":null}
+    },
+    {
+        "Description": "CLOSING (current rates)",
+        "Insurance Contract Liability": {"Reference":"PAA.ICL.9|RePAA.ICL.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"PAA.DCF.9|RePAA.DCF.9","Value":null},
+        "Risk Adjustment": {"Reference":"PAA.RA.9|RePAA.RA.9","Value":null},
+        "Loss Component": {"Reference":"PAA.LC.9|RePAA.LC.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"PAA.LIC.9|RePAA.LIC.9","Value":null}
+    }
+]

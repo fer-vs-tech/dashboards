@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="icon" href="{{url_for('static', filename='assets/favicon.ico')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/controllers.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/jquery-ui.min.css')}}" />
+	<link rel="stylesheet" href="{{url_for('static', filename='css/jquery_select.css')}}" />
+
+	<script src="{{url_for('static', filename='library/jquery-3.5.1.js')}}" type="text/javascript"></script>
+	<script src="{{url_for('static', filename='library/jquery-ui.min.js')}}" type="text/javascript"></script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{title}}</title>
+</head>
+
+<body>
+	{% import 'helpers.html' as helpers %}
+	{# Main #}
+	{% set auto_mode_class = "auto-mode" if auto_mode else "" %}
+	<div class="container">
+		<div class="logo">
+			<img src="{{url_for('static', filename='assets/kics_cloud_logo.svg')}}" alt="" />
+			<div class="logo-text">K-ICS Result Charts</div>
+		</div>
+		<div class="controllers-container {{auto_mode_class}}">
+			<div class="main-container">
+				<div class="title">Select source WVR files</div>
+				<div class="form-container">
+					{% set labels = ["K-ICS Previous", "K-ICS Volume", "K-ICS Acturial", "K-ICS Economic", "K-ICS
+					Current"] %}
+					{% set names = ["previous", "volume", "acturial", "economic", "current"] %}
+					<form action="{{url_for('controllers')}}" method="POST">
+						<input type="hidden" name="next" value="{{query_string}}" />
+						<input type="hidden" name="auto_mode" value="{{auto_mode}}" />
+
+						{% if auto_mode %}
+						<div class="select-menu">
+							{{ helpers.select_option(labels, names, wvrs) }}
+						</div>
+						{% else %}
+						<div class="select-menu">
+							{{ helpers.select_folder(labels, names) }}
+						</div>
+						{% endif %}
+
+						{# Apply button #}
+						<button class="button-submit" type="submit">Apply</button>
+					</form>
+				</div>
+			</div>
+
+			{# Render popup menu #}
+			{% if not auto_mode %}
+			<div class="popup-menu hidden">
+				<div class="popup-header">
+					<span class="popup-title">Select job run folder</span>
+				</div>
+				<div class="popup-body">
+					<ul>
+						{% for wvr in wvrs %}
+						<li class="popup-item">{{wvr}}</li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+			{% endif %}
+		</div>
+	</div>
+	<script src="{{url_for('static', filename='library/jqueryUI.js')}}"></script>
+	<script src="{{url_for('static', filename='utils/controllers_page.js')}}"></script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+﻿format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,,Initial recognition for new businesses,BEL_Initial_Recognition_IR_Proc,BEL_Initial_Recognition_IR_Proc,BEL New Biz-Loss,NB,Cr
+1,, written during current cohort period,RA_Initial_Recognition_IR_Proc,RA_Initial_Recognition_IR_Proc,RA New Biz-Loss,NB,Cr
+1,1,,CSM_Initial_Recognition_IR_Proc,CSM_Initial_Recognition_IR_Proc,CSM New Biz,NB,Cr
+,,Creation of CSM suspense account ,CSM_Initial_Recognition_IR_Proc,CSM_Initial_Recognition_IR_Proc,CSM New Biz,NB,Dr
+,1,for new businesses,CSM_Suspense_account_value,,(Sus) CSM New Biz,NB,Cr

@@ -1,0 +1,6 @@
+﻿Contents,Risk amount,Diversified (at company level),Proportion
+Interest,SCR_Mkt_Int,MarketDiversifed_1,MarketProportion_1
+Spread,SCR_Mkt_Sp,MarketDiversifed_2,MarketProportion_2
+Currency,SCR_Mkt_FX,MarketDiversifed_3,MarketProportion_3
+Equity,SCR_Mkt_Eq,MarketDiversifed_4,MarketProportion_4
+Property,SCR_Mkt_Prop,MarketDiversifed_5,MarketProportion_5

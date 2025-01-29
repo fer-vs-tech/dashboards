@@ -1,0 +1,7 @@
+﻿,,エクスポージャー,エクスポージャー,エクスポージャー,リスク係数,リスク係数,リスク係数,所要資本（上限適用前）,所要資本（上限適用前）,所要資本（上限適用前）,所要資本の上限,所要資本
+所要資本の要約,所要資本の要約,グロス収入保険料,事業規模拡大,グロス現在推計,グロス収入保険料,事業規模拡大,グロス現在推計,収入保険料 または現在推計,事業規模拡大,合計,合計,合計
+,T84,[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11]
+合計,[1],,,,,,,RC_Opr_P_bef_Limit,RC_Opr_Growth_bef_Limit,RC_Opr_bef_Limit,Opr_Limit,RC_Ops
+    損害保険,[2],Opr_P_NL,Opr_Growth_NL,Opr_Liab_NL,Opr_P_NL_Factor,Opr_Growth_NL_Factor,Opr_Liab_NL_Factor,RC_Opr_NL_P_bef_Limit,RC_Opr_NL_Growth_bef_Limit,RC_Opr_NL_bef_Limit,,
+    生命保険（有リスク）,[3],Opr_P_L_Risk,Opr_Growth_L_Risk,Opr_Liab_L_Risk,Opr_P_L_Risk_Factor,Opr_Growth_L_Risk_Factor,Opr_Liab_L_Risk_Factor,RC_Opr_L_Risk_P_bef_Limit,RC_Opr_L_Risk_Growth_bef_Limit,RC_Opr_L_Risk_bef_Limit,Opr_L_Risk_Limit_Factor,
+    生命保険（無リスク）,[4],,,Opr_Liab_L_NonRisk,,,Opr_Liab_L_NonRisk_Factor,RC_Opr_L_NonRisk_P_bef_Limit,,RC_Opr_L_NonRisk_bef_Limit,,

@@ -1,0 +1,23 @@
+﻿,,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,地理的区分,%,A,B
+所要資本の要約,所要資本の要約,欧州経済領域 （EEA） およびスイス,米国およびカナダ,中国,日本,その他先進国市場,その他新興市場,合計,単純合計に対する割合,,
+,T42,[1],[2],[3],[4],[5],[6],[7],[8],,
+1: 保険料リスクと支払備金リスクの単純合計,[1],NL_Sum_of_P_Res_Risk_EEA_CHE,NL_Sum_of_P_Res_Risk_USA_CAN,NL_Sum_of_P_Res_Risk_CHN,NL_Sum_of_P_Res_Risk_JPN,NL_Sum_of_P_Res_Risk_DM,NL_Sum_of_P_Res_Risk_EM,NL_Sum_of_P_Res_Risk_Total,NL_Sum_of_P_Res_Risk_PC,,
+    うち、保険料リスク,[2],NL_Prem_Risk_EEA_CHE,NL_Prem_Risk_USA_CAN,NL_Prem_Risk_CHN,NL_Prem_Risk_JPN,NL_Prem_Risk_DM,NL_Prem_Risk_EM,NL_Prem_Risk_Total,NL_Prem_Risk_PC,,
+    うち、支払備金リスク,[3],NL_Res_Risk_EEA_CHE,NL_Res_Risk_USA_CAN,NL_Res_Risk_CHN,NL_Res_Risk_JPN,NL_Res_Risk_DM,NL_Res_Risk_EM,NL_Res_Risk_Total,NL_Res_Risk_PC,,
+    （保険料リスクと支払備金リスクの分散効果）,[4],NL_Divers_P_Res_Risk_EEA_CHE,NL_Divers_P_Res_Risk_USA_CAN,NL_Divers_P_Res_Risk_CHN,NL_Divers_P_Res_Risk_JPN,NL_Divers_P_Res_Risk_DM,NL_Divers_P_Res_Risk_EM,NL_Divers_P_Res_Risk_Total,NL_Divers_P_Res_Risk_PC,NL_Divers_P_Res_Risk_Factor,保険料リスクと支払備金リスクの間の相関係数
+2: 保険料リスクと支払備金リスクの合計（分散効果反映後）,[5],NL_P_Res_Risk_EEA_CHE,NL_P_Res_Risk_USA_CAN,NL_P_Res_Risk_CHN,NL_P_Res_Risk_JPN,NL_P_Res_Risk_DM,NL_P_Res_Risk_EM,NL_P_Res_Risk_Total,NL_P_Res_Risk_PC,,
+    うち、不動産ローン保証保険（不動産リスクに含まれる）,[6],NL_Mortgage_Risk_EEA_CHE,NL_Mortgage_Risk_USA_CAN,NL_Mortgage_Risk_CHN,NL_Mortgage_Risk_JPN,NL_Mortgage_Risk_DM,NL_Mortgage_Risk_EM,NL_Mortgage_Risk_Total,NL_Mortgage_Risk_PC,,不動産ローン保証保険
+    うち、信用保険（信用リスクに含まれる）,[7],NL_Credit_Risk_EEA_CHE,NL_Credit_Risk_USA_CAN,NL_Credit_Risk_CHN,NL_Credit_Risk_JPN,NL_Credit_Risk_DM,NL_Credit_Risk_EM,NL_Credit_Risk_Total,NL_Credit_Risk_PC,,信用保険
+3: 商品区分毎の所要資本の単純合計,[8],NL_Risk_Module_EEA_CHE,NL_Risk_Module_USA_CAN,NL_Risk_Module_CHN,NL_Risk_Module_JPN,NL_Risk_Module_DM,NL_Risk_Module_EM,NL_Risk_Module_Total,NL_Risk_Module_PC,,
+    賠償責任保険類似,[9],NL_Liability_Like_Risk_EEA_CHE,NL_Liability_Like_Risk_USA_CAN,NL_Liability_Like_Risk_CHN,NL_Liability_Like_Risk_JPN,NL_Liability_Like_Risk_DM,NL_Liability_Like_Risk_EM,NL_Liability_Like_Risk_Total,NL_Liability_Like_Risk_PC,NL_Liability_Like_Risk_Factor,賠償責任保険類似カテゴリー内の相関係数
+    自動車保険類似,[10],NL_Motor_Like_Risk_EEA_CHE,NL_Motor_Like_Risk_USA_CAN,NL_Motor_Like_Risk_CHN,NL_Motor_Like_Risk_JPN,NL_Motor_Like_Risk_DM,NL_Motor_Like_Risk_EM,NL_Motor_Like_Risk_Total,NL_Motor_Like_Risk_PC,NL_Motor_Like_Risk_Factor,自動車保険類似カテゴリー内の相関係数
+    財物保険類似,[11],NL_Property_Like_Risk_EEA_CHE,NL_Property_Like_Risk_USA_CAN,NL_Property_Like_Risk_CHN,NL_Property_Like_Risk_JPN,NL_Property_Like_Risk_DM,NL_Property_Like_Risk_EM,NL_Property_Like_Risk_Total,NL_Property_Like_Risk_PC,NL_Property_Like_Risk_Factor,財物保険類似カテゴリー内の相関係数
+    その他保険,[12],NL_Other_Risk_EEA_CHE,NL_Other_Risk_USA_CAN,NL_Other_Risk_CHN,NL_Other_Risk_JPN,NL_Other_Risk_DM,NL_Other_Risk_EM,NL_Other_Risk_Total,NL_Other_Risk_PC,NL_Other_Risk_Factor,その他保険カテゴリー内の相関係数
+    （高レベルの商品カテゴリー内の分散効果）,[13],NL_Divers_Segments_EEA_CHE,NL_Divers_Segments_USA_CAN,NL_Divers_Segments_CHN,NL_Divers_Segments_JPN,NL_Divers_Segments_DM,NL_Divers_Segments_EM,NL_Divers_Segments_Total,NL_Divers_Segments_PC,,
+    （高レベルの商品カテゴリー間の分散効果,[14],NL_Divers_Categories_EEA_CHE,NL_Divers_Categories_USA_CAN,NL_Divers_Categories_CHN,NL_Divers_Categories_JPN,NL_Divers_Categories_DM,NL_Divers_Categories_EM,NL_Divers_Categories_Total,NL_Divers_Categories_PC,NL_Divers_Categories_Factor,高レベルの商品カテゴリー間の相関係数
+4: 所要資本（地域間の分散効果反映前）,[15],NL_Risk_wo_GeogDivers_EEA_CHE,NL_Risk_wo_GeogDivers_USA_CAN,NL_Risk_wo_GeogDivers_CHN,NL_Risk_wo_GeogDivers_JPN,NL_Risk_wo_GeogDivers_DM,NL_Risk_wo_GeogDivers_EM,NL_Risk_wo_GeogDivers_Total,NL_Risk_wo_GeogDivers_PC,,
+    （地域間の分散効果）,[16],NL_Risk_Geog_Divers_EEA_CHE,NL_Risk_Geog_Divers_USA_CAN,NL_Risk_Geog_Divers_CHN,NL_Risk_Geog_Divers_JPN,NL_Risk_Geog_Divers_DM,NL_Risk_Geog_Divers_EM,NL_Risk_Geog_Divers_Total,NL_Risk_Geog_Divers_PC,NL_Risk_Geog_Divers_Factor,地域間の相関係数
+5: 所要資本（分散効果反映後）,[17],NL_RC_EEA_CHE,NL_RC_USA_CAN,NL_RC_CHN,NL_RC_JPN,NL_RC_DM,NL_RC_EM,RC_NonLife,NL_RC_PC,,
+    正味現在推計,[18],NL_Current_Estimates_EEA_CHE,NL_Current_Estimates_USA_CAN,NL_Current_Estimates_CHN,NL_Current_Estimates_JPN,NL_Current_Estimates_DM,NL_Current_Estimates_EM,NL_Current_Estimates_Total,NL_Current_Estimates_PC,,
+    未経過責任に係る保険負債,[19],NL_CE_Unearned_EEA_CHE,NL_CE_Unearned_USA_CAN,NL_CE_Unearned_CHN,NL_CE_Unearned_JPN,NL_CE_Unearned_DM,NL_CE_Unearned_EM,NL_CE_Unearned_Total,NL_CE_Unearned_PC,,
+    既発生事故に係る保険負債,[20],NL_CE_Occurred_EEA_CHE,NL_CE_Occurred_USA_CAN,NL_CE_Occurred_CHN,NL_CE_Occurred_JPN,NL_CE_Occurred_DM,NL_CE_Occurred_EM,NL_CE_Occurred_Total,NL_CE_Occurred_PC,,

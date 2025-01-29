@@ -1,0 +1,6 @@
+﻿手法2のエクスポージャー,手法2のエクスポージャー,
+,T80,[1]
+0% <= LTV < 60%,[1],Credit_Method2_LTV00
+60% <= LTV < 80%,[2],Credit_Method2_LTV60
+80% <= LTV < 100%,[3],Credit_Method2_LTV80
+100% <= LTV,[4],Credit_Method2_LTV100

@@ -1,0 +1,20 @@
+﻿,,,水準ストレス後,水準ストレス後,水準ストレス後,水準ストレス後,ボラティリティストレス後
+資産および負債,資産および負債,ストレス前,先進国市場における上場株式へのストレス,新興市場における上場株式へのストレス,ハイブリッド債・優先株式へのストレス,その他の株式へのストレス,ボラティリティストレス後
+,T61,[1],[2],[3],[4],[5],[6]
+資産から負債を控除した額（マネジメント・アクション考慮後）,[1],NAV_EqBase,NAV_DM,NAV_EM,NAV_HP,NAV_OTHE,NAV_Vol
+資産から負債を控除した額（マネジメント・アクション考慮前）,[2],NAV_EqBase_wo_MA,NAV_DM_wo_MA,NAV_EM_wo_MA,NAV_HP_wo_MA,NAV_OTHE_wo_MA,NAV_Vol_wo_MA
+将来の裁量給付に関する負債の利用割合,[3],,DiscretionaryBenRatio_DM,DiscretionaryBenRatio_EM,DiscretionaryBenRatio_HP,DiscretionaryBenRatio_OTHE,DiscretionaryBenRatio_Vol
+合計,[4],Equity_Assets_EqBase,Equity_Assets_DM,Equity_Assets_EM,Equity_Assets_HP,Equity_Assets_OTHE,Equity_Assets_Vol
+    先進国市場における上場株式,[5],Equity_Developed_EqBase,Equity_Developed_DM,Equity_Developed_EM,Equity_Developed_HP,Equity_Developed_OTHE,Equity_Developed_Vol
+    新興市場における上場株式,[6],Equity_Emerging_EqBase,Equity_Emerging_DM,Equity_Emerging_EM,Equity_Emerging_HP,Equity_Emerging_OTHE,Equity_Emerging_Vol
+    ハイブリッド債・優先株式,[7],Equity_HybridDebt_EqBase,Equity_HybridDebt_DM,Equity_HybridDebt_EM,Equity_HybridDebt_HP,Equity_HybridDebt_OTHE,Equity_HybridDebt_Vol
+    その他の株式,[8],Other_Equity_EqBase,Other_Equity_DM,Other_Equity_EM,Other_Equity_HP,Other_Equity_OTHE,Other_Equity_Vol
+    　うち、子会社株式,[9],Other_Equity_Subsidiary_EqBase,Other_Equity_Subsidiary_DM,Other_Equity_Subsidiary_EM,Other_Equity_Subsidiary_HP,Other_Equity_Subsidiary_OTHE,Other_Equity_Subsidiary_Vol
+    デリバティブ,[10],Derivatives_EqBase,Derivatives_DM,Derivatives_EM,Derivatives_HP,Derivatives_OTHE,Derivatives_Vol
+    再保険回収額・再保険貸,[11],Reins_Recoverable_IntBase,Reins_Recoverables_DM,Reins_Recoverables_EM,Reins_Recoverables_HP,Reins_Recoverables_OTHE,Reins_Recoverables_Vol
+将来の裁量給付に関する負債（ストレス前）,[12],MA_Liab_IntBase,,,,,
+    （ストレス後、マネジメント・アクション考慮前）,[13],,MA_Liab_IntBase,MA_Liab_IntBase,MA_Liab_IntBase,MA_Liab_IntBase,MA_Liab_IntBase
+    （ストレス後、マネジメント・アクション考慮後）,[14],,MA_Liab_DM,MA_Liab_EM,MA_Liab_HP,MA_Liab_OTHE,MA_Liab_Vol
+生命保険の現在推計（マネジメント・アクション考慮後）,[15],Liability_IntBase,Liability_DM,Liability_EM,Liability_HP,Liability_OTHE,Liability_Vol
+損害保険の現在推計,[16],NonLife_Liability_IntBase,NonLife_Liability_DM,NonLife_Liability_EM,NonLife_Liability_HP,NonLife_Liability_OTHE,NonLife_Liability_Vol
+その他の負債（適格資本の要件を充足しない項目）,[17],Other_Liab_IntBase,Other_Liab_DM,Other_Liab_EM,Other_Liab_HP,Other_Liab_OTHE,Other_Liab_Vol

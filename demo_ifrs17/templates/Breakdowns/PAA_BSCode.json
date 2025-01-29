@@ -1,0 +1,872 @@
+[
+    {
+        "Var ID": "PAA_Accumulated_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Accumulated_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Amortized_DAC",
+        "RNA BS Code": "PAA.ICL.5.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Cash_Balance",
+        "RNA BS Code": "PAA.MISC.1.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Cash_Balance_Opening",
+        "RNA BS Code": "PAA.MISC.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Cash_Balance_Opening_Asset",
+        "RNA BS Code": "PAA.MISC.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Cash_This_Year",
+        "RNA BS Code": "PAA.MISC.1.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Cash_This_Year_Asset",
+        "RNA BS Code": "PAA.MISC.1.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_CF_Expense_Directly_Attributable",
+        "RNA BS Code": "PAA.KEY.6.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_CF_Expense_Directly_Attributable_DiscCF",
+        "RNA BS Code": "PAA.DCF.4.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_CF_Expense_Directly_Attributable_PL",
+        "RNA BS Code": "PAA.MISC.1.25",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_CF_Premium_Total",
+        "RNA BS Code": "PAA.ICL.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Change_In_OCI",
+        "RNA BS Code": "PAA.ICL.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Change_Past_Service_LIC_excRA",
+        "RNA BS Code": "PAA.LICDCF.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_DAC_Initial_New",
+        "RNA BS Code": "PAA.MISC.1.26",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_DAC_Initial_Opening",
+        "RNA BS Code": "PAA.MISC.1.24",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Disc_CF",
+        "RNA BS Code": "PAA.DCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Disc_CF_Opening",
+        "RNA BS Code": "PAA.DCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_LRC_Exp",
+        "RNA BS Code": "PAA.CFS.11.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_LRC_Prem",
+        "RNA BS Code": "PAA.CFS.7.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_Past_Service",
+        "RNA BS Code": "PAA.CFS.17.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_Past_Service_LIC_Incur",
+        "RNA BS Code": "PAA.CFS.20.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_Past_Service_LIC_Paid",
+        "RNA BS Code": "PAA.CFS.18.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Experience_Adj_Past_Service_LIC_RA",
+        "RNA BS Code": "PAA.CFS.22.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_FCF_LRC",
+        "RNA BS Code": "PAA.CFS.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Inc_In_DAC",
+        "RNA BS Code": "PAA.MISC.1.22",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Incurred_Claims_and_Expenses",
+        "RNA BS Code": "PAA.LIC.5.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Incurred_Claims_and_Expenses_excRA",
+        "RNA BS Code": "PAA.LICDCF.5.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability",
+        "RNA BS Code": "PAA.ICL.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability_Final",
+        "RNA BS Code": "PAA.ICL.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability_Final_Asset",
+        "RNA BS Code": "PAA.ICL.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability_Final_Opening",
+        "RNA BS Code": "PAA.ICL.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability_Final_Opening_Asset",
+        "RNA BS Code": "PAA.ICL.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Liability_Opening",
+        "RNA BS Code": "PAA.ICL.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Contract_Revenue_Exc_Amort_Exp",
+        "RNA BS Code": "PAA.ICL.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Finance_Expenses",
+        "RNA BS Code": "PAA.KEY.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Finance_Expenses_DiscCF",
+        "RNA BS Code": "PAA.DCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Finance_Expenses_IncClaim",
+        "RNA BS Code": "PAA.LICDCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Finance_Expenses_LossComp",
+        "RNA BS Code": "PAA.LC.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Revenue",
+        "RNA BS Code": "PAA.KEY.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Expenses",
+        "RNA BS Code": "PAA.KEY.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Related_Result",
+        "RNA BS Code": "PAA.ICL.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Related_Result_DiscCF",
+        "RNA BS Code": "PAA.DCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Related_Result_IncClaim",
+        "RNA BS Code": "PAA.LIC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "PAA.LICDCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Insurance_Service_Related_Result_LossComp",
+        "RNA BS Code": "PAA.LC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA",
+        "RNA BS Code": "PAA.LICDCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Final",
+        "RNA BS Code": "PAA.LICDCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Final_Asset",
+        "RNA BS Code": "PAA.LICDCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Final_Opening",
+        "RNA BS Code": "PAA.LICDCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Final_Opening_Asset",
+        "RNA BS Code": "PAA.LICDCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Opening",
+        "RNA BS Code": "PAA.LICDCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_excRA_Proj_Last",
+        "RNA BS Code": "PAA.CFS.21",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claim_CS_excRA_Proj",
+        "RNA BS Code": "PAA.CFS.20.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims",
+        "RNA BS Code": "PAA.LIC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims_Final",
+        "RNA BS Code": "PAA.LIC.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims_Final_Asset",
+        "RNA BS Code": "PAA.LIC.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims_Final_Opening",
+        "RNA BS Code": "PAA.LIC.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims_Final_Opening_Asset",
+        "RNA BS Code": "PAA.LIC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Liability_Incurred_Claims_Opening",
+        "RNA BS Code": "PAA.LIC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "PAA.LICDCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "PAA.LICRA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment",
+        "RNA BS Code": "PAA.LICRA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_Final",
+        "RNA BS Code": "PAA.LICRA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_Final_Asset",
+        "RNA BS Code": "PAA.LICRA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_Final_Opening",
+        "RNA BS Code": "PAA.LICRA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_Final_Opening_Asset",
+        "RNA BS Code": "PAA.LICRA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_CS_Proj",
+        "RNA BS Code": "PAA.LICRA.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_LIC_Risk_Adjustment_Opening",
+        "RNA BS Code": "PAA.LICRA.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Loss_Component",
+        "RNA BS Code": "PAA.LC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Loss_Component_Opening",
+        "RNA BS Code": "PAA.LC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Loss_On_Onerous_Group",
+        "RNA BS Code": "PAA.ICL.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Loss_On_Onerous_Group_LossComp",
+        "RNA BS Code": "PAA.LC.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Non_Insurance_Related_Result",
+        "RNA BS Code": "PAA.ICL.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Non_Insurance_Related_Result_DiscCF",
+        "RNA BS Code": "PAA.DCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Non_Insurance_Related_Result_IncClaim",
+        "RNA BS Code": "PAA.LIC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Non_Insurance_Related_Result_LossComp",
+        "RNA BS Code": "PAA.LC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Non_Insurance_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "PAA.LICDCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Other_Comprehensive_Income",
+        "RNA BS Code": "PAA.KEY.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Other_Comprehensive_Income_Opening",
+        "RNA BS Code": "PAA.KEY.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Outgo_Total_Paid",
+        "RNA BS Code": "PAA.CFS.18",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Outgo_Total_Paid_IncClaim",
+        "RNA BS Code": "PAA.ICL.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Outgo_Total_Paid_CS",
+        "RNA BS Code": "PAA.CFS.18.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Outgo_Total_Paid_Proj_Last",
+        "RNA BS Code": "PAA.CFS.19",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Profit_Loss",
+        "RNA BS Code": "PAA.KEY.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Accumulated_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Accumulated_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Amortized_DAC",
+        "RNA BS Code": "RePAA.ICL.5.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Cash_Balance",
+        "RNA BS Code": "RePAA.MISC.1.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Cash_Balance_Opening",
+        "RNA BS Code": "RePAA.MISC.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Cash_Balance_Opening_Asset",
+        "RNA BS Code": "RePAA.MISC.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Cash_This_Year",
+        "RNA BS Code": "RePAA.MISC.1.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Cash_This_Year_Asset",
+        "RNA BS Code": "RePAA.MISC.1.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_CF_Expense_Directly_Attributable",
+        "RNA BS Code": "RePAA.KEY.6.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_CF_Expense_Directly_Attributable_DiscCF",
+        "RNA BS Code": "RePAA.DCF.4.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_CF_Expense_Directly_Attributable_PL",
+        "RNA BS Code": "RePAA.MISC.1.25",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_CF_Premium_Total",
+        "RNA BS Code": "RePAA.ICL.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Change_In_OCI",
+        "RNA BS Code": "RePAA.ICL.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Change_Past_Service_LIC_excRA",
+        "RNA BS Code": "RePAA.LICDCF.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_DAC_Initial_New",
+        "RNA BS Code": "RePAA.MISC.1.26",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_DAC_Initial_Opening",
+        "RNA BS Code": "RePAA.MISC.1.24",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Disc_CF",
+        "RNA BS Code": "RePAA.DCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Disc_CF_Opening",
+        "RNA BS Code": "RePAA.DCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_LRC_Exp",
+        "RNA BS Code": "RePAA.CFS.11.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_LRC_Prem",
+        "RNA BS Code": "RePAA.CFS.7.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_Past_Service",
+        "RNA BS Code": "RePAA.CFS.17.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_Past_Service_LIC_Incur",
+        "RNA BS Code": "RePAA.CFS.20.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_Past_Service_LIC_Paid",
+        "RNA BS Code": "RePAA.CFS.18.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Experience_Adj_Past_Service_LIC_RA",
+        "RNA BS Code": "RePAA.CFS.22.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_FCF_LRC",
+        "RNA BS Code": "RePAA.CFS.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Inc_In_DAC",
+        "RNA BS Code": "RePAA.MISC.1.22",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Incurred_Claims_and_Expenses",
+        "RNA BS Code": "RePAA.LIC.5.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Incurred_Claims_and_Expenses_excRA",
+        "RNA BS Code": "RePAA.LICDCF.5.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability",
+        "RNA BS Code": "RePAA.ICL.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability_Final",
+        "RNA BS Code": "RePAA.ICL.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability_Final_Asset",
+        "RNA BS Code": "RePAA.ICL.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability_Final_Opening",
+        "RNA BS Code": "RePAA.ICL.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability_Final_Opening_Asset",
+        "RNA BS Code": "RePAA.ICL.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Liability_Opening",
+        "RNA BS Code": "RePAA.ICL.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Contract_Revenue_Exc_Amort_Exp",
+        "RNA BS Code": "RePAA.ICL.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Finance_Expenses",
+        "RNA BS Code": "RePAA.KEY.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Finance_Expenses_DiscCF",
+        "RNA BS Code": "RePAA.DCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Finance_Expenses_IncClaim",
+        "RNA BS Code": "RePAA.LICDCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Finance_Expenses_LossComp",
+        "RNA BS Code": "RePAA.LC.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Revenue",
+        "RNA BS Code": "RePAA.KEY.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Expenses",
+        "RNA BS Code": "RePAA.KEY.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Related_Result",
+        "RNA BS Code": "RePAA.ICL.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Related_Result_DiscCF",
+        "RNA BS Code": "RePAA.DCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Related_Result_IncClaim",
+        "RNA BS Code": "RePAA.LIC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "RePAA.LICDCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Insurance_Service_Related_Result_LossComp",
+        "RNA BS Code": "RePAA.LC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA",
+        "RNA BS Code": "RePAA.LICDCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Final",
+        "RNA BS Code": "RePAA.LICDCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Final_Asset",
+        "RNA BS Code": "RePAA.LICDCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Final_Opening",
+        "RNA BS Code": "RePAA.LICDCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Final_Opening_Asset",
+        "RNA BS Code": "RePAA.LICDCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Opening",
+        "RNA BS Code": "RePAA.LICDCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_excRA_Proj_Last",
+        "RNA BS Code": "RePAA.CFS.21",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claim_CS_excRA_Proj",
+        "RNA BS Code": "RePAA.CFS.20.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims",
+        "RNA BS Code": "RePAA.LIC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims_Final",
+        "RNA BS Code": "RePAA.LIC.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims_Final_Asset",
+        "RNA BS Code": "RePAA.LIC.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims_Final_Opening",
+        "RNA BS Code": "RePAA.LIC.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims_Final_Opening_Asset",
+        "RNA BS Code": "RePAA.LIC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Liability_Incurred_Claims_Opening",
+        "RNA BS Code": "RePAA.LIC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "RePAA.LICDCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "RePAA.LICRA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment",
+        "RNA BS Code": "RePAA.LICRA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_Final",
+        "RNA BS Code": "RePAA.LICRA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_Final_Asset",
+        "RNA BS Code": "RePAA.LICRA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_Final_Opening",
+        "RNA BS Code": "RePAA.LICRA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_Final_Opening_Asset",
+        "RNA BS Code": "RePAA.LICRA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_CS_Proj",
+        "RNA BS Code": "RePAA.LICRA.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_LIC_Risk_Adjustment_Opening",
+        "RNA BS Code": "RePAA.LICRA.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Loss_Component",
+        "RNA BS Code": "RePAA.LC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Loss_Component_Opening",
+        "RNA BS Code": "RePAA.LC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Loss_On_Onerous_Group",
+        "RNA BS Code": "RePAA.ICL.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Loss_On_Onerous_Group_LossComp",
+        "RNA BS Code": "RePAA.LC.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Non_Insurance_Related_Result",
+        "RNA BS Code": "RePAA.ICL.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Non_Insurance_Related_Result_DiscCF",
+        "RNA BS Code": "RePAA.DCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Non_Insurance_Related_Result_IncClaim",
+        "RNA BS Code": "RePAA.LIC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Non_Insurance_Related_Result_LossComp",
+        "RNA BS Code": "RePAA.LC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Non_Insurance_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "RePAA.LICDCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Other_Comprehensive_Income",
+        "RNA BS Code": "RePAA.KEY.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Other_Comprehensive_Income_Opening",
+        "RNA BS Code": "RePAA.KEY.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Outgo_Total_Paid",
+        "RNA BS Code": "RePAA.CFS.18",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Outgo_Total_Paid_IncClaim",
+        "RNA BS Code": "RePAA.ICL.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Outgo_Total_Paid_CS",
+        "RNA BS Code": "RePAA.CFS.18.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Outgo_Total_Paid_Proj_Last",
+        "RNA BS Code": "RePAA.CFS.19",
+        "Value": ""
+    },
+    {
+        "Var ID": "PAA_Reins_Profit_Loss",
+        "RNA BS Code": "RePAA.KEY.6",
+        "Value": ""
+    }
+]

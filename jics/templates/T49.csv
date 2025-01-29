@@ -1,0 +1,5 @@
+﻿所要資本の要約,所要資本の要約,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T49,[1],[2],[3=1-2]
+所要資本,[1],RC_Interest_wo_MA,MA_Effect_RC_Interest,RC_Interest
+    平均回帰シナリオ,[2],dNAV_MR_wo_MA,MA_Effect_dNAV_MR,dNAV_MR
+    水準およびねじれストレスシナリオ,[3],dNAV_Level_Twist_wo_MA,MA_Effect_dNAV_Level_Twist,dNAV_Level_Twist

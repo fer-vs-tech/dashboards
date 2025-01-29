@@ -1,0 +1,9 @@
+﻿,期初,期末
+资产,SFP_SoP_Asset,SFP_EoP_Asset
+负债,SFP_SoP_Liability,SFP_EoP_Liability
+已发生赔款负债 - 未来现金流量现值,SFP_SoP_LIC_CF,SFP_EoP_LIC_CF
+已发生赔款负债 - 非金融风险调整,SFP_SoP_LIC_RA,SFP_EoP_LIC_RA
+未到期责任负债,SFP_SoP_LRC,SFP_EoP_LRC
+权益,SFP_SoP_Equity,SFP_EoP_Equity
+利润/损失,SFP_SoP_PL,SFP_EoP_PL
+其他综合收益,SFP_SoP_OCI,SFP_EoP_OCI

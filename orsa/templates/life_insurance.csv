@@ -1,0 +1,7 @@
+﻿Contents,Risk amount,Diversified (at company level),Proportion
+Mortality,SCR_Life_Mort,LifeInsDiversifed_6,LifeInsProportion_6
+Morbidity,SCR_Life_Morb,LifeInsDiversifed_5,LifeInsProportion_5
+Longevity,SCR_Life_Long,LifeInsDiversifed_4,LifeInsProportion_4
+Lapse,SCR_Life_Lapse,LifeInsDiversifed_3,LifeInsProportion_3
+Expenses,SCR_Life_Exp,LifeInsDiversifed_2,LifeInsProportion_2
+Catastrophe,SCR_Life_Cat,LifeInsDiversifed_1,LifeInsProportion_1

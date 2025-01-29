@@ -1,0 +1,29 @@
+﻿,,,,,지배회사
+,,,,소재지(국내/해외),국내
+,구분(단위: 천원) 1,구분(단위: 천원) 2,구분(단위: 천원) 3,회사명 / 그룹 전체,ISS_CP_NM
+자본성증권,(보통주外),(보통주外),기본자본 충족(10%한도 적용 대상),CSCRT_BCSTF_CSTK_OTH_CDEX_AMT,
+자본성증권,(보통주外),(보통주外),기본자본 충족(15%한도 적용 대상),CSCRT_BCSTF_CSTK_AMT,
+자본성증권,(보통주外),(보통주外),기본자본 미충족 & 보완자본 충족,CSCRT_SCSTF_CSTK_OTH_AMT,
+자본성증권,(보통주外),(보통주外),보완자본 미충족,CSCRT_BCSTFC_NSTF_AMT,
+자본성증권,(보통주外),(보통주外),계,CSCRT_CSTK_OTH_AMT,
+자본성증권,자본항목,우선주(상환우선주 외),기본자본 충족(10%한도 적용 대상),CSCRT_BCSTF_PFSTK_CNNN_AMT,CSCRT_BCSTF_PFSTK_CNNN_AMT
+자본성증권,자본항목,우선주(상환우선주 외),기본자본 충족(15%한도 적용 대상),CSCRT_BCSTF_PFSTK_UCNL_AMT,CSCRT_BCSTF_PFSTK_UCNL_AMT
+자본성증권,자본항목,우선주(상환우선주 외),기본자본 미충족 & 보완자본 충족,CSSC_STFC_PFSTK_AMT,CSSC_STFC_PFSTK_AMT
+자본성증권,자본항목,우선주(상환우선주 외),보완자본 미충족,CSCRT_SCPNS_PFSTK_AMT,CSCRT_SCPNS_PFSTK_AMT
+자본성증권,자본항목,우선주(상환우선주 외),계,PFSTK_TTL_AMT,PFSTK_TTL_AMT
+자본성증권,자본항목,신종자본증권,기본자본 충족(10%한도 적용 대상),CSCRT_BCSTF_NTCSRT_CNNN_AMT,CSCRT_BCSTF_NTCSRT_CNNN_AMT
+자본성증권,자본항목,신종자본증권,기본자본 충족(15%한도 적용 대상),CSCRT_BCSTF_NCSC_AMT,CSCRT_BCSTF_NCSC_AMT
+자본성증권,자본항목,신종자본증권,기본자본 미충족 & 보완자본 충족,CSSC_STFC_NTCSRT_AMT,CSSC_STFC_NTCSRT_AMT
+자본성증권,자본항목,신종자본증권,보완자본 미충족,CSCRT_SCPNS_NTCSRT_AMT,CSCRT_SCPNS_NTCSRT_AMT
+자본성증권,자본항목,신종자본증권,계,NTCSRT_TTL_AMT,NTCSRT_TTL_AMT
+자본성증권,자본항목,기타,기본자본 충족(10%한도 적용 대상),CSCRT_BCSTF_OTH_CNNN_AMT,CSCRT_BCSTF_OTH_CNNN_AMT
+자본성증권,자본항목,기타,기본자본 충족(15%한도 적용 대상),CSCRT_BCSTF_OTH_UCNL_AMT,CSCRT_BCSTF_OTH_UCNL_AMT
+자본성증권,자본항목,기타,기본자본 미충족 & 보완자본 충족,CSSC_STFC_OTH_AMT,CSSC_STFC_OTH_AMT
+자본성증권,자본항목,기타,보완자본 미충족,CSCRT_SCPNS_OTH_AMT,CSCRT_SCPNS_OTH_AMT
+자본성증권,자본항목,기타,계,OTH_TTL_AMT,OTH_TTL_AMT
+자본성증권,부채항목,상환우선주,보완자본 충족,CSSC_STFC_CPSTK_AMT,CSSC_STFC_CPSTK_AMT
+자본성증권,부채항목,상환우선주,보완자본 미충족,CSCRT_SCPNS_CPSTK_AMT,CSCRT_SCPNS_CPSTK_AMT
+자본성증권,부채항목,상환우선주,계,CPSTK_TTL_AMT,CPSTK_TTL_AMT
+자본성증권,부채항목,후순위채무액,보완자본 충족,CSSC_STFCA_ODBAMT_AMT,CSSC_STFCA_ODBAMT_AMT
+자본성증권,부채항목,후순위채무액,보완자본 미충족,CSCRT_SCPNS_ALAM_AMT,CSCRT_SCPNS_ALAM_AMT
+자본성증권,부채항목,후순위채무액,계,ALAM_TTL_AMT,ALAM_TTL_AMT

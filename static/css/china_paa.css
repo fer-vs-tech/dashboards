@@ -1,0 +1,24 @@
+/* Define custom font for Chinese characters */
+@font-face {
+    font-family: 'Microsoft YaHei';
+    src: url(/dash/static/assets/font/chinese.msyh.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Apply the font family to table elements */
+table {
+    font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
+}
+table th {
+    font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
+}
+table td {
+    font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
+}
+
+/* Apply the font family to nav bar */
+.nav-item {
+    font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
+}
+

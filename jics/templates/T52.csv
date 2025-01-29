@@ -1,0 +1,20 @@
+﻿資産および負債（平均回帰シナリオ後）,資産および負債（平均回帰シナリオ後）,CUR1,CUR2,CUR3,CUR4,CUR5,CUR6,その他,合計
+,T52,[1],[2],[3],[4],[5],[6],[7],[8]
+資産から負債を控除した額（マネジメント・アクション考慮後）,[1],NAV_MR_CUR1,NAV_MR_CUR2,NAV_MR_CUR3,NAV_MR_CUR4,NAV_MR_CUR5,NAV_MR_CUR6,NAV_MR_CUR7,NAV_MR
+資産から負債を控除した額（マネジメント・アクション考慮前、修正後）,[2],NAV_MR_wo_MA_CUR1,NAV_MR_wo_MA_CUR2,NAV_MR_wo_MA_CUR3,NAV_MR_wo_MA_CUR4,NAV_MR_wo_MA_CUR5,NAV_MR_wo_MA_CUR6,NAV_MR_wo_MA_CUR7,NAV_MR_wo_MA
+将来の裁量給付に関する負債の利用割合,[3],DiscretionaryBenRatio_MR_CUR1,DiscretionaryBenRatio_MR_CUR2,DiscretionaryBenRatio_MR_CUR3,DiscretionaryBenRatio_MR_CUR4,DiscretionaryBenRatio_MR_CUR5,DiscretionaryBenRatio_MR_CUR6,DiscretionaryBenRatio_MR_CUR7,DiscretionaryBenRatio_MR
+    資産,[4],Assets_MR_CUR1,Assets_MR_CUR2,Assets_MR_CUR3,Assets_MR_CUR4,Assets_MR_CUR5,Assets_MR_CUR6,Assets_MR_CUR7,Assets_MR
+        債券,[5],Bonds_MR_CUR1,Bonds_MR_CUR2,Bonds_MR_CUR3,Bonds_MR_CUR4,Bonds_MR_CUR5,Bonds_MR_CUR6,Bonds_MR_CUR7,Bonds_MR
+        貸付金,[6],Loans_MR_CUR1,Loans_MR_CUR2,Loans_MR_CUR3,Loans_MR_CUR4,Loans_MR_CUR5,Loans_MR_CUR6,Loans_MR_CUR7,Loans_MR
+        仕組証券,[7],Structured_Sec_MR_CUR1,Structured_Sec_MR_CUR2,Structured_Sec_MR_CUR3,Structured_Sec_MR_CUR4,Structured_Sec_MR_CUR5,Structured_Sec_MR_CUR6,Structured_Sec_MR_CUR7,Structured_Sec_MR
+        その他の投資資産,[8],Other_InvestAsset_MR_CUR1,Other_InvestAsset_MR_CUR2,Other_InvestAsset_MR_CUR3,Other_InvestAsset_MR_CUR4,Other_InvestAsset_MR_CUR5,Other_InvestAsset_MR_CUR6,Other_InvestAsset_MR_CUR7,Other_InvestAsset_MR
+        特別勘定の資産,[9],Separate_Accounts_MR_CUR1,Separate_Accounts_MR_CUR2,Separate_Accounts_MR_CUR3,Separate_Accounts_MR_CUR4,Separate_Accounts_MR_CUR5,Separate_Accounts_MR_CUR6,Separate_Accounts_MR_CUR7,Separate_Accounts_MR
+        再保険回収額／再保険貸,[10],Reins_Recoverable_MR_CUR1,Reins_Recoverable_MR_CUR2,Reins_Recoverable_MR_CUR3,Reins_Recoverable_MR_CUR4,Reins_Recoverable_MR_CUR5,Reins_Recoverable_MR_CUR6,Reins_Recoverable_MR_CUR7,Reins_Recoverable_MR
+        非運用資産,[11],Non_Invest_Assets_MR_CUR1,Non_Invest_Assets_MR_CUR2,Non_Invest_Assets_MR_CUR3,Non_Invest_Assets_MR_CUR4,Non_Invest_Assets_MR_CUR5,Non_Invest_Assets_MR_CUR6,Non_Invest_Assets_MR_CUR7,Non_Invest_Assets_MR
+        ヘッジ目的の金融資産の公正価値,[12],FV_of_Hedging_MR_CUR1,FV_of_Hedging_MR_CUR2,FV_of_Hedging_MR_CUR3,FV_of_Hedging_MR_CUR4,FV_of_Hedging_MR_CUR5,FV_of_Hedging_MR_CUR6,FV_of_Hedging_MR_CUR7,FV_of_Hedging_MR
+    将来の裁量給付に関する負債（ストレス前）,[13],MA_Liab_IntBase_CUR1,MA_Liab_IntBase_CUR2,MA_Liab_IntBase_CUR3,MA_Liab_IntBase_CUR4,MA_Liab_IntBase_CUR5,MA_Liab_IntBase_CUR6,MA_Liab_IntBase_CUR7,MA_Liab_IntBase
+        （ストレス後、マネジメント・アクション考慮前）,[14],MA_Liab_MR_CUR1_wo_MA,MA_Liab_MR_CUR2_wo_MA,MA_Liab_MR_CUR3_wo_MA,MA_Liab_MR_CUR4_wo_MA,MA_Liab_MR_CUR5_wo_MA,MA_Liab_MR_CUR6_wo_MA,MA_Liab_MR_CUR7_wo_MA,MA_Liab_MR_wo_MA
+        （ストレス後、マネジメント・アクション考慮後）,[15],MA_Liab_MR_CUR1,MA_Liab_MR_CUR2,MA_Liab_MR_CUR3,MA_Liab_MR_CUR4,MA_Liab_MR_CUR5,MA_Liab_MR_CUR6,MA_Liab_MR_CUR7,MA_Liab_MR
+    生命保険の現在推計（マネジメント・アクション考慮後）,[16],Liability_MR_CUR1,Liability_MR_CUR2,Liability_MR_CUR3,Liability_MR_CUR4,Liability_MR_CUR5,Liability_MR_CUR6,Liability_MR_CUR7,Liability_MR
+    損害保険の現在推計,[17],NonLife_Liability_MR_CUR1,NonLife_Liability_MR_CUR2,NonLife_Liability_MR_CUR3,NonLife_Liability_MR_CUR4,NonLife_Liability_MR_CUR5,NonLife_Liability_MR_CUR6,NonLife_Liability_MR_CUR7,NonLife_Liability_MR
+    その他の負債（適格資本の要件を充足しない項目）,[18],Other_Liab_MR_CUR1,Other_Liab_MR_CUR2,Other_Liab_MR_CUR3,Other_Liab_MR_CUR4,Other_Liab_MR_CUR5,Other_Liab_MR_CUR6,Other_Liab_MR_CUR7,Other_Liab_MR

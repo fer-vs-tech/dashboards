@@ -1,0 +1,18 @@
+﻿非保険事業,非保険事業,エクスポージャー,所要資本,係数
+,T86,[1],[2],[3]
+所要資本,[1],,RC_Non_Insurance,
+    セクター固有の資本要件を持つ非保険金融事業,[2],,NL_w_Sectoral_Capital,
+    連結対象の銀行事業,[3],,Consolidated_Bank_1,
+        国内基準行,[4],Domestic_Bank_1_Expo,Domestic_Bank_1,<= リスクアセットの4%
+        国内基準行以外,[5],,Non_Domestic_Bank_1,"<= Max(リスクアセットの8%, レバレッジ比率対象の3%)"
+    連結対象の非銀行事業,[6],,Consolidated_Non_Bank_1,"<= Max(セクター固有の所要資本, 総収入の3年平均の15%)"
+    持分法が適用される銀行事業および非銀行事業,[7],,Equity_Method_Applied_Entities,<= セクター固有の所要資本×持分比率
+    セクター固有の資本要件を持たない非保険金融事業,[8],,NL_wo_Sectoral_Capital,
+        連結対象の銀行事業,[9],Consolidated_Bank_2_Expo,Consolidated_Bank_2,<= レバレッジ比率対象の4%
+        連結対象の非銀行事業,[10],Consolidated_Non_Bank_2_Expo,Consolidated_Non_Bank_2,<= 総収入の3年平均の15%
+        持分法が適用される銀行事業,[11],,Equity_Method_Applied_Bank,<= レバレッジ比率要件×持分比率
+        持分法が適用される非銀行事業,[12],,Equity_Method_Applied_Non_Bank,<= 総収入の3年平均の15%×持分比率
+    連結対象または持分法適用対象の非金融事業,[13],,Non_Financial_Entities,
+        先進国市場における上場株式,[14],Equities_DM_Expo,Equities_DM,35%
+        新興市場における上場株式,[15],Equities_EM_Expo,Equities_EM,48%
+        その他の株式,[16],Equities_Other_Expo,Equities_Other,49%

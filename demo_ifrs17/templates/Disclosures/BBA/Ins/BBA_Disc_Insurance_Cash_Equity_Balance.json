@@ -1,0 +1,192 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Cash & Equity Balance",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Asset",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.1",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "BBA.MISC.1.7",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "BBA.MISC.1.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.2",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "BBA.MISC.1.7|BBA.MISC.1.9",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.3",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance Contract Liability",
+        "Reference": "-BBA.LC.8.1|BBA.DCF.8.1|BBA.RA.8.1|BBA.CSM.8.1|BBA.LIC.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.4",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "BBA_D.CEQ.2|BBA_D.CEQ.3",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "As Liability",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "BBA.MISC.1.6minusBBA.MISC.1.7",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.5.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "BBA.MISC.1.8minusBBA.MISC.1.9",
+        "Ref_Type": "Sum_Sub",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.6",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "BBA_D.CEQ.5|BBA_D.CEQ.5.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.7",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance Contract Liability",
+        "Reference": "(-)BBA.ICL.9|(-)BBA.LC.8.1|(-)BBA.DCF.8.1|(-)BBA.RA.8.1|(-)BBA.CSM.8.1|(-)BBA.LIC.8.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.8",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "BBA_D.CEQ.6|BBA_D.CEQ.7",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header",
+        "Description": "TOTAL",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.9",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Cash Balance Opening",
+        "Reference": "BBA_D.CEQ.1|BBA_D.CEQ.5",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.9.1",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Item",
+        "Description": "Cash (this year)",
+        "Reference": "BBA_D.CEQ.1.1|BBA_D.CEQ.5.1",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.10",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Cash Balance Closing",
+        "Reference": "BBA_D.CEQ.2|BBA_D.CEQ.6",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.11",
+        "Level": "1",
+        "Level_Calc": "2",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance Contract Liability",
+        "Reference": "BBA_D.CEQ.3|BBA_D.CEQ.7",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.CEQ.12",
+        "Level": "1",
+        "Level_Calc": "3",
+        "Record_Type": "Header_Bold",
+        "Description": "Equity Balance Closing",
+        "Reference": "BBA_D.CEQ.10|BBA_D.CEQ.11",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

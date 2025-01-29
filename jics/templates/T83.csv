@@ -1,0 +1,14 @@
+﻿住宅ローン,住宅ローン,バランスシート資産,,,担保または保証による再配分,再配分後の エクスポージャー
+,T83,[1],[2],[3],[4],[5=1+4]
+返済が不動産収入に依存する住宅ローン,,,,,,
+    LTV <= 60%,[1],Credit_Resi1_LTV00_BS_Assets,,,Credit_Resi1_LTV00_ReDist,Credit_Resi1_LTV00_Post_ReDist
+    60% < LTV <= 80%,[2],Credit_Resi1_LTV60_BS_Assets,,,Credit_Resi1_LTV60_ReDist,Credit_Resi1_LTV60_Post_ReDist
+    LTV > 80%,[3],Credit_Resi1_LTV80_BS_Assets,,,Credit_Resi1_LTV80_ReDist,Credit_Resi1_LTV80_Post_ReDist
+返済が不動産収入に依存しない住宅ローン,,,,,,
+    LTV <= 40%,[4],Credit_Resi2_LTV00_BS_Assets,,,Credit_Resi2_LTV00_ReDist,Credit_Resi2_LTV00_Post_ReDist
+    40% < LTV <= 60%,[5],Credit_Resi2_LTV40_BS_Assets,,,Credit_Resi2_LTV40_ReDist,Credit_Resi2_LTV40_Post_ReDist
+    60% < LTV <= 80%,[6],Credit_Resi2_LTV60_BS_Assets,,,Credit_Resi2_LTV60_ReDist,Credit_Resi2_LTV60_Post_ReDist
+    80% < LTV <= 90%,[7],Credit_Resi2_LTV80_BS_Assets,,,Credit_Resi2_LTV80_ReDist,Credit_Resi2_LTV80_Post_ReDist
+    90% < LTV <= 100%,[8],Credit_Resi2_LTV90_BS_Assets,,,Credit_Resi2_LTV90_ReDist,Credit_Resi2_LTV90_Post_ReDist
+    LTV > 100%,[9],Credit_Resi2_LTV100_BS_Assets,,,Credit_Resi2_LTV100_ReDist,Credit_Resi2_LTV100Post_ReDist
+不良債権,[10],Credit_Resi_Default_BS_Assets,,,Credit_Resi_Default_ReDist,Credit_Resi_DefaultPost_ReDist

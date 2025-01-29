@@ -1,0 +1,17 @@
+﻿Group,format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+EBP,1,,Writing CSM/expense of the amount of,Initial_BEL_Loss_EBP_Proc,Initial_BEL_Loss_EBP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,BEL and RA after economic assumption ,Writing_Expense_BEL_Loss_INIT_EIR_EBP,,Interest Expense New Biz-BEL,NB,Cr
+,1,,based on initial EIR,Initial_BEL_Other_EBP_Proc,Initial_BEL_Other_EBP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,,,Writing_Expense_BEL_Other_INIT_EIR_EBP,,Interest Expense New Biz-BEL,NB,Cr
+,1,,,Initial_RA_Loss_EBP_Proc,Initial_RA_Loss_EBP_Proc,Insurance Expense New Biz-Loss Reversal,NB,Dr
+,1,,,Writing_Expense_RA_Loss_INIT_EIR_EBP,,Interest Expense New Biz-RA,NB,Cr
+,1,,,Initial_RA_Other_EBP_Proc,Initial_RA_Other_EBP_Proc,(Sus) CSM New Biz,NB,Dr
+,1,1,,Writing_Expense_RA_Other_INIT_EIR_EBP,,Interest Expense New Biz-RA,NB,Cr
+,0,,Writing interest expense and the amount of,Reset_BEL_Loss_EBP_Proc,Reset_BEL_Loss_EBP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,0,,BEL and RA after economic assumption ,Writing_Expense_BEL_Loss_Reset_EIR_EBP,,BEL New Biz-Loss,NB,Cr
+,0,,based on reset EIR,Reset_BEL_Other_EBP_Proc,Reset_BEL_Other_EBP_Proc,Interest Expense New Biz-BEL,NB,Dr
+,0,,,Writing_Expense_BEL_Other_Reset_EIR_EBP,,BEL New Biz-Other,NB,Cr
+,0,,,Reset_RA_Loss_EBP_Proc,Reset_RA_Loss_EBP_Proc,Interest Expense New Biz-RA,NB,Dr
+,0,,,Writing_Expense_RA_Loss_Reset_EIR_EBP,,RA New Biz-Loss,NB,Cr
+,0,,,Reset_RA_Other_EBP_Proc,Reset_RA_Other_EBP_Proc,Interest Expense New Biz-RA,NB,Dr
+,0,2,,Writing_Expense_RA_Other_Reset_EIR_EBP,,RA New Biz-Other,NB,Cr

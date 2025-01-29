@@ -1,0 +1,6 @@
+﻿所要資本の要約,所要資本の要約,マネジメント・アクション考慮前,マネジメント・アクションの効果,マネジメント・アクション考慮後
+,T63,[1],[2],[3]
+所要資本,[1],RC_Currency_wo_MA,MA_Effect_RC_Currency,RC_Currency
+    選択されたシナリオ,[2],Scenario_Currency,,
+    シナリオ1（ロング）,[3],RC_Currency_Long,,
+    シナリオ2（ショート）,[4],RC_Currency_Short,,

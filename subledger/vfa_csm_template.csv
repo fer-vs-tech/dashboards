@@ -1,0 +1,7 @@
+﻿format_hidden,bottom_border_hidden,Description,COA_hidden,COA,Account_Name,Inforce_NB,Dr_Cr
+1,,Recognition of interest expense ,Interest_Expense_CSM_CSM_AMOR_Proc,Interest_Expense_CSM_CSM_AMOR_Proc,Interest Expense New Biz-CSM,NB,Dr
+1,1,for CSM,Recognition_interest_expense_for_CSM,,(Sus) CSM New Biz,NB,Cr
+,,Writing off CSM suspense account and recognition of,Pre_Amortized_CSM_CSM_AMOR_Proc,Pre_Amortized_CSM_CSM_AMOR_Proc,(Sus) CSM New Biz,NB,Dr
+,1,loss component from CSM adjustments during the term,Writing_off_CSM_suspense_account,,CSM New Biz,NB,Cr
+1,,Recognition of the amortized amount for CSM,Amortized_CSM_CSM_AMOR_Proc,Amortized_CSM_CSM_AMOR_Proc,CSM New Biz,NB,Dr
+1,,,Recognition_amortized_CSM,,Insurance Revenue New Biz-CSM Amor.,NB,Cr

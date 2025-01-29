@@ -1,0 +1,7 @@
+﻿住宅ローン以外の不動産ローン,住宅ローン以外の不動産ローン,エクスポージャー,所要資本
+（返済が不動産収入に依存するもの）,T78,[1],[2]
+合計,[1],,RC_Credit_Mortgage_Loan1
+    LTVおよびDSCRによる手法（手法1）,[2],,RC_Credit_Method1_Exposures
+    LTVのみによる手法（手法2）,[3],,RC_Credit_Method2_Exposures
+    上記データによらない手法（手法3）,[4],,RC_Credit_Method3_Exposures
+    延滞債権および差し押さえ中の債権,[5],Credit_Delinquent_loans,RC_Credit_Delinquent_loans

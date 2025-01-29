@@ -1,0 +1,42 @@
+Account_Name,group_row_hidden
+BEL,1
+BEL New Biz_REINS,
+BEL(AOCI) New Biz_REINS,
+(Sus) CSM New Biz_REINS,
+RA,1
+RA New Biz_REINS,
+RA(AOCI) New Biz_REINS,
+Credit Loss BEL,1
+Credit Loss BEL New Biz_REINS,
+Credit Loss BEL(AOCI) New Biz_REINS,
+CSM,1
+CSM New Biz_REINS,
+Deferred Tax Liabilities,1
+Reinsurance Revenue,1
+Reinsurance Revenue New Biz-Exp. Claim_REINS,
+Reinsurance Revenue New Biz-Exp. Adj. Cost_REINS,
+Reinsurance Revenue New Biz-Exp. Profit Comm_REINS,
+Reinsurance Expense,1
+Reinsurance Expense New Biz-CSM Amor._REINS,
+Reinsurance Expense New Biz-Exp. Claim_REINS,
+Reinsurance Expense New Biz-Exp. Adj. Cost_REINS,
+Reinsurance Expense New Biz-Exp. Profit Comm_REINS,
+Reinsurance Expense New Biz-RA Changes_REINS,
+Interest Expense-PL,1
+Reinsurance Interest Expense New Biz-BEL_REINS,
+Reinsurance Interest Expense New Biz-RA_REINS,
+Reinsurance Interest Expense New Biz-Credit Loss BEL_REINS,
+Reinsurance Interest Expense New Biz-CSM_REINS,
+AOCI,1
+AOCI(BEL) Loss New Biz_REINS,
+AOCI(BEL) Gain New Biz_REINS,
+AOCI(RA) Loss New Biz_REINS,
+AOCI(RA) Gain New Biz_REINS,
+AOCI(CL BEL) Loss New Biz_REINS,
+AOCI(CL BEL) Gain New Biz_REINS,
+AOCI(DTL-BEL) Loss New Biz_REINS,
+AOCI(DTL-BEL) Gain New Biz_REINS,
+AOCI(DTL-RA) Loss New Biz_REINS,
+AOCI(DTL-RA) Gain New Biz_REINS,
+AOCI(DTL-CL BEL) Loss New Biz_REINS,
+AOCI(DTL-CL BEL) Gain New Biz_REINS,

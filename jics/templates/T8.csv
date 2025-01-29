@@ -1,0 +1,10 @@
+﻿処分制約のある資産,処分制約のある資産,合計額,うち、処分制約のある資産に関連する額,簡便法による 所要資本の増分,対応するリスク
+,[T8],[1],[2],[3],[4]
+処分制約のある資産のうち関連する負債と所要資本を上回る額,[1],,EA_Excess_Liab_RC,,
+純資産,[2],Total_Net_Assets,EA_Total_Net_Assets,Simplified_RC_Market_inc,市場リスク
+  資産,[3],Total_Assets,EA_Total_Assets,Simplified_RC_Credit_inc,信用リスク
+  処分制約のある資産によって保全されているオンバランス負債,,,,,
+    正味現在推計,[4],Total_Liability,EA_Total_Liability,Simplified_RC_CAT_inc,巨大災害リスク
+      うち、損害保険,[5],Total_Liability_NL,EA_Total_Liability_NL,Simplified_RC_NonLife_inc,損害保険リスク
+      うち、生命保険,[6],Total_Liability_L,EA_Total_Liability_L,Simplified_RC_Life_inc,生命保険リスク
+    正味現在推計以外,[7],,EA_Other_Liability,,

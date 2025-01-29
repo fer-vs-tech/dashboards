@@ -1,0 +1,9 @@
+﻿所要資本の要約,所要資本の要約,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）
+,T41,[1],[2],[3=1-2],[4],[5=3-4]
+全地域,[1],,,dNAV_Expense_wo_MA,MA_Effect_Expense,dNAV_Expense
+    欧州経済領域（EEA）およびスイス,[2],NAV_Expense_Base_EEA_CHE,NAV_Expense_EEA_CHE_wo_MA,dNAV_Expense_EEA_CHE_wo_MA,MA_Effect_Expense_EEA_CHE,dNAV_Expense_EEA_CHE
+    米国およびカナダ,[3],NAV_Expense_Base_USA_CAN,NAV_Expense_USA_CAN_wo_MA,dNAV_Expense_USA_CAN_wo_MA,MA_Effect_Expense_USA_CAN,dNAV_Expense_USA_CAN
+    中国,[4],NAV_Expense_Base_CHN,NAV_Expense_CHN_wo_MA,dNAV_Expense_CHN_wo_MA,MA_Effect_Expense_CHN,dNAV_Expense_CHN
+    日本,[5],NAV_Expense_Base_JPN,NAV_Expense_JPN_wo_MA,dNAV_Expense_JPN_wo_MA,MA_Effect_Expense_JPN,dNAV_Expense_JPN
+    その他先進国市場,[6],NAV_Expense_Base_DM,NAV_Expense_DM_wo_MA,dNAV_Expense_DM_wo_MA,MA_Effect_Expense_DM,dNAV_Expense_DM
+    その他新興市場,[7],NAV_Expense_Base_EM,NAV_Expense_EM_wo_MA,dNAV_Expense_EM_wo_MA,MA_Effect_Expense_EM,dNAV_Expense_EM

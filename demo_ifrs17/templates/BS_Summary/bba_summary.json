@@ -1,0 +1,308 @@
+[
+    {
+        "Description": "OPENING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.1|ReBBA.ICL.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.1|ReBBA.DCF.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.1|ReBBA.CSM.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.1|ReBBA.RA.1","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.1|ReBBA.LC.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.1|ReBBA.LIC.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.1.1|ReBBA.ICL.1.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.1.1|ReBBA.DCF.1.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.1.1|ReBBA.CSM.1.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.1.1|ReBBA.RA.1.1","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.1.1|ReBBA.LC.1.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.1.1|ReBBA.LIC.1.1","Value":null}
+    },
+    {
+        "Description": "Opening insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.1.2|ReBBA.ICL.1.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.1.2|ReBBA.DCF.1.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.1.2|ReBBA.CSM.1.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.1.2|ReBBA.RA.1.2","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.1.2|ReBBA.LC.1.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.1.2|ReBBA.LIC.1.2","Value":null}
+    },
+    {
+        "Description": "OPENING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.2|ReBBA.ICL.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.2|ReBBA.DCF.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.2|ReBBA.CSM.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.2|ReBBA.RA.2","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.2|ReBBA.LC.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.2|ReBBA.LIC.2","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: new contracts",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.3|ReBBA.ICL.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.3|ReBBA.DCF.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.3|ReBBA.CSM.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.3|ReBBA.RA.3","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.3|ReBBA.LC.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.3|ReBBA.LIC.3","Value":null}
+    },
+    {
+        "Description": "Non-insurance service related:",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4|ReBBA.ICL.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4|ReBBA.DCF.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4|ReBBA.CSM.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4|ReBBA.RA.4","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4|ReBBA.LC.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4|ReBBA.LIC.4","Value":null}
+    },
+    {
+        "Description": "Premiums received",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.1|ReBBA.ICL.4.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.1|ReBBA.DCF.4.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.1|ReBBA.CSM.4.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.1|ReBBA.RA.4.1","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.1|ReBBA.LC.4.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.1|ReBBA.LIC.4.1","Value":null}
+    },
+    {
+        "Description": "Premium Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.2|ReBBA.ICL.4.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.2|ReBBA.DCF.4.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.2|ReBBA.CSM.4.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.2|ReBBA.RA.4.2","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.2|ReBBA.LC.4.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.2|ReBBA.LIC.4.2","Value":null}
+    },
+    {
+        "Description": "Commission received from reinsurer",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.3|ReBBA.ICL.4.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.3|ReBBA.DCF.4.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.3|ReBBA.CSM.4.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.3|ReBBA.RA.4.3","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.3|ReBBA.LC.4.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.3|ReBBA.LIC.4.3","Value":null}
+    },
+    {
+        "Description": "Commission Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.4|ReBBA.ICL.4.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.4|ReBBA.DCF.4.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.4|ReBBA.CSM.4.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.4|ReBBA.RA.4.4","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.4|ReBBA.LC.4.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.4|ReBBA.LIC.4.4","Value":null}
+    },
+    {
+        "Description": "Directly attributable expense cash flow",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.5|ReBBA.ICL.4.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.5|ReBBA.DCF.4.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.5|ReBBA.CSM.4.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.5|ReBBA.RA.4.5","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.5|ReBBA.LC.4.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.5|ReBBA.LIC.4.5","Value":null}
+    },
+    {
+        "Description": "Expense Experience Adjustment to P/L",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.6|ReBBA.ICL.4.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.6|ReBBA.DCF.4.6","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.6|ReBBA.CSM.4.6","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.6|ReBBA.RA.4.6","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.6|ReBBA.LC.4.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.6|ReBBA.LIC.4.6","Value":null}
+    },
+    {
+        "Description": "Claims paid",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.7|ReBBA.ICL.4.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.7|ReBBA.DCF.4.7","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.7|ReBBA.CSM.4.7","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.7|ReBBA.RA.4.7","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.7|ReBBA.LC.4.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.7|ReBBA.LIC.4.7","Value":null}
+    },
+    {
+        "Description": "Claims paid experience adjustment",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.8|ReBBA.ICL.4.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.8|ReBBA.DCF.4.8","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.8|ReBBA.CSM.4.8","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.8|ReBBA.RA.4.8","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.8|ReBBA.LC.4.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.8|ReBBA.LIC.4.8","Value":null}
+    },
+    {
+        "Description": "GMM/PAA: insurance finance expenses",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.9|ReBBA.ICL.4.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.9|ReBBA.DCF.4.9","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.9|ReBBA.CSM.4.9","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.9|ReBBA.RA.4.9","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.9|ReBBA.LC.4.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.9|ReBBA.LIC.4.9","Value":null}
+    },
+    {
+        "Description": "VFA: Change in Fair Value",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.4.10|ReBBA.ICL.4.10","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.4.10|ReBBA.DCF.4.10","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.4.10|ReBBA.CSM.4.10","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.4.10|ReBBA.RA.4.10","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.4.10|ReBBA.LC.4.10","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.4.10|ReBBA.LIC.4.10","Value":null}
+    },
+    {
+        "Description": "Insurance service related",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5|ReBBA.ICL.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5|ReBBA.DCF.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5|ReBBA.CSM.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5|ReBBA.RA.5","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5|ReBBA.LC.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5|ReBBA.LIC.5","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: cause A",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.1|ReBBA.ICL.5.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.1|ReBBA.DCF.5.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.1|ReBBA.CSM.5.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.1|ReBBA.RA.5.1","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.1|ReBBA.LC.5.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.1|ReBBA.LIC.5.1","Value":null}
+    },
+    {
+        "Description": "Changes related to future service: cause B",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.2|ReBBA.ICL.5.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.2|ReBBA.DCF.5.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.2|ReBBA.CSM.5.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.2|ReBBA.RA.5.2","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.2|ReBBA.LC.5.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.2|ReBBA.LIC.5.2","Value":null}
+    },
+    {
+        "Description": "Changes related to currency",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.3|ReBBA.ICL.5.3","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.3|ReBBA.DCF.5.3","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.3|ReBBA.CSM.5.3","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.3|ReBBA.RA.5.3","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.3|ReBBA.LC.5.3","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.3|ReBBA.LIC.5.3","Value":null}
+    },
+    {
+        "Description": "Insurance contract revenue exc amort exp",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.4|ReBBA.ICL.5.4","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.4|ReBBA.DCF.5.4","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.4|ReBBA.CSM.5.4","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.4|ReBBA.RA.5.4","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.4|ReBBA.LC.5.4","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.4|ReBBA.LIC.5.4","Value":null}
+    },
+    {
+        "Description": "Incurred claims (Reported, inc exp)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.5|ReBBA.ICL.5.5","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.5|ReBBA.DCF.5.5","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.5|ReBBA.CSM.5.5","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.5|ReBBA.RA.5.5","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.5|ReBBA.LC.5.5","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.5|ReBBA.LIC.5.5","Value":null}
+    },
+    {
+        "Description": "Incurred claims and expenses (IBNR only) ",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.6|ReBBA.ICL.5.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.6|ReBBA.DCF.5.6","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.6|ReBBA.CSM.5.6","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.6|ReBBA.RA.5.6","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.6|ReBBA.LC.5.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.6|ReBBA.LIC.5.6","Value":null}
+    },
+    {
+        "Description": "Investment component exc from inc claims",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.7|ReBBA.ICL.5.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.7|ReBBA.DCF.5.7","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.7|ReBBA.CSM.5.7","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.7|ReBBA.RA.5.7","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.7|ReBBA.LC.5.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.7|ReBBA.LIC.5.7","Value":null}
+    },
+    {
+        "Description": "Changes related to past service",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.8|ReBBA.ICL.5.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.8|ReBBA.DCF.5.8","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.8|ReBBA.CSM.5.8","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.8|ReBBA.RA.5.8","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.8|ReBBA.LC.5.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.8|ReBBA.LIC.5.8","Value":null}
+    },
+    {
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.9|ReBBA.ICL.5.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.9|ReBBA.DCF.5.9","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.9|ReBBA.CSM.5.9","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.9|ReBBA.RA.5.9","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.9|ReBBA.LC.5.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.9|ReBBA.LIC.5.9","Value":null}
+    },
+    {
+        "Description": "PAA: amortised insurance acquisition",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.10|ReBBA.ICL.5.10","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.10|ReBBA.DCF.5.10","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.10|ReBBA.CSM.5.10","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.10|ReBBA.RA.5.10","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.10|ReBBA.LC.5.10","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.10|ReBBA.LIC.5.10","Value":null}
+    },
+    {
+        "Description": "Losses (reversals) on onerous groups",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.5.11|ReBBA.ICL.5.11","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.5.11|ReBBA.DCF.5.11","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.5.11|ReBBA.CSM.5.11","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.5.11|ReBBA.RA.5.11","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.5.11|ReBBA.LC.5.11","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.5.11|ReBBA.LIC.5.11","Value":null}
+    },
+    {
+        "Description": "Maturing portfolio adjustment",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.6|ReBBA.ICL.6","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.6|ReBBA.DCF.6","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.6|ReBBA.CSM.6","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.6|ReBBA.RA.6","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.6|ReBBA.LC.6","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.6|ReBBA.LIC.6","Value":null}
+    },
+    {
+        "Description": "CLOSING (adjusted rates)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.7|ReBBA.ICL.7","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.7|ReBBA.DCF.7","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.7|ReBBA.CSM.7","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.7|ReBBA.RA.7","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.7|ReBBA.LC.7","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.7|ReBBA.LIC.7","Value":null}
+    },
+    {
+        "Description": "Change in financial assumptions through OCI",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.8|ReBBA.ICL.8","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.8|ReBBA.DCF.8","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.8|ReBBA.CSM.8","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.8|ReBBA.RA.8","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.8|ReBBA.LC.8","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.8|ReBBA.LIC.8","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract assets",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.8.1|ReBBA.ICL.8.1","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.8.1|ReBBA.DCF.8.1","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.8.1|ReBBA.CSM.8.1","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.8.1|ReBBA.RA.8.1","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.8.1|ReBBA.LC.8.1","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.8.1|ReBBA.LIC.8.1","Value":null}
+    },
+    {
+        "Description": "Closing insurance contract liabilities",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.8.2|ReBBA.ICL.8.2","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.8.2|ReBBA.DCF.8.2","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.8.2|ReBBA.CSM.8.2","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.8.2|ReBBA.RA.8.2","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.8.2|ReBBA.LC.8.2","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.8.2|ReBBA.LIC.8.2","Value":null}
+    },
+    {
+        "Description": "CLOSING (current rates)",
+        "Insurance Contract Liability": {"Reference":"BBA.ICL.9|ReBBA.ICL.9","Value":null},
+        "Discounted Cash Flows": {"Reference":"BBA.DCF.9|ReBBA.DCF.9","Value":null},
+        "Contractual Service Margin": {"Reference":"BBA.CSM.9|ReBBA.CSM.9","Value":null},
+        "Risk Adjustment": {"Reference":"BBA.RA.9|ReBBA.RA.9","Value":null},
+        "Loss Component": {"Reference":"BBA.LC.9|ReBBA.LC.9","Value":null},
+        "Liability for Incurred Claim": {"Reference":"BBA.LIC.9|ReBBA.LIC.9","Value":null}
+    }
+]

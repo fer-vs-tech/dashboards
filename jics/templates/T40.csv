@@ -1,0 +1,44 @@
+﻿所要資本の要約,所要資本の要約,ベース純資産 （再保険控除後）,ストレス後純資産 （再保険控除後）,所要資本 （マネジメント・アクション考慮前）,マネジメント・アクションの効果,所要資本 （マネジメント・アクション考慮後）,採用された シナリオ
+,T40,[1],[2],[3],[4],[5],[6]
+解約・失効リスク,[1],,,dNAV_Lapse_wo_MA,MA_Effect_Lapse,dNAV_Lapse,
+欧州経済領域（EEA）およびスイス,[2],,,dNAV_Lapse_EEA_CHE_wo_MA,MA_Effect_Lapse_EEA_CHE,dNAV_Lapse_EEA_CHE,Scenario_Lapse_EEA_CHE
+    米国およびカナダ,[3],,,dNAV_Lapse_USA_CAN_wo_MA,MA_Effect_Lapse_USA_CAN,dNAV_Lapse_USA_CAN,Scenario_Lapse_USA_CAN
+    中国,[4],,,dNAV_Lapse_CHN_wo_MA,MA_Effect_Lapse_CHN,dNAV_Lapse_CHN,Scenario_Lapse_CHN
+    日本,[5],,,dNAV_Lapse_JPN_wo_MA,MA_Effect_Lapse_JPN,dNAV_Lapse_JPN,Scenario_Lapse_JPN
+    その他先進国市場,[6],,,dNAV_Lapse_DM_wo_MA,MA_Effect_Lapse_DM,dNAV_Lapse_DM,Scenario_Lapse_DM
+    その他新興市場,[7],,,dNAV_Lapse_EM_wo_MA,MA_Effect_Lapse_EM,dNAV_Lapse_EM,Scenario_Lapse_EM
+水準およびトレンドの要素,[8],,,dNAV_Lapse_LT_wo_MA,MA_Effect_Lapse_LT,dNAV_Lapse_LT,
+    欧州経済領域（EEA）およびスイス,[9],NAV_Lapse_Base_LT_EEA_CHE,NAV_Lapse_LT_EEA_CHE_wo_MA,dNAV_Lapse_LT_EEA_CHE_wo_MA,MA_Effect_Lapse_LT_EEA_CHE,dNAV_Lapse_LT_EEA_CHE,
+    米国およびカナダ,[10],NAV_Lapse_Base_LT_USA_CAN,NAV_Lapse_LT_USA_CAN_wo_MA,dNAV_Lapse_LT_USA_CAN_wo_MA,MA_Effect_Lapse_LT_USA_CAN,dNAV_Lapse_LT_USA_CAN,
+    中国,[11],NAV_Lapse_Base_LT_CHN,NAV_Lapse_LT_CHN_wo_MA,dNAV_Lapse_LT_CHN_wo_MA,MA_Effect_Lapse_LT_CHN,dNAV_Lapse_LT_CHN,
+    日本,[12],NAV_Lapse_Base_LT_JPN,NAV_Lapse_LT_JPN_wo_MA,dNAV_Lapse_LT_JPN_wo_MA,MA_Effect_Lapse_LT_JPN,dNAV_Lapse_LT_JPN,
+    その他先進国市場,[13],NAV_Lapse_Base_LT_DM,NAV_Lapse_LT_DM_wo_MA,dNAV_Lapse_LT_DM_wo_MA,MA_Effect_Lapse_LT_DM,dNAV_Lapse_LT_DM,
+    その他新興市場,[14],NAV_Lapse_Base_LT_EM,NAV_Lapse_LT_EM_wo_MA,dNAV_Lapse_LT_EM_wo_MA,MA_Effect_Lapse_LT_EM,dNAV_Lapse_LT_EM,
+大量解約の要素,[15],,,dNAV_Lapse_Mass_wo_MA,MA_Effect_Lapse_Mass,dNAV_Lapse_Mass,
+    欧州経済領域（EEA）およびスイス,[16],NAV_Lapse_Base_Mass_EEA_CHE,NAV_Lapse_Mass_EEA_CHE_wo_MA,dNAV_Lapse_Mass_EEA_CHE_wo_MA,MA_Effect_Lapse_Mass_EEA_CHE,dNAV_Lapse_Mass_EEA_CHE,
+    米国およびカナダ,[17],NAV_Lapse_Base_Mass_USA_CAN,NAV_Lapse_Mass_USA_CAN_wo_MA,dNAV_Lapse_Mass_USA_CAN_wo_MA,MA_Effect_Lapse_Mass_USA_CAN,dNAV_Lapse_Mass_USA_CAN,
+    中国,[18],NAV_Lapse_Base_Mass_CHN,NAV_Lapse_Mass_CHN_wo_MA,dNAV_Lapse_Mass_CHN_wo_MA,MA_Effect_Lapse_Mass_CHN,dNAV_Lapse_Mass_CHN,
+    日本,[19],NAV_Lapse_Base_Mass_JPN,NAV_Lapse_Mass_JPN_wo_MA,dNAV_Lapse_Mass_JPN_wo_MA,MA_Effect_Lapse_Mass_JPN,dNAV_Lapse_Mass_JPN,
+    その他先進国市場,[20],NAV_Lapse_Base_Mass_DM,NAV_Lapse_Mass_DM_wo_MA,dNAV_Lapse_Mass_DM_wo_MA,MA_Effect_Lapse_Mass_DM,dNAV_Lapse_Mass_DM,
+    その他新興市場,[21],NAV_Lapse_Base_Mass_EM,NAV_Lapse_Mass_EM_wo_MA,dNAV_Lapse_Mass_EM_wo_MA,MA_Effect_Lapse_Mass_EM,dNAV_Lapse_Mass_EM,
+大量解約の要素（追加情報①）,[22],,,,,,
+    欧州経済領域（EEA）およびスイス,[23],,,,,,
+    米国およびカナダ,[24],,,,,,
+    中国,[25],,,,,,
+    日本,[26],,,,,,
+    その他先進国市場,[27],,,,,,
+    その他新興市場,[28],,,,,,
+大量解約の要素（追加情報②）,[29],,,,,,
+    欧州経済領域（EEA）およびスイス,[30],,,,,,
+    米国およびカナダ,[31],,,,,,
+    中国,[32],,,,,,
+    日本,[33],,,,,,
+    その他先進国市場,[34],,,,,,
+    その他新興市場,[35],,,,,,
+大量解約の要素（追加情報③）,[36],,,,,,
+    欧州経済領域（EEA）およびスイス,[37],,,,,,
+    米国およびカナダ,[38],,,,,,
+    中国,[39],,,,,,
+    日本,[40],,,,,,
+    その他先進国市場,[41],,,,,,
+    その他新興市場,[42],,,,,,

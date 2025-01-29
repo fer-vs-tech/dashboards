@@ -1,0 +1,121 @@
+﻿ASSETS,group_row_hidden,T-GAAP,IFRS17
+ASSETS,1,,
+Cash and cash equivalent,1," 215,080,865 "," 215,080,865 "
+Cash on hand,," 343,076 "," 343,076 "
+Deposit at financial institutions without fixed maturity date,," 214,737,789 "," 214,737,789 "
+Premium receivables,1," 152,893,489 "," 152,893,489 "
+Short-term receivables,," 4,726,890 "," 4,726,890 "
+Long-term receivables,," 148,321,513 "," 148,321,513 "
+Less Allowance for doubtful accounts,," (154,914)"," (154,914)"
+Accrued investment income,1," 164,426,644 "," 164,426,644 "
+Reinsurance assets,1," 62,113,014 ", -   
+Claim reserve,," 11,540,111 ", -   
+Premium reserve - unearned premium reserve,," 50,572,903 ", -   
+Amount due from reinsurers,1," 15,310,957 "," 15,310,957 "
+Investment assets,1," 28,970,361,520 "," 28,822,898,988 "
+Investment in securities,," 28,822,898,988 "," 28,822,898,988 "
+Held-for-trading investments,," 152,471,175 "," 152,471,175 "
+Available-for-sale investments,," 28,576,989,839 "," 28,576,989,839 "
+Held-to-maturity investments,," 85,265,174 "," 85,265,174 "
+General investments,," 8,172,800 "," 8,172,800 "
+Loans,," 147,462,532 ", -   
+Leasehold improvement and equipment,1," 43,721,666 "," 43,721,666 "
+Cost,," 104,733,099 "," 104,733,099 "
+Less Accumulated depreciation,," (61,011,433)"," (61,011,433)"
+Intangible assets,1," 123,619,080 "," 123,619,080 "
+Cost,," 152,789,494 "," 152,789,494 "
+Less Accumulated depreciation,," (29,170,414)"," (29,170,414)"
+Deferred tax assets,1," 76,186,877 "," 76,186,877 "
+Deferred tax assets,," 299,979,623 "," 299,979,623 "
+Deferred tax liabilities,," (223,792,746)",
+Other assets,1," 24,762,877 "," 24,762,877 "
+Prepaid expenses,," 13,731,916 "," 13,731,916 "
+Deposits,," 8,555,439 "," 8,555,439 "
+Others,," 2,475,522 "," 2,475,522 "
+INSURANCE CONTRACT ASSETS,1, -   ," (1,096,047,383)"
+ARC Ceding,1, -   ," (1,096,047,383)"
+ARC Ceding BEL,, -   ,
+ARC Ceding RA,, -   ,
+ARC Ceding Credit Loss BEL,, -   ,
+ARC Ceding CSM,, -   ,
+AIC Ceding,1,, -   
+ARC Reinsurance,1,, -   
+AIC Reinsurance,1,, -   
+TOTAL ASSETS,2," 29,848,476,989 "," 28,542,854,060 "
+LIABILITIES AND OWNERS' EQUITY,2,,
+LIABILITIES,1,,
+Insurance liabilities,1," 22,916,458,707 ", -   
+Long-tem insurance contract reserve,," 22,657,777,182 ", -   
+Claim reserve,," 40,986,107 ", -   
+Reserves for incurred and reported,," 17,804,570 ", -   
+Reserves for claim (IBNR),," 23,181,537 ", -   
+Premium reserve,," 89,732,853 ", -   
+Unearned premium reserve,," 89,732,853 ", -   
+Unpaid policy benefits,," 46,367,447 ", -   
+Other insurance liabilities,," 81,595,118 ", -   
+Amount due to reinsurers,1," 50,636,654 "," 50,636,654 "
+Income tax payable,1," 468,828,629 "," 468,828,629 "
+Employee benefit obligations,1," 52,535,121 "," 52,535,121 "
+Short-term employee benefit obligations,," 22,110,933 "," 22,110,933 "
+Post-employment benefit obligations,," 30,424,188 "," 30,424,188 "
+Deferred tax liabilities,1, -   ," 15,299,979,047 "
+Deferred tax assets,," (299,979,623)"," (299,979,623)"
+Deferred tax liabilities,," 223,792,746 "," 15,599,958,670 "
+T-GAAP balance,," 223,792,746 "," 223,792,746 "
+IFRS17 adjustments,, -   ," 4,533,179,411 "
+AOCI LRC deferred tax,, -   ," (3,840,354,205)"
+AOCI reinsurance LRC deferred tax,, -   ," 11,644,917 "
+Corporate income tax,, - ," 14,671,695,802 "
+Finance lease liabilities,1," 1,414,411 "," 1,414,411 "
+The minimum amount to be paid in the future,," 1,904,693 "," 1,904,693 "
+Less Future finance charges,," (490,282)"," (490,282)"
+Other liabilities,1," 373,770,334 "," 373,770,334 "
+Accrued commission,," 89,135,724 "," 89,135,724 "
+Payables from purchases of investment,," 22,798,979 "," 22,798,979 "
+Accrued promotion expenses,," 132,609,567 "," 132,609,567 "
+Accrued expenses,," 50,495,700 "," 50,495,700 "
+Other payables,," 25,227,354 "," 25,227,354 "
+Guarantee deposit from agent,," 4,088,259 "," 4,088,259 "
+Accrued tax,," 44,474,703 "," 44,474,703 "
+Accrued other underwriting expenses,," 4,940,048 "," 4,940,048 "
+TECHNICAL RESERVES (IFRS17),1, -   ," (55,269,993,842)"
+LRC Ceding,1, -   ," (55,310,979,949)"
+LRC BEL,,," (341,552,461,009)"
+LRC RA,,," 25,152,506,463 "
+LRC CSM,,," 261,088,974,597 "
+LRC PAA,,, -   
+LIC Ceding,1, -   ," 40,986,107 "
+LIC IBNR,,," 23,181,537 "
+LIC OS RBNA,,," 17,804,570 "
+LIC Claim Payable,,, -   
+LIC Dividend Payable,,, -   
+LIC Refunds Payable,,, -   
+LIC General Payable,,, -   
+LIC Investigation Expense,,, -   
+LIC Waiver of Premium reserve,,, -   
+LRC Reinsurance,1,, -   
+LIC Reinsurance,1,, -   
+Liability of Investment contracts,1,, -   
+TOTAL LIABILITIES,2," 23,863,643,856 "," (38,946,642,769)"
+OWNERS' EQUITY,1,,
+SHARE CAPITAL,1,,
+Authorized share capital,2," 2,525,000,000 "," 2,525,000,000 "
+"2,525,000,000 ordinary shares of Baht 1 each",,, -   
+Issued and paid-up share capital,1," 1,867,837,300 "," 1,867,837,300 "
+"1,867,837,300 ordinary shares of Baht 1 each",,, -   
+PREMIUM ON ORDINARY SHARE CAPITAL,1," 1,082,786,110 "," 1,082,786,110 "
+RETAINED EARNINGS,1,,
+Appropriated,1,,
+Legal reserve,," 200,567,223 "," 200,567,223 "
+Unappropriated,1," 1,942,939,913 "," 78,762,440,764 "
+T-GAAP balance,," 1,942,939,913 "," 1,942,939,913 "
+IFRS17 adjustments (unapp.),, -   ," 18,132,717,643 "
+Net profit (loss) after tax,, - ," 58,686,783,208 "
+OTHER COMPONENTS OF EQUITY,1," 890,702,587 "," 890,702,587 "
+ACCUMULATED OCI,1, - ," (15,314,837,155)"
+AOCI LRC before tax,, - ," (15,361,416,821)"
+AOCI LIC,, - , -   
+AOCI reinsurance LRC before tax,, -   ," 46,579,666 "
+AOCI reinsurance LIC,, -   , -   
+TOTAL OWNERS' EQUITY,2,5984833133,67489496829
+TOTAL LIABILITIES AND OWNERS' EQUITY,2,29848476989,28542854060

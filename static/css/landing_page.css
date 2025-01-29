@@ -1,0 +1,126 @@
+body {
+    font-family: 'Arial';
+    font-size: 14px;
+    color: #FFFFFF;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background: #2741BC;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 120px;
+    width: 926.87px;
+    height: 415.7px;
+}
+
+.left-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 420px;
+    height: 317px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+}
+
+.right-panel {
+    margin-top: 10px;
+    /* width: 386.87px;
+    height: 100%; */
+}
+
+.title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.055em;
+    text-transform: uppercase;
+    width: 340px;
+}
+
+.break-line {
+    border-top: 1px solid #FFFFFF;
+    width: 315px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    width: 267px;
+}
+
+.illustration {
+    width: 386.87px;
+    height: 415px;
+    filter: drop-shadow(0px 4px 16px rgba(11, 28, 107, 0.5));
+}
+
+.logo {
+    width: 100px;
+    height: 33px;
+    position: absolute;
+    right: 55px;
+    bottom: 44px;
+}
+
+.version {
+    padding-top: 24px;
+    font-size: 16px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 28px;
+    font-size: 16px;
+}
+
+/* Media query for smaller screens, hide right panel */
+@media screen and (max-width: 992px) {
+    .content {
+        flex-direction: column;
+        gap: 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .left-panel {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .right-panel {
+        display: none;
+    }
+}

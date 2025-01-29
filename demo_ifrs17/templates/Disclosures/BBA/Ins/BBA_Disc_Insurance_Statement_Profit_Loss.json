@@ -1,0 +1,212 @@
+[
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "HEADER_01",
+        "Description": "Statement of Profit & Loss",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.1",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Insurance service result",
+        "Reference": "BBA_D.PL.1.1|BBA_D.PL.1.2",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance revenue",
+        "Reference": "BBA.KEY.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance service expense",
+        "Reference": "BBA.KEY.2",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Net income or expense from reinsurance contracts held",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.2",
+        "Level": "1",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Financial insurance result",
+        "Reference": "BBA_D.PL.2.1|BBA_D.PL.2.2",
+        "Ref_Type": "Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.2.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Investment income",
+        "Reference": "BBA.KEY.3",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.2.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses",
+        "Reference": "BBA.KEY.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.2.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Greyed",
+        "Description": "Reinsurance finance income",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.3",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "Other income and expense",
+        "Reference": "BBA.KEY.5",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.4",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold_Greyed",
+        "Description": "Income tax",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.5",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "PROFIT BEFORE TAX",
+        "Reference": "BBA.KEY.6",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL.6",
+        "Level": "1",
+        "Level_Calc": "",
+        "Record_Type": "Header_Bold",
+        "Description": "PROFIT AFTER TAX",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "",
+        "Level": "",
+        "Level_Calc": "",
+        "Record_Type": "Sub_Header2",
+        "Description": "ALTERNATIVE PRESENTATION",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.1",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes related to current service",
+        "Reference": "(-)BBA_D.ICL_B.3.1|BBA.ICL.5.7",
+        "Ref_Type": "Sum_Disc_Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.2",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes related to past service",
+        "Reference": "-BBA.CFS.17.1",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.3",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Changes related to future service: loss on onerous groups",
+        "Reference": "(-)BBA_D.ICL_A.3.2.4|BBA.MISC.1.16|BBA_D.LR_A.3.2",
+        "Ref_Type": "Sum_Disc_Local",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.4",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Effect of changes in the risk of non-performance (Reins Only)",
+        "Reference": "",
+        "Ref_Type": "",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.5",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Insurance finance expenses",
+        "Reference": "BBA.KEY.4",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.6",
+        "Level": "2",
+        "Level_Calc": "",
+        "Record_Type": "Item",
+        "Description": "Other Expenses & Investment Income",
+        "Reference": "BBA.KEY.5|BBA.KEY.3",
+        "Ref_Type": "Sum_External",
+        "Value": null
+    },
+    {
+        "RNA_Disc_Code": "BBA_D.PL_Alt.1.7",
+        "Level": "2",
+        "Level_Calc": "1",
+        "Record_Type": "Header_Bold",
+        "Description": "Profit",
+        "Reference": "BBA_D.PL_Alt.1.1|BBA_D.PL_Alt.1.2|BBA_D.PL_Alt.1.3|BBA_D.PL_Alt.1.4|BBA_D.PL_Alt.1.5|BBA_D.PL_Alt.1.6",
+        "Ref_Type": "Local",
+        "Value": null
+    }
+]

@@ -1,0 +1,1972 @@
+[
+    {
+        "Var ID": "BBA_Accumulated_CF_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_CF_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_CF_Recognised_In_OCI_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_CF_Recognised_In_OCI_Reins_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_CF_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_CF_Recognised_In_OCI_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_CF_Recognised_In_OCI_Reins_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_RA_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_RA_Recognised_In_OCI_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_LIC_RA_Recognised_In_OCI_Reins_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_RA_Recognised_In_OCI",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_RA_Recognised_In_OCI_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_RA_Recognised_In_OCI_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Accumulated_RA_Recognised_In_OCI_Reins_Opening",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Amortized_DAC",
+        "RNA BS Code": "BBA.MISC.1.21",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance",
+        "RNA BS Code": "BBA.MISC.1.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance_Opening",
+        "RNA BS Code": "BBA.MISC.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance_Opening_Asset",
+        "RNA BS Code": "BBA.MISC.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance_Reins",
+        "RNA BS Code": "ReBBA.MISC.1.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance_Reins_Opening",
+        "RNA BS Code": "ReBBA.MISC.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_Balance_Reins_Opening_Asset",
+        "RNA BS Code": "ReBBA.MISC.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_This_Year",
+        "RNA BS Code": "BBA.MISC.1.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_This_Year_Asset",
+        "RNA BS Code": "BBA.MISC.1.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_This_Year_Reins",
+        "RNA BS Code": "ReBBA.MISC.1.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Cash_This_Year_Reins_Asset",
+        "RNA BS Code": "ReBBA.MISC.1.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Benefit_Proj_Last",
+        "RNA BS Code": "BBA.CFS.16",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Benefit_Reinsurance_Proj_Last",
+        "RNA BS Code": "ReBBA.CFS.16",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Benefit_Reinsurance_Total",
+        "RNA BS Code": "ReBBA.CFS.15",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Benefit_Total",
+        "RNA BS Code": "BBA.CFS.15",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Comm_Reinsurance_Proj_Last",
+        "RNA BS Code": "ReBBA.CFS.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Comm_Reinsurance_Total",
+        "RNA BS Code": "ReBBA.ICL.4.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Directly_Attributable",
+        "RNA BS Code": "BBA.KEY.6.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Directly_Attributable_CSM",
+        "RNA BS Code": "BBA.CSM.4.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Directly_Attributable_DiscCF",
+        "RNA BS Code": "BBA.DCF.4.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Directly_Attributable_LossComp",
+        "RNA BS Code": "BBA.LC.4.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Directly_Attributable_Proj_Last",
+        "RNA BS Code": "BBA.CFS.12",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Non_Directly_Attributable",
+        "RNA BS Code": "BBA.KEY.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Non_Directly_Attributable_Proj_Last",
+        "RNA BS Code": "BBA.CFS.14",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Expense_Non_Directly_Attributable_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Proj_Last",
+        "RNA BS Code": "BBA.CFS.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Reinsurance_Proj_Last",
+        "RNA BS Code": "ReBBA.CFS.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Reinsurance_Total",
+        "RNA BS Code": "ReBBA.ICL.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Total",
+        "RNA BS Code": "BBA.ICL.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Total_CSM",
+        "RNA BS Code": "BBA.CSM.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Total_DiscCF",
+        "RNA BS Code": "BBA.DCF.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Premium_Total_LossComp",
+        "RNA BS Code": "BBA.LC.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_recognised_in_OCI",
+        "RNA BS Code": "BBA.DCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Recognised_In_OCI_Cash",
+        "RNA BS Code": "BBA.MISC.1.20",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_recognised_in_OCI_Part_A",
+        "RNA BS Code": "BBA.KEY.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_recognised_in_OCI_Part_B",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Recognised_in_OCI_Reins",
+        "RNA BS Code": "ReBBA.DCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Recognised_in_OCI_Reins_Part_A",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_CF_Recognised_in_OCI_Reins_Part_B",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_DiscCF",
+        "RNA BS Code": "BBA.MISC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_IBNR",
+        "RNA BS Code": "BBA.ICL.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_IBNR_excRA",
+        "RNA BS Code": "BBA.LICDCF.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_LossComp",
+        "RNA BS Code": "BBA.MISC.1.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.MISC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_Reins_IBNR",
+        "RNA BS Code": "ReBBA.ICL.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_Claims_Reins_IBNR_excRA",
+        "RNA BS Code": "ReBBA.LICDCF.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_RA_Release_DiscCF",
+        "RNA BS Code": "BBA.MISC.1.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_RA_Release_LossComp",
+        "RNA BS Code": "BBA.MISC.1.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_RA_Release_RA",
+        "RNA BS Code": "BBA.MISC.1.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_RA_Release_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.MISC.1.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Current_Service_RA_Release_Reins_RA",
+        "RNA BS Code": "ReBBA.MISC.1.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_CSM",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_CSM_A",
+        "RNA BS Code": "BBA.CSM.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_CSM_B",
+        "RNA BS Code": "BBA.CSM.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_DiscCF",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_DiscCF_A",
+        "RNA BS Code": "BBA.DCF.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_DiscCF_B",
+        "RNA BS Code": "BBA.DCF.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_FCF_IFE",
+        "RNA BS Code": "BBA.MISC.1.19",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_LossComp",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_LossComp_A",
+        "RNA BS Code": "BBA.LC.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_LossComp_B",
+        "RNA BS Code": "BBA.LC.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus",
+        "RNA BS Code": "BBA.ICL.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_CSM",
+        "RNA BS Code": "BBA.CSM.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_DiscCF",
+        "RNA BS Code": "BBA.DCF.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_LossComp",
+        "RNA BS Code": "BBA.LC.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_RA",
+        "RNA BS Code": "BBA.RA.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_Reins",
+        "RNA BS Code": "ReBBA.ICL.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_NewBus_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_RA",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_RA_A",
+        "RNA BS Code": "BBA.RA.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_RA_B",
+        "RNA BS Code": "BBA.RA.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_CSM",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_CSM_A",
+        "RNA BS Code": "ReBBA.CSM.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_CSM_B",
+        "RNA BS Code": "ReBBA.CSM.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_DiscCF",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_DiscCF_A",
+        "RNA BS Code": "ReBBA.DCF.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_DiscCF_B",
+        "RNA BS Code": "ReBBA.DCF.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_RA",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_RA_A",
+        "RNA BS Code": "ReBBA.RA.5.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Future_Services_Reins_RA_B",
+        "RNA BS Code": "ReBBA.RA.5.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_Fair_Value",
+        "RNA BS Code": "BBA.ICL.4.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_Fair_Value_CSM",
+        "RNA BS Code": "BBA.CSM.4.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_Fair_Value_DiscCF",
+        "RNA BS Code": "BBA.DCF.4.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_Fair_Value_LossComp",
+        "RNA BS Code": "BBA.LC.4.10",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_Non_Performance_Risk_Reins",
+        "RNA BS Code": "ReBBA.DCF.5.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_OCI",
+        "RNA BS Code": "BBA.ICL.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_In_OCI_Reins",
+        "RNA BS Code": "ReBBA.ICL.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Past_Service_LIC",
+        "RNA BS Code": "BBA.ICL.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Past_Service_LIC_excRA",
+        "RNA BS Code": "BBA.LICDCF.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Past_Service_Reins_LIC",
+        "RNA BS Code": "ReBBA.ICL.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Change_Past_Service_Reins_LIC_excRA",
+        "RNA BS Code": "ReBBA.LICDCF.5.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin",
+        "RNA BS Code": "BBA.CSM.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Asset",
+        "RNA BS Code": "BBA.CSM.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Opening",
+        "RNA BS Code": "BBA.CSM.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Opening_Asset",
+        "RNA BS Code": "BBA.CSM.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins",
+        "RNA BS Code": "ReBBA.CSM.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Asset",
+        "RNA BS Code": "ReBBA.CSM.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Opening",
+        "RNA BS Code": "ReBBA.CSM.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Opening_Asset",
+        "RNA BS Code": "ReBBA.CSM.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_1",
+        "RNA BS Code": "ReBBA.CSMr.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_10",
+        "RNA BS Code": "ReBBA.CSMr.1.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_2",
+        "RNA BS Code": "ReBBA.CSMr.1.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_20",
+        "RNA BS Code": "ReBBA.CSMr.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_3",
+        "RNA BS Code": "ReBBA.CSMr.1.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_5",
+        "RNA BS Code": "ReBBA.CSMr.1.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Reins_Release_99",
+        "RNA BS Code": "ReBBA.CSMr.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_1",
+        "RNA BS Code": "BBA.CSMr.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_10",
+        "RNA BS Code": "BBA.CSMr.1.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_2",
+        "RNA BS Code": "BBA.CSMr.1.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_20",
+        "RNA BS Code": "BBA.CSMr.1.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_3",
+        "RNA BS Code": "BBA.CSMr.1.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_5",
+        "RNA BS Code": "BBA.CSMr.1.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Contractual_Service_Margin_Release_99",
+        "RNA BS Code": "BBA.CSMr.1.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_DAC_Initial_Adj",
+        "RNA BS Code": "BBA.MISC.1.23",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF",
+        "RNA BS Code": "BBA.DCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Adj_Proj",
+        "RNA BS Code": "BBA.CFS.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Curr_DR_Proj",
+        "RNA BS Code": "BBA.CFS.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Final",
+        "RNA BS Code": "BBA.DCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Final_Asset",
+        "RNA BS Code": "BBA.DCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Final_Opening",
+        "RNA BS Code": "BBA.DCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Final_Opening_Asset",
+        "RNA BS Code": "BBA.DCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Opening",
+        "RNA BS Code": "BBA.DCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Orig_DR_Proj",
+        "RNA BS Code": "BBA.CFS.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reins_Final_Opening",
+        "RNA BS Code": "ReBBA.DCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reins_Opening",
+        "RNA BS Code": "ReBBA.DCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reins_Final_Opening_Asset",
+        "RNA BS Code": "ReBBA.DCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reinsurance",
+        "RNA BS Code": "ReBBA.DCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reinsurance_Final_Asset",
+        "RNA BS Code": "ReBBA.DCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reinsurance_Curr_DR_Proj",
+        "RNA BS Code": "ReBBA.CFS.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reinsurance_Final",
+        "RNA BS Code": "ReBBA.DCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_CF_Reinsurance_Orig_DR_Proj",
+        "RNA BS Code": "ReBBA.CFS.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_Time_Value_Curr_DR",
+        "RNA BS Code": "BBA.CFS.2.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_Time_Value_Orig_DR",
+        "RNA BS Code": "BBA.CFS.2.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_Time_Value_Reins_Curr_DR",
+        "RNA BS Code": "ReBBA.CFS.2.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Disc_Time_Value_Reins_Orig_DR",
+        "RNA BS Code": "ReBBA.CFS.2.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service",
+        "RNA BS Code": "BBA.CFS.17.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Ben_A",
+        "RNA BS Code": "BBA.CFS.15.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Ben_B",
+        "RNA BS Code": "BBA.CFS.15.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Ben_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.15.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Ben_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.15.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Comm_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Comm_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.9.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Comm_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.9.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Exp_A",
+        "RNA BS Code": "BBA.CFS.11.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Exp_B",
+        "RNA BS Code": "BBA.CFS.11.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_NDA_Exp_A",
+        "RNA BS Code": "BBA.CFS.13.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_NDA_Exp_B",
+        "RNA BS Code": "BBA.CFS.13.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem_A",
+        "RNA BS Code": "BBA.CFS.7.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem_B",
+        "RNA BS Code": "BBA.CFS.7.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.7.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Prem_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.7.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Current_Service_Reins",
+        "RNA BS Code": "ReBBA.CFS.17.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service",
+        "RNA BS Code": "BBA.CFS.17.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben",
+        "RNA BS Code": "BBA.CSM.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben_A",
+        "RNA BS Code": "BBA.CFS.15.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben_B",
+        "RNA BS Code": "BBA.CFS.15.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben_Reins",
+        "RNA BS Code": "ReBBA.CSM.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.15.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Ben_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.15.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Comm_Reins",
+        "RNA BS Code": "ReBBA.CSM.4.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Comm_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.9.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Comm_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.9.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Exp_A",
+        "RNA BS Code": "BBA.CFS.11.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Exp_B",
+        "RNA BS Code": "BBA.CFS.11.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Prem_A",
+        "RNA BS Code": "BBA.CFS.7.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Prem_B",
+        "RNA BS Code": "BBA.CFS.7.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Prem_Reins",
+        "RNA BS Code": "ReBBA.CSM.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Prem_Reins_A",
+        "RNA BS Code": "ReBBA.CFS.7.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Prem_Reins_B",
+        "RNA BS Code": "ReBBA.CFS.7.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Future_Service_Reins",
+        "RNA BS Code": "ReBBA.CFS.17.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_FX",
+        "RNA BS Code": "BBA.ICL.5.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_FX_Reins",
+        "RNA BS Code": "ReBBA.ICL.5.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_InvComp",
+        "RNA BS Code": "BBA.CFS.15.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_InvComp_Reins",
+        "RNA BS Code": "ReBBA.CFS.15.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service",
+        "RNA BS Code": "BBA.CFS.17.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_LIC_Incur",
+        "RNA BS Code": "BBA.CFS.20.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_LIC_Paid",
+        "RNA BS Code": "BBA.CFS.18.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_LIC_RA",
+        "RNA BS Code": "BBA.CFS.22.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_Reins",
+        "RNA BS Code": "ReBBA.CFS.17.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_Reins_LIC_Incur",
+        "RNA BS Code": "ReBBA.CFS.20.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_Reins_LIC_Paid",
+        "RNA BS Code": "ReBBA.CFS.18.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Experience_Adj_Past_Service_Reins_LIC_RA",
+        "RNA BS Code": "ReBBA.CFS.22.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Fair_Value_Transition",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Fair_Value_Transition_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Fulfilment_Cash_Flows",
+        "RNA BS Code": "BBA.CFS.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Fulfilment_Cash_Flows_Reins",
+        "RNA BS Code": "ReBBA.CFS.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Inc_In_DAC",
+        "RNA BS Code": "BBA.MISC.1.22",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Income_Proj_All",
+        "RNA BS Code": "BBA.CFS.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Income_Reins_Proj_All",
+        "RNA BS Code": "ReBBA.CFS.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Incurred_Claims",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Incurred_Claims_and_Expenses_Reins",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability",
+        "RNA BS Code": "BBA.ICL.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Final",
+        "RNA BS Code": "BBA.ICL.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Final_Asset",
+        "RNA BS Code": "BBA.ICL.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Final_Opening",
+        "RNA BS Code": "BBA.ICL.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Final_Opening_Asset",
+        "RNA BS Code": "BBA.ICL.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Opening",
+        "RNA BS Code": "BBA.ICL.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins",
+        "RNA BS Code": "ReBBA.ICL.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins_Final_Asset",
+        "RNA BS Code": "ReBBA.ICL.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins_Final",
+        "RNA BS Code": "ReBBA.ICL.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins_Final_Opening",
+        "RNA BS Code": "ReBBA.ICL.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins_Opening",
+        "RNA BS Code": "ReBBA.ICL.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Liability_Reins_FinalOpen_Asset",
+        "RNA BS Code": "ReBBA.ICL.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue",
+        "RNA BS Code": "BBA.ICL.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_CSM",
+        "RNA BS Code": "BBA.CSM.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_DiscCF",
+        "RNA BS Code": "BBA.DCF.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_LossComp",
+        "RNA BS Code": "BBA.LC.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_RA",
+        "RNA BS Code": "BBA.RA.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_Reins",
+        "RNA BS Code": "ReBBA.ICL.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Contract_Revenue_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.5.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses",
+        "RNA BS Code": "BBA.KEY.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_CSM",
+        "RNA BS Code": "BBA.CSM.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_DiscCF",
+        "RNA BS Code": "BBA.DCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_IncClaim",
+        "RNA BS Code": "BBA.LICDCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_LossComp",
+        "RNA BS Code": "BBA.LC.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_RA",
+        "RNA BS Code": "BBA.RA.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_Reins",
+        "RNA BS Code": "ReBBA.KEY.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_Reins_IncClaim",
+        "RNA BS Code": "ReBBA.LICDCF.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Finance_Expenses_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.4.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Revenue",
+        "RNA BS Code": "BBA.KEY.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Revenue_Reins",
+        "RNA BS Code": "ReBBA.KEY.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Expenses",
+        "RNA BS Code": "BBA.KEY.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Expenses_Reins",
+        "RNA BS Code": "ReBBA.KEY.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result",
+        "RNA BS Code": "BBA.ICL.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_CSM",
+        "RNA BS Code": "BBA.CSM.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_DiscCF",
+        "RNA BS Code": "BBA.DCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_IncClaim",
+        "RNA BS Code": "BBA.LIC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "BBA.LICDCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_LossComp",
+        "RNA BS Code": "BBA.LC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_RA",
+        "RNA BS Code": "BBA.RA.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins",
+        "RNA BS Code": "ReBBA.ICL.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins_IncClaim",
+        "RNA BS Code": "ReBBA.LIC.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins_IncClaimNRA",
+        "RNA BS Code": "ReBBA.LICDCF.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Insurance_Service_Related_Result_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.5",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Assets_Balance",
+        "RNA BS Code": "BBA.MISC.1.12",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Assets_Balance_Opening",
+        "RNA BS Code": "BBA.MISC.1.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component",
+        "RNA BS Code": "BBA.ICL.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_CSM",
+        "RNA BS Code": "BBA.CSM.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_DiscCF",
+        "RNA BS Code": "BBA.DCF.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_IncClaim",
+        "RNA BS Code": "BBA.LICDCF.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_LossComp",
+        "RNA BS Code": "BBA.LC.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_Reins",
+        "RNA BS Code": "ReBBA.ICL.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Component_Reins_IncClaim",
+        "RNA BS Code": "ReBBA.LICDCF.5.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Investment_Income",
+        "RNA BS Code": "BBA.KEY.3",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA",
+        "RNA BS Code": "BBA.LICDCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Final",
+        "RNA BS Code": "BBA.LICDCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Final_Asset",
+        "RNA BS Code": "BBA.LICDCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Final_Opening",
+        "RNA BS Code": "BBA.LICDCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Final_Opening_Asset",
+        "RNA BS Code": "BBA.LICDCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Opening",
+        "RNA BS Code": "BBA.LICDCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_excRA_Proj_Last",
+        "RNA BS Code": "BBA.CFS.21",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_CS_excRA_Proj",
+        "RNA BS Code": "BBA.CFS.20.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA",
+        "RNA BS Code": "ReBBA.LICDCF.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Final",
+        "RNA BS Code": "ReBBA.LICDCF.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Final_Asset",
+        "RNA BS Code": "ReBBA.LICDCF.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Final_Opening",
+        "RNA BS Code": "ReBBA.LICDCF.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Finopen_Asset",
+        "RNA BS Code": "ReBBA.LICDCF.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Opening",
+        "RNA BS Code": "ReBBA.LICDCF.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_excRA_Proj_Last",
+        "RNA BS Code": "ReBBA.CFS.21",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claim_Reins_CS_excRA_Proj",
+        "RNA BS Code": "ReBBA.CFS.20.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims",
+        "RNA BS Code": "BBA.LIC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Final",
+        "RNA BS Code": "BBA.LIC.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Final_Asset",
+        "RNA BS Code": "BBA.LIC.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Final_Opening",
+        "RNA BS Code": "BBA.LIC.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Final_Opening_Asset",
+        "RNA BS Code": "BBA.LIC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Opening",
+        "RNA BS Code": "BBA.LIC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins",
+        "RNA BS Code": "ReBBA.LIC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins_Final",
+        "RNA BS Code": "ReBBA.LIC.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins_Final_Asset",
+        "RNA BS Code": "ReBBA.LIC.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins_Final_Opening",
+        "RNA BS Code": "ReBBA.LIC.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins_FinalOpen_Asset",
+        "RNA BS Code": "ReBBA.LIC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Liability_Incurred_Claims_Reins_Opening",
+        "RNA BS Code": "ReBBA.LIC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_CF_Recognised_In_OCI",
+        "RNA BS Code": "BBA.LICDCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_CF_Recognised_In_OCI_Reins",
+        "RNA BS Code": "ReBBA.LICDCF.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_RA_Recognised_In_OCI",
+        "RNA BS Code": "BBA.LICRA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_RA_Recognised_In_OCI_Reins",
+        "RNA BS Code": "ReBBA.LICRA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment",
+        "RNA BS Code": "BBA.LICRA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Final",
+        "RNA BS Code": "BBA.LICRA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Final_Asset",
+        "RNA BS Code": "BBA.LICRA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Final_Opening",
+        "RNA BS Code": "BBA.LICRA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Final_Opening_Asset",
+        "RNA BS Code": "BBA.LICRA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_CS_Proj",
+        "RNA BS Code": "BBA.LICRA.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Opening",
+        "RNA BS Code": "BBA.LICRA.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins",
+        "RNA BS Code": "ReBBA.LICRA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_Final",
+        "RNA BS Code": "ReBBA.LICRA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_Final_Asset",
+        "RNA BS Code": "ReBBA.LICRA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_Final_Opening",
+        "RNA BS Code": "ReBBA.LICRA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_Final_Opening_Asset",
+        "RNA BS Code": "ReBBA.LICRA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_CS_Proj",
+        "RNA BS Code": "ReBBA.LICRA.5.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_LIC_Risk_Adjustment_Reins_Opening",
+        "RNA BS Code": "ReBBA.LICRA.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Component",
+        "RNA BS Code": "BBA.LC.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Component_Asset",
+        "RNA BS Code": "BBA.LC.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Component_Opening",
+        "RNA BS Code": "BBA.LC.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Component_Opening_Asset",
+        "RNA BS Code": "BBA.LC.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group",
+        "RNA BS Code": "BBA.ICL.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group_CSM",
+        "RNA BS Code": "BBA.CSM.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group_DiscCF",
+        "RNA BS Code": "BBA.DCF.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group_LossComp",
+        "RNA BS Code": "BBA.LC.5.11",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group_Reins_CSM",
+        "RNA BS Code": "ReBBA.MISC.1.15",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_On_Onerous_Group_Reins_PL",
+        "RNA BS Code": "ReBBA.MISC.1.16",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Recovery_Reins",
+        "RNA BS Code": "ReBBA.MISC.1.17",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Recovery_Reins_Asset",
+        "RNA BS Code": "ReBBA.MISC.1.18",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Recovery_Reins_Opening",
+        "RNA BS Code": "ReBBA.MISC.1.13",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Loss_Recovery_Reins_Opening_Asset",
+        "RNA BS Code": "ReBBA.MISC.1.14",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj",
+        "RNA BS Code": "BBA.ICL.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_CSM",
+        "RNA BS Code": "BBA.CSM.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_DiscCF",
+        "RNA BS Code": "BBA.DCF.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_IncClaim",
+        "RNA BS Code": "BBA.LIC.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_IncClaim_excRA",
+        "RNA BS Code": "BBA.LICDCF.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_LossComp",
+        "RNA BS Code": "BBA.LC.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_RA",
+        "RNA BS Code": "BBA.RA.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins",
+        "RNA BS Code": "ReBBA.ICL.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins_IncClaim",
+        "RNA BS Code": "ReBBA.LIC.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins_IncClaim_excRA",
+        "RNA BS Code": "ReBBA.LICDCF.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Maturing_Adj_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result",
+        "RNA BS Code": "BBA.ICL.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_CSM",
+        "RNA BS Code": "BBA.CSM.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_DiscCF",
+        "RNA BS Code": "BBA.DCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_IncClaim",
+        "RNA BS Code": "BBA.LIC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_IncClaim_excRA",
+        "RNA BS Code": "BBA.LICDCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_LossComp",
+        "RNA BS Code": "BBA.LC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_RA",
+        "RNA BS Code": "BBA.RA.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins",
+        "RNA BS Code": "ReBBA.ICL.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins_CSM",
+        "RNA BS Code": "ReBBA.CSM.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins_DiscCF",
+        "RNA BS Code": "ReBBA.DCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins_IncClaim",
+        "RNA BS Code": "ReBBA.LIC.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins_IncClaim_excRA",
+        "RNA BS Code": "ReBBA.LICDCF.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Non_Insurance_Related_Result_Reins_RA",
+        "RNA BS Code": "ReBBA.RA.4",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Other_Comprehensive_Income",
+        "RNA BS Code": "BBA.KEY.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Other_Comprehensive_Income_Opening",
+        "RNA BS Code": "BBA.KEY.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Other_Comprehensive_Income_Reins",
+        "RNA BS Code": "ReBBA.KEY.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Other_Comprehensive_Income_Reins_Opening",
+        "RNA BS Code": "ReBBA.KEY.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Proj_All",
+        "RNA BS Code": "BBA.CFS.1.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Reins_Proj_All",
+        "RNA BS Code": "ReBBA.CFS.1.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Paid",
+        "RNA BS Code": "BBA.CFS.18",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Paid_Claims",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Paid_IncClaim",
+        "RNA BS Code": "BBA.LICDCF.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Paid_CS",
+        "RNA BS Code": "BBA.CFS.18.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Paid_Proj_Last",
+        "RNA BS Code": "BBA.CFS.19",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Reins_Paid",
+        "RNA BS Code": "",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Reins_Paid_IncClaim",
+        "RNA BS Code": "ReBBA.LICDCF.4.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Reins_Paid_CS",
+        "RNA BS Code": "ReBBA.CFS.18.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Reins_Paid_Proj",
+        "RNA BS Code": "ReBBA.CFS.18",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Outgo_Total_Reins_Paid_Proj_Last",
+        "RNA BS Code": "ReBBA.CFS.19",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Profit_Loss",
+        "RNA BS Code": "BBA.KEY.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Profit_Loss_Reins",
+        "RNA BS Code": "ReBBA.KEY.6",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_PV_Income_Orig_DR_Proj",
+        "RNA BS Code": "BBA.CFS.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_PV_Income_Reins_Orig_DR_Proj",
+        "RNA BS Code": "ReBBA.CFS.4.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_PV_Outgo_Orig_DR_Proj",
+        "RNA BS Code": "BBA.CFS.4.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_PV_Outgo_Reins_Orig_DR_Proj",
+        "RNA BS Code": "ReBBA.CFS.4.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_RA_Recognised_in_OCI",
+        "RNA BS Code": "BBA.RA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_RA_Recognised_in_OCI_Reins",
+        "RNA BS Code": "ReBBA.RA.8",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment",
+        "RNA BS Code": "BBA.RA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Final",
+        "RNA BS Code": "BBA.RA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Final_Asset",
+        "RNA BS Code": "BBA.RA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Final_Opening",
+        "RNA BS Code": "BBA.RA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Final_Opening_Asset",
+        "RNA BS Code": "BBA.RA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Opening",
+        "RNA BS Code": "BBA.RA.2",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins",
+        "RNA BS Code": "ReBBA.RA.7",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins_Final",
+        "RNA BS Code": "ReBBA.RA.9",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins_Final_Asset",
+        "RNA BS Code": "ReBBA.RA.8.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins_Final_Opening",
+        "RNA BS Code": "ReBBA.RA.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins_Final_Opening_Asset",
+        "RNA BS Code": "ReBBA.RA.1.1",
+        "Value": ""
+    },
+    {
+        "Var ID": "BBA_Risk_Adjustment_Reins_Opening",
+        "RNA BS Code": "ReBBA.RA.2",
+        "Value": ""
+    }
+]

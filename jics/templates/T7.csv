@@ -1,0 +1,11 @@
+﻿保険事業の所要資本の要約,保険事業の所要資本の要約,マネジメントアクション考慮後,分散効果反映後,（参考）パーセンタイルMOCE,信頼水準
+,T7,[1],[2],[3],[4]
+保険事業の所要資本（税効果考慮前）,[1],RC,,RC_Percentile,
+  マネジメント・アクションの効果の上限による影響額,[2],Effect_of_Cap_for_MA,,,
+  保険事業の所要資本（分散効果反映後、マネジメント・アクションの効果の上限考慮前）,[3],RC_bef_Limit,,,
+    生命保険リスク,[4],RC_Life,RC_Life_Aft_Diversification,RC_Life_Percentile,RC_Life_Percentile_Factor
+    損害保険リスク,[5],RC_NonLife,RC_NonLife_Aft_Diversification,RC_NonLife_Percentile,RC_NonLife_Percentile_Factor
+    巨大災害リスク,[6],RC_CAT,RC_CAT_Aft_Diversification,,
+    市場リスク,[7],RC_Market,RC_Market_Aft_Diversification,,
+    信用リスク,[8],RC_Credit,RC_Credit_Aft_Diversification,,
+    オペレーショナルリスク,[9],RC_Ops,RC_Ops_Aft_Diversification,,

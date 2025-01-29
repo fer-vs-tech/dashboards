@@ -1,0 +1,7 @@
+﻿,,익스포져,익스포져,익스포져,익스포져,익스포져,위험계수,위험계수,위험계수,
+,,보 험 료,보 험 료,보 험 료,현행추정,적용,보 험 료,보 험 료,현행추정,
+,구  분,직전1년간 납입된보험료,직전1년간 초과 납입된보험료,역외출재경과보험료,부채,익스포져,,역외출재,부채,요구자본
+생명 장기 보험,변액,,,,PELBT_EXPS_CHGA_AMT,ORSK_APPT_EXPS_CHGA_AMT,0.00%,0.00%,0.40%,ORSK_CHGA_AMT
+생명 장기 보험,퇴직,,,,PELBT_EXPS_RETI_AMT,ORSK_APPT_EXPS_RETI_AMT,0.00%,0.00%,0.30%,ORSK_RETI_AMT
+생명 장기 보험,이외,JB_Y1_PAD_PRM_GNLF_AMT,JBB_Y1_PAD_PRM_GNLF_AMT,,PELBT_EXPS_GNLF_AMT,ORSK_APPT_EXPS_GNLF_AMT,3.50%,0.00%,0.40%,ORSK_GNLF_AMT
+일반손해보험,일반손해보험,0,0,0,0,0,2.75%,0.40%,2.75%,0

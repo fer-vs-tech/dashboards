@@ -1,0 +1,15 @@
+﻿適格資本からの控除項目,適格資本からの控除項目,経済価値ベース,経済価値ベース,経済価値ベース,うち、保険事業,うち、保険事業,うち、保険事業
+,,資産,関連するDTL,DTL相殺後,資産,関連するDTL,DTL相殺後
+,T10,[1],[2],[3],[4],[5],[6]
+のれん,[1],E_A_DED_Goodwill,E_DTLDED_Goodwill,E_NetDTL_DED_Goodwill,I_A_DED_Goodwill,I_DTL_DED_Goodwill,I_NetDTL_DED_Goodwill
+退職給付に係る資産,[2],E_A_DED_RB_Assets,E_DTLDED_RB_Assets,E_NetDTL_DED_RB_Assets,I_A_DED_RB_Assets,I_DTL_DED_RB_Assets,I_NetDTL_DED_RB_Assets
+無形資産,[3],E_A_DED_IA,E_DTLDED_IA,E_NetDTL_DED_IA,I_A_DED_IA,I_DTL_DED_IA,I_NetDTL_DED_IA
+    うち、ソフトウェア以外,[4],E_A_DED_IA_excl_Soft,E_DTLDED_IA_excl_Soft,E_NetDTL_DED_IA_excl_Soft,I_A_DED_IA_excl_Soft,I_DTL_DED_IA_excl_Soft,I_NetDTL_DED_IA_excl_Soft
+    うち、ソフトウェア,[5],E_A_DED_IA_Soft,E_DTLDED_IA_Soft,E_NetDTL_DED_IA_Soft,I_A_DED_IA_Soft,I_DTL_DED_IA_Soft,I_NetDTL_DED_IA_Soft
+自己のTier1資本を人為的に増大させるように設計された金融機関同士の直接的または間接的な相互持ち合い,[6],,,DED_T1_Reciprocal_Capital,,,
+自己のTier2資本を人為的に増大させるように設計された金融機関同士の直接的または間接的な相互持ち合い,[7],,,DED_T2_Reciprocal_Capital,,,
+不適格再保険資産,[8],,,DED_NonQualifying_Reins_Assets,,,
+連結および持分法適用の範囲から除外された子会社・関連会社への投資,[9],,,DED_Excl_from_Scope_of_Group,,,
+自己のTier1資本調達手段への直接投資および間接投資,[10],,,DED_T1_Invest_in_Own_FI,,,
+    うち、自己株式,[11],,,DED_T1_Invest_TreasuryStock,,,
+    うち、自己株式以外,[12],,,DED_T1_Invest_NonTreasuryStock,,,
